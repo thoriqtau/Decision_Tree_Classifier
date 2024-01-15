@@ -1,0 +1,1001 @@
+﻿Hasil Pilkada,Jumlah Paslon,Nama Daerah,Jalur Pencalonan,Nama Kandidat (1),Nama Kandidat (2),Gender (1),Gender (2),Usia (1),Usia (2),Latar Belakang Profesi (1),Latar Belakang Profesi (2),Petahana? (1),Petahana? (2),Jumlah PARPOL Pendukung,Persentase PARPOL Pendukung,Jumlah Kursi Pendukung (DPR),Jumlah Kursi Pendukung (DPRD)
+Kalah,3,Provinsi Bengkulu,PARPOL,Helmi Hasan,Muslihan DS,L,L,41,74,SIPIL,SIPIL,0,0,3,0.250,0.179,0.222
+Menang,3,Provinsi Bengkulu,PARPOL,Rohidin Mersyah,Rosjonsyah Syahili,L,L,50,56,SIPIL,SIPIL,1,0,6,0.500,0.584,0.511
+Kalah,3,Provinsi Bengkulu,PARPOL,Agusrin Maryono Najamuddin,Imron Rosyadi,L,L,51,59,SIPIL,SIPIL,0,0,2,0.167,0.237,0.222
+Kalah,3,Provinsi Jambi,PARPOL,Cek Endra,Ratu Munawaroh,L,P,62,43,SIPIL,SIPIL,0,0,4,0.333,0.473,0.327
+Kalah,3,Provinsi Jambi,PARPOL,Fachrori Umar,Syafril Nursal,L,L,68,58,SIPIL,TNI/POLRI,1,0,4,0.333,0.263,0.345
+Menang,3,Provinsi Jambi,PARPOL,Al Haris,Abdullah Sani,L,L,47,64,SIPIL,SIPIL,0,0,4,0.333,0.264,0.309
+Kalah,3,Provinsi Kepulauan Riau,PARPOL,Soerya Respationo,Iman Sutiawan,L,L,61,45,SIPIL,SIPIL,0,0,3,0.250,0.459,0.333
+Kalah,3,Provinsi Kepulauan Riau,PARPOL,Isdianto,Suryani,L,P,59,47,SIPIL,SIPIL,2,0,3,0.250,0.181,0.289
+Menang,3,Provinsi Kepulauan Riau,PARPOL,Ansar Ahmad,Marlin Agustina Rudi,L,P,56,49,SIPIL,SIPIL,0,0,4,0.333,0.360,0.378
+Menang,2,Provinsi Kalimantan Selatan,PARPOL,Sahbirin Noor,Muhidin,L,L,53,62,SIPIL,SIPIL,1,0,8,0.667,0.737,0.727
+Kalah,2,Provinsi Kalimantan Selatan,PARPOL,Denny Indrayana,Difriadi Darjat,L,L,48,59,SIPIL,SIPIL,0,0,4,0.333,0.263,0.273
+Kalah,2,Provinsi Kalimantan Tengah,PARPOL,Ben Brahim S. Bahat,Ujang Iskandar,L,L,62,59,SIPIL,SIPIL,0,0,3,0.250,0.230,0.267
+Menang,2,Provinsi Kalimantan Tengah,PARPOL,Sugianto Sabran,Edy Pratowo,L,L,47,51,SIPIL,SIPIL,1,0,7,0.583,0.770,0.711
+Kalah,3,Provinsi Kalimantan Utara,PARPOL,Udin Hianggio,Undunsyah,L,L,74,58,SIPIL,SIPIL,2,0,2,0.167,0.101,0.200
+Kalah,3,Provinsi Kalimantan Utara,PARPOL,Irianto Lambrie,Irwan Sabri,L,L,62,32,SIPIL,SIPIL,1,0,5,0.417,0.414,0.343
+Menang,3,Provinsi Kalimantan Utara,PARPOL,Zainal Arifin Paliwang,Yansen Tipa Padan,L,L,58,60,TNI/POLRI,SIPIL,0,0,4,0.333,0.485,0.429
+Kalah,3,Provinsi Sulawesi Utara,PARPOL,Christiany Eugenia Paruntu,Sehan Salim Landjar,P,L,53,57,SIPIL,SIPIL,0,0,4,0.333,0.318,0.289
+Kalah,3,Provinsi Sulawesi Utara,PARPOL,Vonnie Anneke Panambunan,Hendry Corneles Mamengko Runtuwene,P,L,59,50,SIPIL,SIPIL,0,0,2,0.167,0.190,0.222
+Menang,3,Provinsi Sulawesi Utara,PARPOL,Olly Dondokambey,Steven Kandouw,L,L,59,51,SIPIL,SIPIL,1,2,5,0.417,0.492,0.467
+Kalah,2,Provinsi Sulawesi Tengah,PARPOL,Hidayat Lamakarate,Bartholomeus Tandigala,L,L,50,59,SIPIL,SIPIL,0,0,2,0.167,0.358,0.267
+Menang,2,Provinsi Sulawesi Tengah,PARPOL,Rusdy Mastura,Ma'mun Amir,L,L,70,68,SIPIL,SIPIL,0,0,8,0.667,0.642,0.689
+Kalah,4,Provinsi Sumatera Barat,PARPOL,Mulyadi,Ali Mukhni,L,L,57,64,SIPIL,SIPIL,0,0,2,0.167,0.170,0.308
+Kalah,4,Provinsi Sumatera Barat,PARPOL,Nasrul Abit,Indra Catri,L,L,66,59,SIPIL,SIPIL,2,0,1,0.083,0.136,0.215
+Kalah,4,Provinsi Sumatera Barat,PARPOL,Fakhrizal,Genius Umar,L,L,57,48,TNI/POLRI,SIPIL,0,0,6,0.500,0.351,0.215
+Menang,4,Provinsi Sumatera Barat,PARPOL,Mahyeldi Ansharullah,Audy Joinaldy,L,L,54,37,SIPIL,SIPIL,0,0,2,0.167,0.120,0.215
+Kalah,3,Asahan,PARPOL,Nurhajizah Marpaung,Henri Siregar,P,L,64,45,SIPIL,SIPIL,0,0,4,0.333,0.426,0.267
+Menang,3,Asahan,PARPOL,Surya,Taufik Zainal Abidin,L,L,65,52,SIPIL,SIPIL,1,0,5,0.417,0.351,0.511
+Kalah,3,Asahan,PARPOL,Rosmansyah,Winda Fitrika,L,P,43,46,SIPIL,SIPIL,0,0,2,0.167,0.223,0.200
+Menang,1,Humbang Hasundutan,PARPOL,Dosmar Banjarnahor,Oloan Paniaran Nababan,L,L,44,46,SIPIL,TNI/POLRI,1,0,6,0.500,0.703,0.880
+Kalah,5,Karo,PARPOL,Jusua Ginting,Saberina Tarigan,L,P,58,59,SIPIL,SIPIL,0,0,3,0.250,0.103,0.286
+Kalah,5,Karo,PERORANGAN,Cuaca Bangun,Agen Purba,L,L,52,64,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,5,Karo,PARPOL,Iwan Sembiring Depari,Budianto Surbakti,L,L,60,49,SIPIL,SIPIL,0,0,1,0.083,0.223,0.229
+Kalah,5,Karo,PARPOL,Yus Felesky Surbakti,Paulus Sitepu,P,L,47,65,SIPIL,SIPIL,0,0,3,0.250,0.318,0.286
+Menang,5,Karo,PARPOL,Cory Sriwaty Sebayang,Theopilus Ginting,P,L,70,42,SIPIL,SIPIL,2,0,1,0.083,0.136,0.143
+Kalah,5,Labuhanbatu ,PARPOL,Tigor Panusunan Siregar,Idlinsah Harahap,L,L,64,51,SIPIL,SIPIL,0,0,1,0.083,0.136,0.133
+Menang,5,Labuhanbatu ,PARPOL,Erik Adtrada Ritonga,Ellya Rosa Siregar,L,P,40,61,SIPIL,SIPIL,0,0,4,0.333,0.426,0.311
+Kalah,5,Labuhanbatu ,PARPOL,Andi Suhaimi Dalimunthe,Faizal Amri Siregar,L,L,48,50,SIPIL,SIPIL,1,0,1,0.083,0.148,0.222
+Kalah,5,Labuhanbatu ,PARPOL,Abdul Roni Harahap,Ahmad Jais Rambe,L,L,59,50,SIPIL,SIPIL,0,0,3,0.250,0.110,0.222
+Kalah,5,Labuhanbatu ,PERORANGAN,Suhari Pane,Irwan Indra,L,L,46,36,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,5,Labuhanbatu Selatan ,PERORANGAN,Nurdin Siregar,Husni Rizal Siregar,L,L,51,47,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,5,Labuhanbatu Selatan ,PARPOL,Edimin,Ahmad Padli Tanjung,L,L,48,50,SIPIL,SIPIL,0,0,2,0.167,0.223,0.286
+Kalah,5,Labuhanbatu Selatan ,PARPOL,Hasnah Harahap,Kholil Jufri Harahap,P,L,54,62,SIPIL,SIPIL,0,2,6,0.500,0.581,0.600
+Kalah,5,Labuhanbatu Selatan ,PERORANGAN,Mangayat Jago Ritonga,Jon Abidin Ritonga,L,L,60,40,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,5,Labuhanbatu Selatan ,PERORANGAN,Maslin Pulungan,Fery Andika Dalimunthe,L,L,64,40,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,5,Labuhanbatu Utara ,PARPOL,Darno,Haris Muda Siregar,L,L,48,30,TNI/POLRI,SIPIL,0,0,3,0.250,0.297,0.257
+Kalah,5,Labuhanbatu Utara ,PARPOL,Ali Tambunan,Raja Panusunan Rambe,L,L,60,29,SIPIL,SIPIL,0,0,1,0.083,0.148,0.200
+Kalah,5,Labuhanbatu Utara ,PARPOL,Ahmad Rizal Munthe,Aripay Tambunan,L,L,50,53,SIPIL,SIPIL,0,0,3,0.250,0.445,0.257
+Menang,5,Labuhanbatu Utara ,PARPOL,Hendri Yanto,Samsul Tanjung,L,L,32,43,SIPIL,SIPIL,0,0,4,0.333,0.110,0.286
+Kalah,5,Labuhanbatu Utara ,PERORANGAN,Dwi Prantara,Edi Sampurna Rambey,L,L,58,55,SIPIL,SIPIL,2,0,0,0.000,0.000,0.000
+Kalah,3,Mandailing Natal ,PARPOL,Muhammad Jafar Sukhairi Nasution,Atika Azmi Utammi Nasution,L,P,49,27,SIPIL,SIPIL,2,0,3,0.250,0.188,0.300
+Menang,3,Mandailing Natal ,PARPOL,Dahlan Hasan Nasution,Aswin Parinduri,L,L,62,52,SIPIL,SIPIL,1,0,5,0.417,0.506,0.250
+Kalah,3,Mandailing Natal ,PARPOL,Sofwat Nasution,Zubeir Lubis,L,L,61,56,SIPIL,SIPIL,0,0,3,0.250,0.306,0.375
+Menang,4,Nias,PARPOL,Ya'atulö Gulö,Arota Lase,L,L,48,62,SIPIL,SIPIL,0,0,2,0.167,0.370,0.280
+Kalah,4,Nias,PARPOL,Christian Zebua,Anofuli Lase,L,L,63,60,SIPIL,SIPIL,0,0,2,0.167,0.190,0.160
+Kalah,4,Nias,PERORANGAN,Enanöi Dohare,Yulius Lase,L,L,53,46,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,Nias,PARPOL,Arosökhi Waruwu,Asaldin Gea,L,L,57,51,SIPIL,SIPIL,2,0,2,0.167,0.230,0.360
+Menang,2,Nias Barat,PARPOL,Khenoki Waruwu,Era Era Hia,L,L,55,46,SIPIL,SIPIL,2,0,2,0.167,0.077,0.250
+Kalah,2,Nias Barat,PARPOL,Eliyunus Waruwu,Mareko Zebua,L,L,42,60,SIPIL,SIPIL,0,0,6,0.500,0.804,0.750
+Menang,2,Nias Selatan,PARPOL,Hilarius Duha,Firman Giawa,L,L,58,48,SIPIL,SIPIL,1,0,6,0.500,0.638,0.457
+Kalah,2,Nias Selatan,PARPOL,Idealisman Dachi,Sozanolo Ndruru,L,L,48,45,SIPIL,SIPIL,0,2,2,0.167,0.242,0.229
+Kalah,2,Nias Utara,PARPOL,Marselinus Ingati Nazara,Otorius Harefa,L,L,50,58,SIPIL,SIPIL,1,0,4,0.333,0.600,0.560
+Menang,2,Nias Utara,PARPOL,Amizaro Waruwu,Yusman Zega,L,L,44,58,SIPIL,SIPIL,0,0,4,0.333,0.179,0.440
+Menang,2,Pakpak Bharat,PARPOL,Franc Bernhard Tumanggor,Mutsyuhito Solin,L,L,35,62,SIPIL,SIPIL,0,0,7,0.583,0.873,0.700
+Kalah,2,Pakpak Bharat,PARPOL,Sonny P. Berutu,Ramlan Boangmanalu,L,L,45,47,SIPIL,SIPIL,0,0,1,0.083,0.094,0.250
+Kalah,3,Samosir,PERORANGAN,Marhuale Simbolon,Guntur Sinaga,L,L,60,57,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,3,Samosir,PARPOL,Vandiko Timotius Gultom,Martua Sitanggang,L,L,28,66,SIPIL,SIPIL,0,0,6,0.500,0.581,0.680
+Kalah,3,Samosir,PARPOL,Rapidin Simbolon,Juang Sinaga,L,L,53,63,SIPIL,SIPIL,1,2,1,0.083,0.223,0.320
+Menang,2,Serdang Bedagai,PARPOL,Darma Wijaya,Adlin Umar Yusri Tambunan,L,L,48,33,SIPIL,SIPIL,2,0,8,0.667,0.734,0.733
+Kalah,2,Serdang Bedagai,PARPOL,Soekirman,Ryan Novandi,L,L,65,28,SIPIL,SIPIL,1,0,3,0.250,0.266,0.267
+Menang,4,Simalungun,PARPOL,Radiapoh Hasiholan Sinaga,Zonny Waldi,L,L,52,59,SIPIL,SIPIL,0,0,3,0.250,0.235,0.300
+Kalah,4,Simalungun,PARPOL,Muhajidin Nur Hasim,Tumpak Siregar,L,L,36,55,SIPIL,SIPIL,0,0,2,0.167,0.230,0.260
+Kalah,4,Simalungun,PERORANGAN,Maruli Wagner Damanik,Abidinsyah Saragih,L,L,59,59,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,Simalungun,PARPOL,Anton Achmad Saragih,Rospita Sitorus,L,P,61,57,SIPIL,SIPIL,0,0,3,0.250,0.402,0.300
+Kalah,2,Tapanuli Selatan,PARPOL,Muhammad Yusuf Siregar,Roby Agusman Harahap,L,L,69,34,SIPIL,SIPIL,0,0,2,0.167,0.103,0.229
+Menang,2,Tapanuli Selatan,PARPOL,Dolly Putra Parlindungan Pasaribu,Rasyid Assaf Dongoran,L,L,40,44,SIPIL,SIPIL,0,0,6,0.500,0.734,0.629
+Menang,2,Toba Samosir,PARPOL,Poltak Sitorus,Tonny Simanjuntak,L,L,55,41,SIPIL,SIPIL,0,0,2,0.167,0.223,0.200
+Kalah,2,Toba Samosir,PARPOL,Darwin Siagian,Hulman Sitorus,L,L,68,62,SIPIL,SIPIL,1,2,4,0.333,0.445,0.633
+Kalah,3,Binjai,PARPOL,Rahmat Sorialam Harahap,Gerindra,L,L,47,50,SIPIL,SIPIL,0,0,2,0.167,0.223,0.267
+Kalah,3,Binjai,PARPOL,Lisa Andriani Lubis,PDI-P,P,L,44,49,SIPIL,SIPIL,0,0,4,0.333,0.402,0.367
+Menang,3,Binjai,PARPOL,Juliadi,Golkar,L,L,45,55,SIPIL,SIPIL,0,0,3,0.250,0.275,0.367
+Menang,1,Gunungsitoli,PARPOL,Lakhömizaro Zebua,Sowa'a Laoli,L,L,58,39,SIPIL,SIPIL,1,2,9,0.750,0.864,0.840
+Kalah,2,Medan,PARPOL,Akhyar Nasution,Salman Alfarisi,L,L,54,47,SIPIL,SIPIL,1,0,2,0.167,0.181,0.220
+Menang,2,Medan,PARPOL,Bobby Nasution,Aulia Rachman,L,L,29,42,SIPIL,SIPIL,0,0,7,0.583,0.718,0.740
+Menang,1,Pematangsiantar,PARPOL,Asner Silalahi,Susanti Dewayani,L,P,53,57,SIPIL,SIPIL,0,0,8,0.667,0.779,1.000
+Menang,3,Sibolga,PARPOL,Jamaluddin Pohan,Pantas Maruba Lumbantobing,L,L,54,43,SIPIL,SIPIL,0,0,5,0.417,0.567,0.572
+Kalah,3,Sibolga,PARPOL,Bahdin Nur Tanjung,Edipolo Sitanggang,L,L,56,58,SIPIL,SIPIL,0,2,2,0.167,0.223,0.200
+Kalah,3,Sibolga,PARPOL,"Drs. H. Ahmad Sulhan Sitompul, M. AP",Edward Siahaan,L,L,55,62,SIPIL,SIPIL,0,0,1,0.083,0.101,0.000
+Kalah,3,Tanjungbalai,PARPOL,Eka Hadi Sucipto,Gustami,L,L,50,41,SIPIL,SIPIL,0,0,2,0.167,0.134,0.200
+Kalah,3,Tanjungbalai,PERORANGAN,Ismail,Afrizal Zulkarnain,L,L,63,48,SIPIL,SIPIL,2,0,0,0.000,0.000,0.000
+Menang,3,Tanjungbalai,PARPOL,M Syahrial,Waris,L,L,32,49,SIPIL,SIPIL,1,0,5,0.417,0.687,0.720
+Kalah,4,Agam,PARPOL,Taslim Chaniago,Syafrizal,L,L,50,63,SIPIL,SIPIL,0,0,1,0.083,0.136,0.200
+Kalah,4,Agam,PARPOL,Hariadi,Novi Endri,L,L,64,55,SIPIL,SIPIL,0,0,4,0.333,0.181,0.289
+Kalah,4,Agam,PARPOL,Trinda Farhan Satria,M. Kasni,L,L,51,51,SIPIL,TNI/POLRI,2,0,2,0.167,0.190,0.200
+Menang,4,Agam,PARPOL,Andri Warman,Irwan Fikri,L,L,57,52,SIPIL,SIPIL,0,0,2,0.167,0.170,0.289
+Kalah,2,Dharmasraya,PARPOL,Panji Mursyidan,Yosrisal,L,L,27,45,SIPIL,SIPIL,0,0,4,0.333,0.402,0.400
+Menang,2,Dharmasraya,PARPOL,Sutan Riska Tuanku Kerajaan,Dasril Panin Datuk Labuan,L,L,31,73,SIPIL,SIPIL,1,0,6,0.500,0.598,0.533
+Kalah,4,Lima Puluh Kota,PARPOL,Muhammad Rahmad,Asyirwan Yunus,L,L,47,56,SIPIL,SIPIL,0,0,3,0.250,0.237,0.343
+Kalah,4,Lima Puluh Kota,PARPOL,Darman Sahladi,Maskar Musdar Datuak Pobo,L,L,49,30,SIPIL,SIPIL,0,0,3,0.250,0.273,0.257
+Menang,4,Lima Puluh Kota,PARPOL,Safaruddin Datuak Bandaro Rajo,Rizki Kurniawan Nakasri,L,L,63,33,SIPIL,SIPIL,0,0,3,0.250,0.268,0.343
+Kalah,4,Lima Puluh Kota,PERORANGAN,Ferizal Ridwan,Nurkhalis,L,L,47,42,SIPIL,SIPIL,2,0,0,0.000,0.000,0.000
+Menang,3,Padang Pariaman,PARPOL,Suhatri Bur,Rahmang,L,L,50,56,SIPIL,SIPIL,2,0,3,0.250,0.402,0.300
+Kalah,3,Padang Pariaman,PARPOL,Tri Suryadi,Taslim,L,L,47,60,SIPIL,SIPIL,0,0,4,0.333,0.376,0.400
+Kalah,3,Padang Pariaman,PARPOL,Refrizal,Happy Neldi,L,L,61,56,SIPIL,SIPIL,0,0,2,0.167,0.223,0.275
+Menang,1,Pasaman,PARPOL,Benny Utama,Sabar A.S.,L,L,59,44,SIPIL,SIPIL,0,0,8,0.667,0.864,0.829
+Menang,5,Pasaman Barat,PARPOL,Hamsuardi,Risnawanto,L,L,59,54,SIPIL,SIPIL,0,0,3,0.250,0.386,0.275
+Kalah,5,Pasaman Barat,PARPOL,Maryanto,Yulisman,L,L,57,55,SIPIL,SIPIL,0,0,2,0.167,0.136,0.200
+Kalah,5,Pasaman Barat,PARPOL,Erick Hariyona,Syawal Suro,L,L,38,53,SIPIL,SIPIL,0,0,2,0.167,0.181,0.175
+Kalah,5,Pasaman Barat,PARPOL,Yulianto,Syafrial,L,L,57,50,SIPIL,SIPIL,1,0,2,0.167,0.197,0.225
+Kalah,5,Pasaman Barat,PERORANGAN,Agus Susanto,Rommy Candra,L,L,49,41,SIPIL,TNI/POLRI,0,0,0,0.000,0.000,0.000
+Kalah,3,Pesisir Selatan,PARPOL,Hendrajoni,Hamdanus,L,L,59,40,SIPIL,SIPIL,1,0,3,0.250,0.284,0.333
+Menang,3,Pesisir Selatan,PARPOL,Rusma Yul Anwar,Rudi Hariyansyah,L,L,57,38,SIPIL,SIPIL,2,0,3,0.250,0.212,0.267
+Kalah,3,Pesisir Selatan,PARPOL,Dedi Rahmanto Putra,Arfianof Rajab,L,L,40,53,SIPIL,SIPIL,0,0,5,0.417,0.504,0.356
+Kalah,5,Sijunjung,PARPOL,Ashelfine,Sarikal,L,L,52,55,SIPIL,SIPIL,0,0,3,0.250,0.393,0.267
+Kalah,5,Sijunjung,PERORANGAN,Endre Saifoel,Nasrul,L,L,48,53,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,5,Sijunjung,PARPOL,Benny Dwifa Yuswir,Iraddatillah,L,L,34,45,SIPIL,SIPIL,0,0,4,0.333,0.283,0.333
+Kalah,5,Sijunjung,PARPOL,Arrival Boy,Mendro Suarman,L,L,48,47,SIPIL,SIPIL,2,0,1,0.083,0.136,0.133
+Kalah,5,Sijunjung,PARPOL,Hendri Susanto,Indra Gunalan,L,L,35,49,SIPIL,SIPIL,0,0,2,0.167,0.188,0.200
+Kalah,4,Solok,PARPOL,Nofi Candra,Yulfadri Nurdin,L,L,47,61,SIPIL,SIPIL,0,2,2,0.167,0.136,0.200
+Menang,4,Solok,PARPOL,Epyardi Asda,Jon Firman Pandu,L,L,58,41,SIPIL,SIPIL,0,0,2,0.167,0.212,0.343
+Kalah,4,Solok,PARPOL,Desra Ediwan Anantanur,Adli,L,L,57,51,SIPIL,SIPIL,0,0,2,0.167,0.235,0.229
+Kalah,4,Solok,PARPOL,Iriadi Datuak Tumanggung,Agus Syahdeman,L,L,60,48,SIPIL,SIPIL,0,0,3,0.250,0.317,0.229
+Menang,3,Solok Selatan,PARPOL,Khairunas,Yulian Efi,L,L,53,54,SIPIL,SIPIL,0,0,3,0.250,0.275,0.280
+Kalah,3,Solok Selatan,PARPOL,Abdul Rahman,Rosman Effendi,L,L,53,61,SIPIL,SIPIL,1,0,3,0.250,0.325,0.400
+Kalah,3,Solok Selatan,PARPOL,Erwin Ali,Marwan Efendi,L,L,51,47,SIPIL,SIPIL,0,0,3,0.250,0.177,0.280
+Kalah,4,Tanah Datar,PARPOL,Zuldafri Darma,Sultani,L,L,57,50,SIPIL,SIPIL,2,0,2,0.167,0.235,0.257
+Kalah,4,Tanah Datar,PARPOL,Jon Enardi,Syafruddin,L,L,55,62,SIPIL,SIPIL,0,0,3,0.250,0.325,0.229
+Menang,4,Tanah Datar,PARPOL,Eka Putra,Richi Aprian,L,L,45,36,SIPIL,SIPIL,0,0,2,0.167,0.230,0.286
+Kalah,4,Tanah Datar,PARPOL,Betti Shadiq Pasadigoe,Edytiawarman,P,L,59,53,SIPIL,SIPIL,0,0,2,0.167,0.110,0.229
+Kalah,3,Bukittinggi,PERORANGAN,Ramlan Nurmatias,Syahrizal Datuak Palang Gagah,L,L,56,59,SIPIL,SIPIL,1,0,0,0.000,0.000,0.000
+Menang,3,Bukittinggi,PARPOL,Erman Safar,Marfendi,L,L,34,57,SIPIL,SIPIL,0,0,3,0.250,0.371,0.520
+Kalah,3,Bukittinggi,PARPOL,Irwandi,David Chalik,L,L,64,43,SIPIL,SIPIL,2,0,3,0.250,0.280,0.240
+Kalah,4,Solok,PARPOL,Reinier,Andri Marant,L,L,56,51,SIPIL,SIPIL,2,0,4,0.333,0.391,0.250
+Menang,4,Solok,PARPOL,Zul Elfian,Ramadhani Kirana Putra,L,L,59,33,SIPIL,SIPIL,1,0,3,0.250,0.266,0.300
+Kalah,4,Solok,PARPOL,Ismael Koto,Edi Candra,L,L,53,54,SIPIL,SIPIL,0,0,2,0.167,0.000,0.200
+Kalah,4,Solok,PARPOL,Yutris Can,Irman Yefri Adang,L,L,51,49,SIPIL,SIPIL,0,0,2,0.167,0.242,0.250
+Kalah,4,Bengkalis,PARPOL,Kaderismanto,Iyeth Bustami,L,P,42,47,SIPIL,SIPIL,0,0,2,0.167,0.324,0.200
+Kalah,4,Bengkalis,PARPOL,Abi Bahrun,Herman,L,L,41,50,SIPIL,SIPIL,0,0,2,0.167,0.120,0.200
+Menang,4,Bengkalis,PARPOL,Kasmarni,Bagus Santoso,P,L,46,51,SIPIL,SIPIL,0,0,5,0.417,0.409,0.400
+Kalah,4,Bengkalis,PARPOL,Indra Gunawan Eet,Samsu Dalimunte,L,L,47,54,SIPIL,SIPIL,0,0,1,0.083,0.148,0.178
+Kalah,5,Indragiri Hulu,PERORANGAN,Nurhadi,Toni Sutianto,L,L,57,49,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,5,Indragiri Hulu,PARPOL,Rezita Meylani Yopi,Junaidi Rachmat,P,L,26,56,SIPIL,SIPIL,0,0,3,0.250,0.250,0.275
+Kalah,5,Indragiri Hulu,PARPOL,Siti Aisyah,Agus Rianto,P,L,53,58,SIPIL,SIPIL,0,0,3,0.250,0.169,0.200
+Kalah,5,Indragiri Hulu,PARPOL,Wahyu Adi,Supriati,L,P,59,56,SIPIL,SIPIL,0,0,3,0.250,0.393,0.250
+Kalah,5,Indragiri Hulu,PARPOL,Rizal Zamzami,Yoghi Susilo,L,L,39,31,SIPIL,SIPIL,0,0,2,0.167,0.188,0.200
+Menang,4,Kepulauan Meranti,PARPOL,Muhammad Adil,Asmar,L,L,48,58,SIPIL,SIPIL,0,0,2,0.167,0.324,0.267
+Kalah,4,Kepulauan Meranti,PARPOL,Hery Saputra,Muhammad Khozin,L,L,40,38,SIPIL,SIPIL,0,0,3,0.250,0.273,0.300
+Kalah,4,Kepulauan Meranti,PARPOL,Mahmuzin,Nuriman,L,L,44,57,SIPIL,SIPIL,0,0,2,0.167,0.169,0.200
+Kalah,4,Kepulauan Meranti,PARPOL,Said Hasyim,Abdul Rauf,L,L,62,38,SIPIL,SIPIL,2,0,2,0.167,0.235,0.200
+Menang,3,Kuantan Singingi,PARPOL,Andi Putra,Suhardiman Amby,L,L,33,51,SIPIL,SIPIL,0,0,3,0.250,0.235,0.257
+Kalah,3,Kuantan Singingi,PARPOL,Mursini,Indra Putra,L,L,62,42,SIPIL,SIPIL,1,0,3,0.250,0.237,0.314
+Kalah,3,Kuantan Singingi,PARPOL,Halim,Komperensi,L,P,55,47,SIPIL,SIPIL,2,0,4,0.333,0.529,0.429
+Kalah,4,Pelalawan,PARPOL,Abu Mansur Matridi,Habibi Hapri,L,L,42,35,SIPIL,SIPIL,0,0,3,0.250,0.164,0.257
+Menang,4,Pelalawan,PARPOL,Zukri Misran,Nasarudin,L,L,41,38,SIPIL,SIPIL,0,0,3,0.250,0.357,0.286
+Kalah,4,Pelalawan,PARPOL,Husni Thamrin,Tengku Edy Sabili,L,L,41,54,SIPIL,SIPIL,0,0,2,0.167,0.230,0.200
+Kalah,4,Pelalawan,PARPOL,Adi Sukemi,Muhammad Rais,L,L,43,46,SIPIL,SIPIL,0,0,1,0.083,0.148,0.257
+Kalah,4,Rokan Hilir,PARPOL,Cutra Andika,Muhammad Rafik,L,L,40,48,SIPIL,SIPIL,0,0,2,0.167,0.087,0.200
+Kalah,4,Rokan Hilir,PARPOL,Suyatno,Jamiludin,L,L,63,52,SIPIL,SIPIL,1,2,2,0.167,0.299,0.244
+Kalah,4,Rokan Hilir,PARPOL,Asri Auzar,Fuad Ahmad,L,L,54,59,SIPIL,SIPIL,0,0,4,0.333,0.410,0.333
+Menang,4,Rokan Hilir,PARPOL,Afrizal,Sulaiman,L,L,44,39,SIPIL,SIPIL,0,0,2,0.167,0.204,0.178
+Kalah,3,Rokan Hulu,PARPOL,Hamulian,Syahril Topan,L,L,53,47,SIPIL,SIPIL,0,0,2,0.167,0.181,0.200
+Menang,3,Rokan Hulu,PARPOL,Sukiman,Indra Gunawan,L,L,67,51,SIPIL,SIPIL,1,0,6,0.500,0.642,0.600
+Kalah,3,Rokan Hulu,PARPOL,Hafith Syukri,Erizal,L,L,58,45,SIPIL,SIPIL,0,0,2,0.167,0.177,0.200
+Kalah,3,Siak,PARPOL,Sayed Abubakar,Reni Nurita,L,P,46,47,SIPIL,SIPIL,0,0,2,0.167,0.181,0.200
+Menang,3,Siak,PARPOL,Alfedri,Husni Merza,L,L,53,46,SIPIL,SIPIL,1,0,6,0.500,0.313,0.400
+Kalah,3,Siak,PARPOL,Said Ariffadillah,Sujarwo,L,L,59,43,SIPIL,SIPIL,0,0,3,0.250,0.506,0.400
+Kalah,4,Dumai,PARPOL,Hendri Sandra,Muhammad Rizal Akbar,L,L,49,46,SIPIL,SIPIL,0,0,2,0.167,0.358,0.233
+Kalah,4,Dumai,PARPOL,Eko Suharjo,Syarifah,L,P,46,41,SIPIL,SIPIL,2,0,3,0.250,0.242,0.300
+Menang,4,Dumai,PARPOL,Paisal,Amris,L,L,45,63,SIPIL,SIPIL,0,0,2,0.167,0.136,0.233
+Kalah,4,Dumai,PARPOL,Edi Sepen,Zainal Abidin,L,L,52,57,SIPIL,SIPIL,0,0,2,0.167,0.164,0.233
+Kalah,3,Batanghari,PARPOL,Yunnita Asmara,Muhammad Mahdan,P,L,49,49,SIPIL,SIPIL,0,0,3,0.250,0.506,0.314
+Kalah,3,Batanghari,PARPOL,Muhammad Firdaus,Camelia Puji Astuti,L,P,45,42,SIPIL,SIPIL,0,0,3,0.250,0.257,0.314
+Menang,3,Batanghari,PARPOL,Muhammad Fadhil Arief,Bakhtiar,L,L,45,59,SIPIL,SIPIL,0,0,4,0.333,0.237,0.343
+Kalah,2,Bungo,PARPOL,Sudirman Zaini,Erick Muhammad Henrizal,L,L,68,42,SIPIL,SIPIL,0,0,6,0.500,0.701,0.486
+Menang,2,Bungo,PARPOL,Mashuri,Safrudin Dwi Apriyanto,L,L,48,45,SIPIL,SIPIL,1,2,5,0.417,0.266,0.371
+Kalah,3,Tanjung Jabung Barat,PARPOL,Mulyani Siregar,M. Amin,L,L,57,55,SIPIL,SIPIL,0,0,3,0.250,0.403,0.429
+Menang,3,Tanjung Jabung Barat,PARPOL,Anwar Sadat,Hairan,L,L,54,42,SIPIL,SIPIL,0,0,3,0.250,0.299,0.286
+Kalah,3,Tanjung Jabung Barat,PARPOL,Muklis,Supardi,L,L,51,47,SIPIL,SIPIL,0,0,4,0.333,0.297,0.257
+Kalah,2,Tanjung Jabung Timur,PARPOL,Abdul Rasid,Mustakim,L,L,51,52,SIPIL,SIPIL,0,0,4,0.333,0.358,0.200
+Menang,2,Tanjung Jabung Timur,PARPOL,Romi Hariyanto,Robby Nahliyansyah,L,L,46,37,SIPIL,SIPIL,1,2,4,0.333,0.454,0.767
+Menang,2,Sungai Penuh,PARPOL,Ahmad Zubir,Alvia Santoni,L,L,56,48,SIPIL,SIPIL,0,0,2,0.167,0.256,0.160
+Kalah,2,Sungai Penuh,PARPOL,Fikar Azami,Yos Adrino,L,L,31,51,SIPIL,SIPIL,0,0,7,0.583,0.657,0.720
+Menang,2,Ogan Ilir,PARPOL,Panca Wijaya Akbar,Ardani,L,L,29,57,SIPIL,SIPIL,0,0,7,0.583,0.630,0.475
+Kalah,2,Ogan Ilir,PARPOL,Ilyas Panji Alam,Endang PU Ishak,L,L,54,48,SIPIL,SIPIL,1,0,4,0.333,0.370,0.450
+Menang,1,Ogan Komering Ulu,PARPOL,Kuryana Azis,Johan Anuar,L,L,68,55,SIPIL,SIPIL,1,2,11,0.917,0.924,0.886
+Menang,1,Ogan Komering Ulu Selatan,PARPOL,Popo Ali Martopo,Sholehien Abuasir,L,L,38,53,SIPIL,SIPIL,1,2,10,0.833,0.967,0.850
+Menang,2,OKU Timur,PARPOL,Lanosin Hamzah,Adi Nugraha Purna Yudha,L,L,42,34,SIPIL,SIPIL,0,0,10,0.833,1.000,0.978
+Kalah,2,OKU Timur,PERORANGAN,Ruslan Taimi,Herly Sunawan,L,L,51,38,TNI/POLRI,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,2,Musi Rawas,PARPOL,Ratna Mahmud Amin,Suwarti,P,P,56,62,SIPIL,SIPIL,0,2,3,0.250,0.360,0.375
+Kalah,2,Musi Rawas,PARPOL,Hendra Gunawan,Mulyana,L,L,56,58,SIPIL,SIPIL,1,0,7,0.583,0.607,0.600
+Menang,3,Musi Rawas Utara,PARPOL,Devi Suhartoni,Innayatullah,L,L,51,44,SIPIL,SIPIL,0,0,3,0.250,0.325,0.280
+Kalah,3,Musi Rawas Utara,PERORANGAN,Akisropi Ayub,Baikuni,L,L,63,63,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,3,Musi Rawas Utara,PARPOL,Syarif Hidayat,Surian,L,L,68,60,SIPIL,SIPIL,1,0,8,0.667,0.675,0.720
+Kalah,2,Penukal Abab Lematang Ilir,PARPOL,Devi Harianto,Darmadi Suhaimi,L,L,43,51,SIPIL,SIPIL,0,0,3,0.250,0.170,0.240
+Menang,2,Penukal Abab Lematang Ilir,PARPOL,Heri Amalindo,Soemarjono,L,L,57,75,SIPIL,SIPIL,1,0,7,0.583,0.729,0.680
+Kalah,4,Bengkulu Selatan,PARPOL,Hartawan,Darmin,L,L,64,62,SIPIL,SIPIL,0,0,2,0.167,0.077,0.200
+Kalah,4,Bengkulu Selatan,PARPOL,Budiman Ismaun,Helmi Paman,L,L,60,55,SIPIL,SIPIL,0,0,2,0.167,0.358,0.280
+Menang,4,Bengkulu Selatan,PARPOL,Gusnan Mulyadi,Rifai Tajudin,L,L,52,55,SIPIL,SIPIL,1,2,2,0.167,0.250,0.280
+Kalah,4,Bengkulu Selatan,PARPOL,Dewi Sartika,Marwan Iswandi,P,L,50,48,SIPIL,SIPIL,0,0,1,0.083,0.094,0.160
+Menang,1,Bengkulu Utara,PARPOL,Mian,Arie Septia Adinata,L,L,56,32,SIPIL,SIPIL,1,2,10,0.833,0.906,0.933
+Kalah,2,Kaur,PARPOL,Gusril Pausi,Medi Yuliardi,L,L,48,41,SIPIL,SIPIL,1,0,7,0.583,0.642,0.720
+Menang,2,Kaur,PARPOL,Lismidianto,Herlian Muchrim,L,L,57,43,TNI/POLRI,SIPIL,0,0,3,0.250,0.271,0.200
+Kalah,2,Kepahiang,PARPOL,Ujang Syaripudin,Firdaus Djailani,L,L,51,55,SIPIL,SIPIL,0,0,5,0.417,0.586,0.440
+Menang,2,Kepahiang,PARPOL,Hidayattullah Sjahid,Zurdi Nata,L,L,63,48,SIPIL,SIPIL,0,0,4,0.333,0.337,0.520
+Kalah,4,Lebong,PARPOL,Dalhadi Umar,Wawan Fernandez,L,L,73,40,SIPIL,SIPIL,0,2,1,0.083,0.223,0.080
+Kalah,4,Lebong,PERORANGAN,Armansyah Mursalin,Masropen Iriadi,L,L,55,56,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,4,Lebong,PARPOL,Kopli Ansori,Fahrurrozi,L,L,39,59,SIPIL,SIPIL,0,0,4,0.333,0.318,0.400
+Kalah,4,Lebong,PARPOL,Teguh Raharjo Eko Purwoto,Nasirwan Thoha,L,L,52,53,SIPIL,SIPIL,0,0,2,0.167,0.103,0.200
+Kalah,2,Mukomuko,PARPOL,Choirul Huda,Rahmadi,L,L,50,46,SIPIL,SIPIL,1,0,2,0.167,0.250,0.200
+Menang,2,Mukomuko,PARPOL,Sapuan,Wasri,L,P,46,50,SIPIL,SIPIL,0,0,8,0.667,0.717,0.680
+Kalah,4,Rejang Lebong,PARPOL,Muhammad Faisal,Fatrolazi,L,L,56,46,TNI/POLRI,SIPIL,0,0,5,0.417,0.553,0.467
+Kalah,4,Rejang Lebong,PARPOL,Susilawati,Ruswan,P,L,62,55,SIPIL,SIPIL,0,0,2,0.167,0.250,0.267
+Menang,4,Rejang Lebong,PARPOL,Syamsul Effendi,Hendra Wahyudiansyah,L,L,55,38,SIPIL,SIPIL,0,0,1,0.083,0.087,0.067
+Kalah,4,Rejang Lebong,PARPOL,Fikri Thobari,Tarsisius Samuji,L,L,39,61,SIPIL,SIPIL,0,0,1,0.083,0.077,0.067
+Kalah,3,Seluma,PARPOL,Suparto,Noviawan Ail,L,L,63,43,SIPIL,SIPIL,2,0,2,0.167,0.238,0.267
+Kalah,3,Seluma,PARPOL,Edison Simbolon,Khairi Yulian,L,L,62,53,SIPIL,SIPIL,0,0,3,0.250,0.393,0.333
+Menang,3,Seluma,PARPOL,Erwin Octavian,Gustianto,L,L,40,55,SIPIL,SIPIL,0,0,3,0.250,0.181,0.200
+Menang,3,Lampung Selatan,PARPOL,Nanang Ermanto,Pandu Kesuma Dewangsa,L,L,53,32,SIPIL,SIPIL,1,0,3,0.250,0.325,0.260
+Kalah,3,Lampung Selatan,PARPOL,Tony Eka Candra,Antoni Imam,L,L,57,51,SIPIL,SIPIL,0,0,3,0.250,0.329,0.360
+Kalah,3,Lampung Selatan,PARPOL,Hipni,Melin Haryani Wijaya,L,P,47,48,SIPIL,SIPIL,0,0,3,0.250,0.313,0.360
+Kalah,3,Lampung Tengah,PARPOL,Loekman Djoyosoemarto,Ilyas Hayani Muda,L,L,63,49,SIPIL,SIPIL,1,0,2,0.167,0.358,0.340
+Menang,3,Lampung Tengah,PARPOL,Musa Ahmad,Ardito Wijaya,L,L,47,40,SIPIL,SIPIL,0,0,4,0.333,0.419,0.420
+Kalah,3,Lampung Tengah,PARPOL,Nessy Kalvia,Imam Suhadi,P,L,42,47,SIPIL,SIPIL,0,0,2,0.167,0.190,0.220
+Kalah,3,Lampung Timur,PARPOL,Yusran Amirullah,Benny Kisworo,L,L,56,49,SIPIL,SIPIL,0,0,2,0.167,0.197,0.280
+Kalah,3,Lampung Timur,PARPOL,Zaiful Bokhari,Sudibyo,L,L,51,41,SIPIL,SIPIL,1,0,3,0.250,0.445,0.400
+Menang,3,Lampung Timur,PARPOL,Dawam Rahardjo,Azwar Hadi,L,L,52,54,SIPIL,SIPIL,0,0,3,0.250,0.325,0.320
+Kalah,2,Pesawaran,PARPOL,M. Nasir,Naldi Rinara S. Rizal,L,L,47,32,SIPIL,SIPIL,0,0,2,0.167,0.179,0.200
+Menang,2,Pesawaran,PARPOL,Dendi Ramadhona,S. Marzuki,L,L,37,60,SIPIL,TNI/POLRI,1,0,9,0.750,0.821,0.800
+Kalah,3,Pesisir Barat,PARPOL,Pieter,Fahrurrazi,L,L,60,58,SIPIL,SIPIL,0,0,3,0.250,0.506,0.320
+Kalah,3,Pesisir Barat,PARPOL,Aria Lukita Budiwan,Erlina,L,P,43,45,SIPIL,SIPIL,0,2,3,0.250,0.195,0.280
+Menang,3,Pesisir Barat,PARPOL,Agus Istiqlal,A. Zulqoini Syarif,L,L,59,62,SIPIL,SIPIL,1,0,2,0.167,0.179,0.360
+Kalah,2,Way Kanan,PARPOL,Juprius,Rina Marlina,L,P,55,49,SIPIL,SIPIL,0,0,2,0.167,0.358,0.200
+Menang,2,Way Kanan,PARPOL,Raden Adipati Surya,Ali Rahman,L,L,42,50,SIPIL,SIPIL,1,0,7,0.583,0.609,0.800
+Kalah,3,Bandar Lampung,PARPOL,Rycko Menoza,Johan Sulaiman,L,L,49,57,SIPIL,SIPIL,0,0,2,0.167,0.235,0.240
+Kalah,3,Bandar Lampung,PARPOL,Yusuf Kohar,Tulus Purnomo,L,L,59,53,SIPIL,SIPIL,2,0,4,0.333,0.304,0.300
+Menang,3,Bandar Lampung,PARPOL,Eva Dwiana,Deddy Amrullah,P,L,50,63,SIPIL,SIPIL,0,0,3,0.250,0.461,0.420
+Menang,4,Metro,PERORANGAN,Wahdi,Qomaru Zaman,L,L,53,58,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,Metro,PARPOL,Ahmad Mufti Salim,Saleh Chandra Pahlawan,L,L,45,65,SIPIL,SIPIL,0,0,2,0.167,0.190,0.280
+Kalah,4,Metro,PARPOL,Ampian Bustami,Rudy Santoso,L,L,57,26,SIPIL,SIPIL,0,0,3,0.250,0.325,0.400
+Kalah,4,Metro,PARPOL,Anna Morinda,Fritz Akhmad Nuzir,P,L,42,38,SIPIL,SIPIL,0,0,2,0.167,0.317,0.320
+Kalah,3,Bangka Barat,PARPOL,Markus,Badri Syamsu,L,L,35,43,SIPIL,SIPIL,1,0,4,0.333,0.464,0.440
+Menang,3,Bangka Barat,PARPOL,Sukirman,Bong Ming Ming,L,L,59,45,SIPIL,SIPIL,0,0,2,0.167,0.190,0.240
+Kalah,3,Bangka Barat,PARPOL,Safri,Eddy Arif,L,L,46,43,SIPIL,SIPIL,0,0,2,0.167,0.212,0.200
+Kalah,4,Bangka Selatan,PERORANGAN,Kodi Midahri,Rusliadi,L,L,41,52,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,Bangka Selatan,PARPOL,Aditya Rizki Pradana,Ahmad Damiri,L,L,35,59,SIPIL,SIPIL,0,0,4,0.333,0.315,0.280
+Kalah,4,Bangka Selatan,PARPOL,Rina Tarol,Doni Indra,P,L,49,41,SIPIL,SIPIL,0,0,4,0.333,0.430,0.440
+Menang,4,Bangka Selatan,PARPOL,Riza Herdavid,Debby Vita Dewi,L,P,37,38,SIPIL,SIPIL,2,0,3,0.250,0.256,0.280
+Menang,2,Bangka Tengah,PARPOL,Algafry Rahman/ Ibnu Saleh,Herry Erfian,L,L,45,52,SIPIL,SIPIL,0,0,9,0.750,0.684,0.720
+Kalah,2,Bangka Tengah,PARPOL,Didit Sri Gusjaya,Korari Suwondo,L,L,45,58,SIPIL,SIPIL,0,0,2,0.167,0.317,0.280
+Menang,2,Belitung Timur,PARPOL,Burhanudin,Khairil Anwar,L,L,53,58,SIPIL,SIPIL,2,0,3,0.250,0.371,0.320
+Kalah,2,Belitung Timur,PARPOL,Yuri Kemal Fadlullah,Nurdiansyah,L,L,36,57,SIPIL,SIPIL,0,0,6,0.500,0.496,0.600
+Menang,2,Bintan,PARPOL,Apri Sujadi,Roby Kurniawan,L,L,43,27,SIPIL,SIPIL,1,0,5,0.417,0.405,0.760
+Kalah,2,Bintan,PARPOL,Alias Wello,Dalmasri Syam,L,L,57,58,SIPIL,SIPIL,1,0,2,0.167,0.325,0.240
+Menang,2,Karimun,PARPOL,Aunur Rafiq,Anwar Hasyim,L,L,56,55,SIPIL,SIPIL,1,0,7,0.583,0.804,0.800
+Kalah,2,Karimun,PARPOL,Iskandarsyah,Anwar,L,L,48,55,SIPIL,SIPIL,0,0,2,0.167,0.164,0.200
+Menang,3,Kep. Anambas,PARPOL,Abdul Haris,Wan Zuhendra,L,L,52,47,SIPIL,SIPIL,1,2,7,0.583,0.736,0.750
+Kalah,3,Kep. Anambas,PARPOL,Yusrizal ,Fatahurrahman,L,L,64,58,SIPIL,SIPIL,0,0,2,0.167,0.077,0.200
+Kalah,3,Kep. Anambas,PERORANGAN,Fachrizal,Johari,L,L,53,53,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,3,Lingga,PARPOL,Muhammad Ishak,Salmizi,L,L,38,44,SIPIL,SIPIL,2,0,3,0.250,0.329,0.450
+Kalah,3,Lingga,PARPOL,Riki Syolihin,Raja Supri,L,L,39,61,SIPIL,SIPIL,0,0,3,0.250,0.459,0.200
+Menang,3,Lingga,PARPOL,Muhammad Nizar,Neko Wesha Pwelloy,L,L,38,34,SIPIL,SIPIL,2,0,2,0.167,0.136,0.350
+Kalah,2,Natuna,PARPOL,Mustamin Bakri,Derry Purnamasari,L,P,49,42,SIPIL,SIPIL,0,0,2,0.167,0.224,0.300
+Menang,2,Natuna,PARPOL,Wan Siswandi,Rodhial Huda,L,L,51,53,SIPIL,SIPIL,0,0,6,0.500,0.588,0.650
+Kalah,2,Batam,PARPOL,Lukita Dinarsyah Tuwo,Abdul Basyid,L,L,59,55,SIPIL,SIPIL,0,0,3,0.250,0.459,0.340
+Menang,2,Batam,PARPOL,Muhammad Rudi,Amsakar Achmad,L,L,57,52,SIPIL,SIPIL,1,2,7,0.583,0.541,0.640
+Menang,2,Pandeglang,PARPOL,Irna Narulita,Tanto Warsono,P,L,50,37,SIPIL,SIPIL,1,2,8,0.667,0.866,0.760
+Kalah,2,Pandeglang,PARPOL,Thoni Fathoni Mukson,Miftahul Tamamy,L,L,50,28,SIPIL,SIPIL,0,0,2,0.167,0.134,0.220
+Menang,2,Serang,PARPOL,Ratu Tatu Chasanah,Pandji Tirtayasa,P,L,53,66,SIPIL,SIPIL,1,2,9,0.750,0.770,0.660
+Kalah,2,Serang,PARPOL,Nasrul Ulum,Eki Baihaki,L,L,32,30,SIPIL,SIPIL,0,0,2,0.167,0.230,0.260
+Kalah,4,Cilegon,PERORANGAN,Ali Mujahidin,Firman Mutakin,L,L,43,35,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,Cilegon,PARPOL,Ratu Ati Marliati,Sokhidin,P,L,52,53,SIPIL,SIPIL,2,0,4,0.333,0.487,0.500
+Kalah,4,Cilegon,PARPOL,Iye Iman Rohiman,Awab,L,L,58,45,SIPIL,SIPIL,0,0,3,0.250,0.203,0.200
+Menang,4,Cilegon,PARPOL,Helldy Agustian,Sanuji Pentamarta,L,L,50,50,SIPIL,SIPIL,0,0,1,0.083,0.087,0.100
+Kalah,3,Tangerang Selatan,PARPOL,Muhamad,Rahayu Saraswati,L,P,56,34,SIPIL,SIPIL,0,0,5,0.417,0.537,0.380
+Kalah,3,Tangerang Selatan,PARPOL,Siti Nurazizah,Ruhamaben,P,L,48,56,SIPIL,SIPIL,0,0,4,0.333,0.282,0.340
+Menang,3,Tangerang Selatan,PARPOL,Benyamin Davnie,Pilar Saga Ichsan,L,L,62,29,SIPIL,SIPIL,2,0,3,0.250,0.181,0.200
+Kalah,3,Bandung,PARPOL,Kurnia Agustina,Usman Sayogi,P,L,47,55,SIPIL,SIPIL,0,0,2,0.167,0.284,0.327
+Kalah,3,Bandung,PARPOL,Yena Iskandar Masoem,Atep,P,L,47,35,SIPIL,SIPIL,0,0,2,0.167,0.299,0.200
+Menang,3,Bandung,PARPOL,Dadang Supriatna,Sahrul Gunawan,L,L,49,44,SIPIL,SIPIL,0,0,4,0.333,0.384,0.473
+Kalah,4,Cianjur,PARPOL,Muhammad Toha,Ade Sobari,L,L,45,45,SIPIL,SIPIL,0,0,3,0.250,0.000,0.000
+Kalah,4,Cianjur,PARPOL,Oting Zaenal Muttaqin,Wawan Setiawan,L,L,59,46,SIPIL,SIPIL,0,0,2,0.167,0.230,0.320
+Menang,4,Cianjur,PARPOL,Herman Suherman,Tubagus Mulyana Syahrudin,L,L,58,50,SIPIL,SIPIL,2,0,5,0.417,0.583,0.480
+Kalah,4,Cianjur,PARPOL,Lepi Ali Firmansyah,Gilar Budi Raharja,L,L,38,37,SIPIL,SIPIL,0,0,2,0.167,0.188,0.200
+Kalah,4,Indramayu,PARPOL,Muhammad Sholihin,Ratnawati,L,P,41,54,SIPIL,SIPIL,0,0,6,0.500,0.391,0.260
+Kalah,4,Indramayu,PERORANGAN,Toto Sucartono,Deis Handika,L,L,53,34,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,Indramayu,PARPOL,Daniel Mutaqien Syafiuddin,Taufik Hidayat,L,L,39,53,SIPIL,SIPIL,0,1,1,0.083,0.148,0.440
+Menang,4,Indramayu,PARPOL,Nina Agustina,Lucky Hakim,P,L,47,40,SIPIL,SIPIL,0,0,3,0.250,0.461,0.280
+Kalah,3,Karawang,PARPOL,Yesi Karya Lianti,Ahmad Adly Fairuz,P,L,39,33,SIPIL,SIPIL,0,0,4,0.333,0.332,0.200
+Menang,3,Karawang,PARPOL,Cellica Nurrachadiana,Aep Syaepuloh,P,L,40,42,SIPIL,SIPIL,1,0,4,0.333,0.431,0.480
+Kalah,3,Karawang,PARPOL,Ahmad Zamakhsyari,Yusni Rinzani,L,P,44,36,SIPIL,SIPIL,2,0,3,0.250,0.237,0.320
+Menang,2,Pangandaran,PARPOL,Jeje Wiradinata,Ujang Endin Indrawan,L,L,56,57,SIPIL,SIPIL,1,0,5,0.417,0.555,0.725
+Kalah,2,Pangandaran,PARPOL,Adang Hadari,Supratman,L,L,66,71,SIPIL,SIPIL,2,0,2,0.167,0.249,0.250
+Kalah,3,Sukabumi,PARPOL,Adjo Sardjono,Iman Adinugraha,L,L,64,48,SIPIL,SIPIL,2,0,2,0.167,0.212,0.300
+Menang,3,Sukabumi,PARPOL,Marwan Hamami,Iyos Somantri,L,L,57,57,SIPIL,SIPIL,1,0,4,0.333,0.431,0.380
+Kalah,3,Sukabumi,PARPOL,Abu Bakar Sidik,Sirojudin,L,L,58,42,SIPIL,SIPIL,0,0,3,0.250,0.357,0.320
+Kalah,4,Tasikmalaya,PARPOL,Azies Rismaya Mahpud,Haris Sanjaya,L,L,60,48,SIPIL,SIPIL,0,0,2,0.167,0.230,0.280
+Menang,4,Tasikmalaya,PARPOL,Ade Sugianto,Cecep Nurul Yakin,L,L,30,30,SIPIL,SIPIL,1,0,2,0.167,0.256,0.260
+Kalah,4,Tasikmalaya,PERORANGAN,Cep Zamzam Dzulfikar Nur,Padil Karsoma,L,L,35,61,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,Tasikmalaya,PARPOL,Iwan Saputra,Iip Miptahul Paoz,L,L,53,45,SIPIL,SIPIL,0,0,4,0.333,0.412,0.460
+Kalah,2,Depok,PARPOL,Pradi Supriatna,Afifah Alia,L,P,50,45,SIPIL,SIPIL,2,0,9,0.750,0.786,0.640
+Menang,2,Depok,PARPOL,Mohammad Idris,Imam Budiharto,L,L,59,52,SIPIL,SIPIL,1,0,3,0.250,0.214,0.340
+Kalah,3,Blora,PARPOL,Dwi Astutiningsih,Riza Yuda Prasetya,P,L,58,41,SIPIL,SIPIL,0,0,3,0.250,0.242,0.222
+Menang,3,Blora,PARPOL,Arief Rohman,Tri Yuli Setyowati,L,P,40,44,SIPIL,SIPIL,2,0,3,0.250,0.411,0.444
+Kalah,3,Blora,PARPOL,Umi Kulsum,Agus Sugiyanto,P,L,57,42,SIPIL,SIPIL,0,0,3,0.250,0.271,0.311
+Menang,1,Boyolali,PARPOL,M. Said Hidayat,Wahyu Irawan,L,L,48,53,SIPIL,SIPIL,2,0,6,0.500,0.743,0.933
+Menang,2,Demak,PARPOL,Eistianah,Ali Makhsun,P,L,35,56,SIPIL,SIPIL,0,0,6,0.500,0.675,0.720
+Kalah,2,Demak,PARPOL,Mugiyono,Badruddin Ma'shum,L,L,49,47,SIPIL,SIPIL,0,0,2,0.167,0.238,0.280
+Menang,1,Grobogan,PARPOL,Sri Sumarni,Bambang Pujiyanto,P,L,60,60,SIPIL,SIPIL,1,0,11,0.917,1.000,0.980
+Menang,1,Kebumen,PARPOL,Arif Sugiyanto,Ristawati Purwaningsih,L,P,43,45,SIPIL,SIPIL,2,0,9,0.750,1.000,1.000
+Menang,3,Kendal,PARPOL,Dico Ganinduto,Windu Suko Basuki,L,L,30,59,SIPIL,SIPIL,0,0,4,0.333,0.405,0.244
+Kalah,3,Kendal,PARPOL,Ali Nuruddin,Yekti Handayani,L,P,54,42,SIPIL,SIPIL,0,0,3,0.250,0.339,0.400
+Kalah,3,Kendal,PARPOL,Tino Indra Wardono,Mustamsikin,L,L,37,55,SIPIL,SIPIL,0,0,4,0.333,0.256,0.333
+Menang,3,Klaten,PARPOL,Sri Mulyani,Yoga Hardaya,P,L,43,53,SIPIL,SIPIL,1,0,2,0.167,0.370,0.520
+Kalah,3,Klaten,PARPOL,One Krisnata,Muhammad Fajri,L,L,53,50,SIPIL,SIPIL,0,0,3,0.250,0.317,0.260
+Kalah,3,Klaten,PARPOL,Arif Budiyono,Harjanta,L,L,49,51,SIPIL,SIPIL,0,0,4,0.333,0.313,0.220
+Menang,2,Pekalongan,PARPOL,Fadia Arafiq,Riswadi,P,L,42,46,SIPIL,SIPIL,0,0,5,0.417,0.628,0.444
+Kalah,2,Pekalongan,PARPOL,Asip Kholbihi,Sumarwati,L,P,54,58,SIPIL,SIPIL,1,0,4,0.333,0.372,0.556
+Kalah,3,Pemalang,PARPOL,Agus Sukoco,Eko Priyono,L,L,61,58,SIPIL,SIPIL,0,0,4,0.333,0.550,0.440
+Menang,3,Pemalang,PARPOL,Mukti Agung Wibowo,Mansur Hidayat,L,L,44,45,SIPIL,SIPIL,0,0,2,0.167,0.169,0.260
+Kalah,3,Pemalang,PARPOL,Iskandar Ali Syahbana,Akhmad Aguswardana,L,L,42,43,SIPIL,SIPIL,0,0,2,0.167,0.188,0.300
+Menang,2,Purbalingga,PARPOL,Dyah Hayuning Pratiwi,Sudono,P,L,33,63,SIPIL,SIPIL,1,0,4,0.333,0.534,0.556
+Kalah,2,Purbalingga,PARPOL,Muhammad Sulhan Fauzi,Zaini Makarim,L,L,48,44,SIPIL,SIPIL,0,0,5,0.417,0.466,0.444
+Menang,3,Purworejo,PARPOL,Agus Bastian,Yuli Hastuti,L,P,61,57,SIPIL,SIPIL,1,2,4,0.333,0.329,0.378
+Kalah,3,Purworejo,PARPOL,Agustinus Susanto,Kelik Rahmad Kabuli,L,L,53,52,SIPIL,SIPIL,0,0,3,0.250,0.435,0.356
+Kalah,3,Purworejo,PARPOL,Kuswanto,Kusnomo,L,L,56,45,TNI/POLRI,TNI/POLRI,0,0,3,0.250,0.237,0.267
+Kalah,2,Rembang,PARPOL,Harno,Bayu Andriyanto,L,L,55,34,SIPIL,SIPIL,0,2,5,0.417,0.419,0.422
+Menang,2,Rembang,PARPOL,Abdul Hafidz,Mochamad Hanies Cholil,L,L,58,38,SIPIL,SIPIL,1,0,4,0.333,0.504,0.556
+Kalah,2,Semarang,PARPOL,Bintang Narsasi Mundjirin,Gunawan Wibisono,P,L,61,59,SIPIL,SIPIL,0,0,6,0.500,0.583,0.480
+Menang,2,Semarang,PARPOL,Ngesti Nugraha,M. Basari,L,L,50,52,SIPIL,SIPIL,2,0,4,0.333,0.417,0.520
+Menang,1,Sragen,PARPOL,Kusdinar Untung Yuni Sukowati,Suroto,P,L,46,64,SIPIL,SIPIL,1,0,6,0.500,0.744,0.756
+Menang,2,Sukoharjo,PARPOL,Etik Suryani,Agus Santosa,P,L,57,56,SIPIL,SIPIL,0,0,4,0.333,0.567,0.600
+Kalah,2,Sukoharjo,PARPOL,Joko Santosa,Wiwaha Aji Santosa,L,L,51,56,SIPIL,SIPIL,0,0,4,0.333,0.400,0.400
+Kalah,2,Wonogiri,PARPOL,Hartanto,Joko Purnomo,L,L,61,54,SIPIL,SIPIL,0,0,3,0.250,0.324,0.220
+Menang,2,Wonogiri,PARPOL,Joko Sutopo,Setyo Sukarno,L,L,46,54,SIPIL,SIPIL,1,0,3,0.250,0.447,0.780
+Menang,1,Wonosobo,PARPOL,Afif Nurhidayat,Muhammad Albar,L,L,50,55,SIPIL,SIPIL,0,0,7,0.583,0.744,0.778
+Kalah,2,Magelang,PARPOL,Aji Setyawan,Windarti Agustina,L,P,30,53,SIPIL,SIPIL,0,2,3,0.250,0.358,0.480
+Menang,2,Magelang,PARPOL,Muchamad Nur Aziz,M. Mansyur,L,L,49,73,SIPIL,SIPIL,0,0,4,0.333,0.430,0.480
+Menang,2,Pekalongan,PARPOL,Achmad Afzan Arslan Djunaid,Salahudin,L,L,41,51,SIPIL,SIPIL,2,0,4,0.333,0.332,0.371
+Kalah,2,Pekalongan,PARPOL,Balgis Diab,Machrus Abdullah,P,L,50,43,SIPIL,SIPIL,0,0,5,0.417,0.574,0.629
+Menang,1,Semarang,PARPOL,Hendrar Prihadi,Hevearita Gunaryanti Rahayu,L,P,49,54,SIPIL,SIPIL,1,2,8,0.667,0.967,0.960
+Menang,2,Surakarta,PARPOL,Gibran Rakabuming Raka,Teguh Prakosa,L,L,33,61,SIPIL,SIPIL,0,0,11,0.917,0.913,0.867
+Kalah,2,Surakarta,PERORANGAN,Bagyo Wahyono,Suparjo Fransiskus Xaverius,L,L,59,59,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,2,Bantul,PARPOL,Abdul Halim Muslih,Joko Purnomo,L,L,50,54,SIPIL,SIPIL,2,0,5,0.417,0.494,0.556
+Kalah,2,Bantul,PARPOL,Suharsono,Totok Sudarto,L,L,63,61,SIPIL,SIPIL,1,0,5,0.417,0.506,0.444
+Kalah,4,Gunungkidul,PARPOL,Sutrisna Wibawa,Mahmud Ardi Widanto,L,L,61,36,SIPIL,SIPIL,0,0,4,0.333,0.393,0.378
+Kalah,4,Gunungkidul,PARPOL,Immawan Wahyudi,Martanty Soenar Dewi,L,P,63,60,SIPIL,SIPIL,2,0,1,0.083,0.103,0.200
+Kalah,4,Gunungkidul,PARPOL,Bambang Wisnu Handoyo,Benyamin Sudarmadi,L,L,60,60,SIPIL,SIPIL,0,0,1,0.083,0.223,0.222
+Menang,4,Gunungkidul,PARPOL,Sunaryanta,Heri Susanto,L,L,50,51,TNI/POLRI,SIPIL,0,0,2,0.167,0.249,0.200
+Kalah,3,Sleman,PARPOL,Danang Wicaksana Sulistya,Agus Chaliq,L,L,41,47,SIPIL,SIPIL,0,0,3,0.250,0.270,0.300
+Kalah,3,Sleman,PARPOL,Sri Muslimatun,Amin Purnama,P,L,67,56,SIPIL,SIPIL,2,0,3,0.250,0.337,0.280
+Menang,3,Sleman,PARPOL,Kustini Sri Purnomo,Danang Maharsa,P,L,60,43,SIPIL,SIPIL,0,0,2,0.167,0.299,0.420
+Menang,2,Banyuwangi,PARPOL,Ipuk Fiestiandani,Sugirah,P,L,46,56,SIPIL,SIPIL,0,0,5,0.417,0.494,0.560
+Kalah,2,Banyuwangi,PARPOL,Yusuf Widyatmoko,Muhammad Riza Aziziy,L,L,58,35,SIPIL,SIPIL,2,0,4,0.333,0.430,0.440
+Kalah,2,Blitar,PARPOL,Rijanto,Marhaenis Urip Widodo,L,L,67,55,SIPIL,SIPIL,1,2,6,0.500,0.736,0.660
+Menang,2,Blitar,PARPOL,Rini Syarifah,Rahmat Santoso,P,L,43,42,SIPIL,SIPIL,0,0,3,0.250,0.264,0.340
+Kalah,2,Gresik,PARPOL,Mohammad Qosim,Asluchul Alif,L,L,62,40,SIPIL,SIPIL,2,0,2,0.167,0.237,0.420
+Menang,2,Gresik,PARPOL,Fandi Akhmad Yani,Aminatun Habibah,L,P,35,54,SIPIL,SIPIL,0,0,7,0.583,0.763,0.580
+Menang,3,Jember,PARPOL,Hendy Siswanto,Mohammad Balya Firjaun B,L,L,58,52,SIPIL,SIPIL,0,0,5,0.417,0.452,0.560
+Kalah,3,Jember,PARPOL,Abdussalam,Ifan Ariadna,L,L,37,41,SIPIL,SIPIL,0,0,4,0.333,0.548,0.380
+Kalah,3,Jember,PERORANGAN,Faida,Dwi Arya Nugraha Oktavianto,P,L,52,36,SIPIL,SIPIL,1,0,0,0.000,0.000,0.000
+Menang,1,Kediri,PARPOL,Hanindhito Himawan Pramono,Dewi Maria Ulfa,L,P,28,40,SIPIL,SIPIL,0,0,9,0.750,1.000,1.000
+Kalah,3,Lamongan,PARPOL,Suhandoyo,Astiti Suwarni,L,P,55,54,SIPIL,SIPIL,0,0,1,0.083,0.103,0.020
+Menang,3,Lamongan,PARPOL,Yuhronur Efendi,Abdul Rouf,L,L,52,59,SIPIL,SIPIL,0,0,6,0.500,0.487,0.600
+Kalah,3,Lamongan,PARPOL,Kartika Hidayati,Sa'im,P,L,53,51,SIPIL,SIPIL,2,0,2,0.167,0.324,0.360
+Menang,3,Malang,PARPOL,Sanusi,Didik Gatot Subroto,L,L,60,51,SIPIL,SIPIL,1,0,6,0.500,0.736,0.740
+Kalah,3,Malang,PARPOL,Lathifah Shohib,Didik Budi Muljono,P,L,61,51,SIPIL,SIPIL,0,0,2,0.167,0.101,0.260
+Kalah,3,Malang,PERORANGAN,Heri Cahyono,Gunadi Handoko,L,L,45,56,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,3,Mojokerto,PARPOL,Pungkasiadi,Titik Masudah,L,P,51,45,SIPIL,SIPIL,1,0,4,0.333,0.324,0.400
+Kalah,3,Mojokerto,PARPOL,Yoko Priyono,Choirun Nisa,L,P,54,61,SIPIL,SIPIL,0,0,2,0.167,0.181,0.220
+Menang,3,Mojokerto,PARPOL,Ikfina Fahmawati,Muhammad Al Barra,P,L,42,34,SIPIL,SIPIL,0,0,6,0.500,0.496,0.380
+Menang,1,Ngawi,PARPOL,Ony Anwar Harsono,Dwi Rianto Jatmiko,L,L,41,49,SIPIL,SIPIL,2,0,10,0.833,1.000,1.000
+Menang,2,Pacitan,PARPOL,Indrata Nur Bayuaji,Gagarin,L,L,42,50,SIPIL,SIPIL,0,0,7,0.583,0.600,0.756
+Kalah,2,Pacitan,PARPOL,Yudi Sumbogo,Isyah Anshori,L,L,59,65,SIPIL,SIPIL,2,0,2,0.167,0.324,0.244
+Menang,2,Ponorogo,PARPOL,Sugiri Sancoko,Lisdyarita,L,P,49,42,SIPIL,SIPIL,0,0,4,0.333,0.332,0.200
+Kalah,2,Ponorogo,PARPOL,Ipong Muchlissoni,Bambang Tri Wahono,L,L,53,55,SIPIL,SIPIL,1,0,6,0.500,0.668,0.800
+Kalah,3,Sidoarjo,PARPOL,Bambang Haryo Soekartono,M. Taufiqulbar,L,L,57,48,SIPIL,SIPIL,0,0,5,0.417,0.497,0.360
+Menang,3,Sidoarjo,PARPOL,Kelana Aprilianto,Dwi Astutik,L,P,49,50,SIPIL,SIPIL,0,0,3,0.250,0.426,0.540
+Kalah,3,Sidoarjo,PARPOL,Ahmad Muhdlor Ali,Subandi,L,L,29,48,SIPIL,SIPIL,0,0,1,0.083,0.077,0.100
+Menang,2,Situbondo,PARPOL,Yoyok Mulyadi,Abu Bakar Abdi,L,L,58,55,SIPIL,SIPIL,2,0,5,0.417,0.562,0.533
+Kalah,2,Situbondo,PARPOL,Karna Suswandi,Khoirani,L,P,53,60,SIPIL,SIPIL,0,0,5,0.417,0.438,0.467
+Menang,2,Sumenep,PARPOL,Achmad Fauzi,Dewi Khalifah,L,P,41,49,SIPIL,SIPIL,2,0,5,0.417,0.522,0.580
+Kalah,2,Sumenep,PARPOL,Fattah Jasin,Ali Fikri Warits,L,L,58,47,SIPIL,SIPIL,0,0,6,0.500,0.478,0.600
+Kalah,2,Trenggalek,PARPOL,Mochamad Nur Arifin,Syah Muhammad Natanegara,L,L,30,31,SIPIL,SIPIL,1,0,2,0.167,0.188,0.378
+Menang,2,Trenggalek,PARPOL,Alfan Rianto Muasir,Zaenal Fanani,L,L,60,34,SIPIL,SIPIL,0,0,7,0.583,0.710,0.689
+Kalah,2,Tuban,PARPOL,Khozanah Hidayati,Muhammad Anwar,P,L,51,56,SIPIL,SIPIL,0,0,3,0.250,0.204,0.380
+Menang,2,Tuban,PARPOL,Aditya Halindra Faridzky,Riyadi,L,L,28,49,SIPIL,SIPIL,0,0,3,0.250,0.329,0.300
+Kalah,2,Tuban,PARPOL,Setiajit,Armaya Mangkunegara,L,L,59,32,SIPIL,SIPIL,0,0,5,0.417,0.468,0.320
+Kalah,2,Blitar,PARPOL,Henry Pradipta Anwar,Yasin Hermanto,L,L,31,50,SIPIL,SIPIL,0,0,3,0.250,0.336,0.280
+Menang,2,Blitar,PARPOL,Santoso,Tjutjuk Sunario,L,L,59,58,SIPIL,SIPIL,1,0,5,0.417,0.485,0.720
+Menang,2,Pasuruan,PARPOL,Saifullah Yusuf,Adi Wibowo,L,L,56,40,SIPIL,SIPIL,0,0,5,0.417,0.445,0.700
+Kalah,2,Pasuruan,PARPOL,Raharto Teno Prasetyo,Moch. Hasjim Asjari,L,L,38,49,SIPIL,SIPIL,1,0,4,0.333,0.461,0.300
+Menang,2,Surabaya,PARPOL,Eri Cahyadi,Armuji,L,L,43,55,SIPIL,SIPIL,0,0,1,0.083,0.223,0.300
+Kalah,2,Surabaya,PARPOL,Machfud Arifin,Mujiaman Sukirno,L,L,60,52,SIPIL,SIPIL,0,0,8,0.667,0.777,0.620
+Menang,1,Badung,PARPOL,I Nyoman Giri Prasta,I Ketut Suiasa,L,L,48,56,SIPIL,SIPIL,1,2,7,0.583,0.701,0.975
+Kalah,2,Bangli,PARPOL,Sang Nyoman Sedana Arta,I Wayan Diar,L,L,48,48,SIPIL,SIPIL,2,0,2,0.167,0.250,0.267
+Menang,2,Bangli,PARPOL,I Made Subrata,Ngakan Kutha Parwata,L,L,45,60,SIPIL,SIPIL,0,0,5,0.417,0.452,0.733
+Kalah,2,Jembarana,PARPOL,I Made Kembang Hartawan,I Ketut Sugiasa,L,L,45,54,SIPIL,SIPIL,2,0,2,0.167,0.223,0.543
+Menang,2,Jembarana,PARPOL,I Nengah Tamba,Gede Ngurah Patriana,L,L,56,42,SIPIL,SIPIL,0,0,9,0.750,0.777,0.457
+Menang,2,Karangasem,PARPOL,I Gusti Ayu Mas Sumatri,I Made Sukarena,P,L,53,54,SIPIL,SIPIL,1,0,2,0.167,0.223,0.333
+Kalah,2,Karangasem,PARPOL,I Gede Dana,I Wayan Artha Dipa,L,L,52,64,SIPIL,SIPIL,0,2,5,0.417,0.567,0.622
+Menang,2,Tabanan,PARPOL,I Komang Gede Sanjaya,I Made Edi Wirawan,L,L,54,49,SIPIL,SIPIL,2,0,4,0.333,0.459,0.775
+Kalah,2,Tabanan,PARPOL,Anak Agung Ngurah Panji Astika,I Dewa Nyoman Budiasa,L,L,46,49,SIPIL,SIPIL,0,0,5,0.417,0.377,0.225
+Menang,2,Denpasar,PARPOL,I Gusti Ngurah Jaya Negara,Kadek Agus Arya Wibawa,L,L,54,45,SIPIL,SIPIL,2,0,6,0.500,0.546,0.622
+Kalah,2,Denpasar,PARPOL,Gede Ngurah Ambara Putra,Made Bagus Kartanegara,L,L,53,50,SIPIL,SIPIL,0,0,4,0.333,0.421,0.333
+Kalah,3,Bima,PARPOL,Indah Dhamayanti,Dahlan M. Noer,P,L,39,63,SIPIL,SIPIL,1,2,3,0.250,0.310,0.200
+Kalah,3,Bima,PARPOL,Syafruddin H. M. Nur,Ady Mahyudi,L,L,62,50,SIPIL,SIPIL,0,0,2,0.167,0.179,0.222
+Menang,3,Bima,PARPOL,Irfan,Herman Alfa Edison,L,L,52,43,SIPIL,SIPIL,0,0,6,0.500,0.511,0.578
+Kalah,3, Dompu,PARPOL,Eri Aryani Abubakar,Ichtiar,P,L,55,52,SIPIL,SIPIL,0,0,4,0.333,0.411,0.300
+Menang,3, Dompu,PARPOL,Abdul Kadir Jaelani,Syahrul Parsan,L,L,44,61,SIPIL,SIPIL,0,0,3,0.250,0.238,0.333
+Kalah,3, Dompu,PARPOL,Syaifurrahman Salman,Ika Rizky Veryani,L,P,53,34,SIPIL,SIPIL,0,0,4,0.333,0.351,0.333
+Kalah,5,Lombok Tengah,PARPOL,Ahmad Ziadi,Lalu Aswatara,L,L,42,58,SIPIL,SIPIL,0,0,2,0.167,0.101,0.200
+Kalah,5,Lombok Tengah,PARPOL,Lalu Aswadi,Dahrun,L,L,59,60,SIPIL,SIPIL,0,0,2,0.167,0.127,0.240
+Kalah,5,Lombok Tengah,PARPOL,Masrun,Habib Ziadi Thohir,L,L,57,34,SIPIL,SIPIL,0,0,3,0.250,0.164,0.180
+Menang,5,Lombok Tengah,PARPOL,Lalu Pathul Bahri,Nursiah,L,L,59,60,SIPIL,SIPIL,0,0,4,0.333,0.609,0.360
+Kalah,5,Lombok Tengah,PERORANGAN,Lale Prayatni,Sumum,P,L,55,57,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,2,Lombok Utara,PARPOL,Najmul Akhyar,Suardi,L,L,48,60,SIPIL,SIPIL,1,0,4,0.333,0.546,0.358
+Kalah,2,Lombok Utara,PARPOL,Djohan Sjamsu,Danny Karter Febrianto,L,L,70,35,SIPIL,SIPIL,0,0,6,0.500,0.454,0.600
+Kalah,5,Sumbawa,PARPOL,Mahmud Abdullah,Dewi Noviany,L,P,64,46,SIPIL,SIPIL,2,0,3,0.250,0.400,0.311
+Kalah,5,Sumbawa,PARPOL,Talifuddin,Sudirman,L,L,60,41,SIPIL,SIPIL,0,0,2,0.167,0.127,0.200
+Kalah,5,Sumbawa,PERORANGAN,M. Husni Djibril,Muhammad Ikhsan,L,L,65,57,SIPIL,SIPIL,1,0,0,0.000,0.000,0.000
+Menang,5,Sumbawa,PARPOL,Syarafuddin Jarot,Mokhlis,L,L,56,62,SIPIL,SIPIL,0,0,3,0.250,0.337,0.267
+Kalah,5,Sumbawa,PARPOL,Nurdin Ranggabarani,Burhanuddin Jafar Salam,L,L,51,47,SIPIL,SIPIL,0,0,3,0.250,0.136,0.200
+Menang,1,Sumbawa Barat,PARPOL,Musyafirin,Fud Syaifuddin,L,L,57,45,SIPIL,SIPIL,1,2,9,0.750,0.906,0.840
+Menang,4,Mataram,PARPOL,H. L. Makmurs Said,Badruttamam Ahda,L,L,62,30,SIPIL,SIPIL,0,0,4,0.333,0.283,0.325
+Kalah,4,Mataram,PARPOL,Mohan Roliskana,TGH. Mujiburrahman,L,L,48,51,SIPIL,SIPIL,2,0,2,0.167,0.310,0.250
+Kalah,4,Mataram,PARPOL,Baihaqi,Baiq Diyah Ratu Ganefi,L,P,38,57,SIPIL,SIPIL,0,0,3,0.250,0.237,0.200
+Kalah,4,Mataram,PARPOL,Selly Andayani,TGH. Abdul Manan,P,L,59,51,SIPIL,SIPIL,0,0,3,0.250,0.170,0.200
+Kalah,2,Belu,PARPOL,Agustinus Taolin,Aloysius Haleserens,L,L,60,55,SIPIL,SIPIL,0,0,6,0.500,0.562,0.533
+Menang,2,Belu,PARPOL,Willybrodus Lay,J.T. Ose Luan,L,L,59,67,SIPIL,SIPIL,1,2,5,0.417,0.438,0.467
+Menang,2,Malaka,PARPOL,Stefanus Bria Seran,Wandelinus Taolin,L,L,63,50,SIPIL,SIPIL,1,0,1,0.083,0.101,0.120
+Kalah,2,Malaka,PARPOL,Simon Nahak,Kim Taolin,L,L,56,37,SIPIL,SIPIL,0,0,6,0.500,0.703,0.800
+Kalah,2,Manggarai,PARPOL,Herybertus G.L. Nabit,Heribertus Ngabut,L,L,44,58,SIPIL,SIPIL,0,0,3,0.250,0.273,0.371
+Menang,2,Manggarai,PARPOL,Deno Kamelus,Victor Madur,L,L,61,62,SIPIL,SIPIL,1,2,6,0.500,0.694,0.629
+Kalah,4,Manggarai Barat,PARPOL,Adrianus Garu,Anggalinus Gapul,L,L,46,59,SIPIL,SIPIL,0,0,3,0.250,0.214,0.200
+Kalah,4,Manggarai Barat,PARPOL,Maria Geong,Silverius Sukur,P,L,63,53,SIPIL,SIPIL,2,0,3,0.250,0.459,0.233
+Menang,4,Manggarai Barat,PARPOL,Edistasius Endi,Yulianus Weng,L,L,48,54,SIPIL,SIPIL,0,0,4,0.333,0.250,0.333
+Kalah,4,Manggarai Barat,PARPOL,Pantas Ferdinandus,Andi Riski Nur Cahya,L,P,63,46,SIPIL,SIPIL,0,0,2,0.167,0.077,0.200
+Kalah,5,Ngada,PERORANGAN,Wilfridus Muga,Herman Hey,L,L,47,61,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,5,Ngada,PARPOL,Andreas Paru,Raymundus Bena,L,L,61,47,SIPIL,SIPIL,0,0,2,0.167,0.249,0.280
+Kalah,5,Ngada,PARPOL,Paulus Soliwoa,Gregorius Upi Dheo,L,L,66,43,SIPIL,SIPIL,1,0,2,0.167,0.197,0.200
+Kalah,5,Ngada,PARPOL,Kristoforus Loko,Emanuel Dopo,L,L,46,60,SIPIL,SIPIL,0,0,2,0.167,0.077,0.200
+Kalah,5,Ngada,PARPOL,Helmut Waso,Yohanes Tay Ruba,L,L,51,58,SIPIL,SIPIL,0,0,1,0.083,0.223,0.160
+Kalah,3,Sabu Raijua,PARPOL,Nikodemus Nithanel Rihi Heke,Yohanis Uly Kale,L,L,58,41,SIPIL,SIPIL,1,0,2,0.167,0.204,0.250
+Menang,3,Sabu Raijua,PARPOL,Orient Riwu Kore,Thobias Uly,L,L,56,60,SIPIL,SIPIL,0,0,3,0.250,0.452,0.450
+Kalah,3,Sabu Raijua,PARPOL,Takem Radja Pono,Herman Hegi Radja Haba,L,L,57,54,SIPIL,SIPIL,0,0,3,0.250,0.224,0.250
+Menang,4,Sumba Barat,PARPOL,Agustinus Niga Dapawole,Gregorius H.B.L. Pandango,L,L,67,41,SIPIL,SIPIL,1,0,1,0.083,0.094,0.120
+Kalah,4,Sumba Barat,PARPOL,Marthen Ngailu Toni,Agustinus Bernadus Bora,L,L,51,55,SIPIL,SIPIL,2,0,2,0.167,0.324,0.200
+Kalah,4,Sumba Barat,PARPOL,Yohanes Dade,John Lado Bora Kabba,L,L,60,50,SIPIL,SIPIL,0,0,3,0.250,0.315,0.320
+Kalah,4,Sumba Barat,PARPOL,Daniel Bili,Thimotius Raga,L,L,55,52,SIPIL,SIPIL,0,0,2,0.167,0.148,0.200
+Menang,2,Sumba Timur,PARPOL,Kristofel Praing,David Melo Wadu,L,L,55,51,SIPIL,SIPIL,0,0,7,0.583,0.631,0.567
+Kalah,2,Sumba Timur,PARPOL,Umbu Lili Pekuwali,Yohanis Hiwa Wunu,L,L,47,55,SIPIL,SIPIL,2,0,2,0.167,0.249,0.400
+Kalah,3,Timor Tengah Utara,PARPOL,Kristiana Muki,Yosef Tanu,P,L,46,40,SIPIL,SIPIL,0,0,1,0.083,0.103,0.267
+Kalah,3,Timor Tengah Utara,PARPOL,Frengky Saunoah,Amandus Nahas,L,L,43,57,SIPIL,SIPIL,0,0,5,0.417,0.480,0.300
+Menang,3,Timor Tengah Utara,PARPOL,Juandi David,Eusabius Binsasi,L,L,61,61,SIPIL,SIPIL,0,0,3,0.250,0.384,0.333
+Menang,4,Bengkayang,PARPOL,Sebastinus Darwis,Syamsul Rizal,L,L,47,61,SIPIL,SIPIL,0,0,2,0.167,0.284,0.300
+Kalah,4,Bengkayang,PARPOL,Mok Fu Tjhiu,Aliong,L,L,60,52,SIPIL,SIPIL,0,0,1,0.083,0.000,0.100
+Kalah,4,Bengkayang,PARPOL,Martinus Kajot,Carlos Djafaara,L,L,47,62,SIPIL,SIPIL,0,0,2,0.167,0.325,0.267
+Kalah,4,Bengkayang,PARPOL,Herman Ivo,Yohanes Pasti,L,L,56,56,SIPIL,SIPIL,0,0,2,0.167,0.195,0.233
+Kalah,3,Kapuas Hulu,PARPOL,Hamdi Jafar,John Itang Oe,L,L,50,63,SIPIL,SIPIL,0,0,3,0.250,0.230,0.267
+Kalah,3,Kapuas Hulu,PARPOL,Baiduri H. Ahmad,Rufina Sedang,L,P,54,57,SIPIL,SIPIL,0,0,7,0.583,0.471,0.500
+Menang,3,Kapuas Hulu,PARPOL,Fransiskus Diaan,Wahyudi Hidayat,L,L,39,38,SIPIL,SIPIL,0,0,2,0.167,0.299,0.233
+Kalah,4,Ketapang,PARPOL,Iin Solinar,Rahmad Sutoyo,L,L,49,50,SIPIL,SIPIL,0,0,2,0.167,0.230,0.169
+Kalah,4,Ketapang,PARPOL,Junaidi,Sahrani,L,L,41,45,SIPIL,SIPIL,0,0,4,0.333,0.324,0.222
+Kalah,4,Ketapang,PARPOL,Eryanto Harun,Mateus Yudi,L,L,59,44,SIPIL,SIPIL,0,0,2,0.167,0.299,0.244
+Menang,4,Ketapang,PARPOL,Martin Rantan,Farhan,L,L,52,58,SIPIL,SIPIL,1,0,2,0.167,0.148,0.311
+Kalah,3,Melawi,PARPOL,Panji,Abang Ahmaddin,L,L,56,43,SIPIL,SIPIL,1,0,2,0.167,0.250,0.333
+Kalah,3,Melawi,PARPOL,Henny Dwi Rini,Mulyadi,P,L,57,50,SIPIL,SIPIL,0,0,3,0.250,0.230,0.200
+Menang,3,Melawi,PARPOL,Dadi Sunarsya Usfa Yursa,Kluisen,L,L,36,56,SIPIL,SIPIL,2,0,5,0.417,0.520,0.400
+Kalah,4,Sambas,PARPOL,Heroaldi Djuhardi Alwi,Rubaeti Erlita,L,P,49,45,SIPIL,SIPIL,0,0,2,0.167,0.249,0.222
+Menang,4,Sambas,PARPOL,Satono,Fahrur Rofi,L,L,40,39,SIPIL,SIPIL,0,0,2,0.167,0.212,0.244
+Kalah,4,Sambas,PARPOL,Helman Fachri,Darso,L,L,59,53,SIPIL,SIPIL,0,0,2,0.167,0.325,0.244
+Kalah,4,Sambas,PARPOL,Atbah Romin Suhaili,Hairiah,L,P,50,54,SIPIL,SIPIL,1,2,4,0.333,0.214,0.267
+Menang,2,Sekadau,PARPOL,Aron,Subandrio,L,L,46,44,SIPIL,SIPIL,0,0,6,0.500,0.520,0.400
+Kalah,2,Sekadau,PARPOL,Rupinus,Aloysius,L,L,55,57,SIPIL,SIPIL,1,2,5,0.417,0.480,0.533
+Menang,3,Sintang,PARPOL,Jarot Winarno,Sudiyanto,L,L,60,59,SIPIL,SIPIL,1,0,5,0.417,0.384,0.425
+Kalah,3,Sintang,PARPOL,Askiman,Hatta,L,L,54,59,SIPIL,SIPIL,2,0,2,0.167,0.094,0.225
+Kalah,3,Sintang,PARPOL,Yohanes Rumpak,Syarifuddin,L,L,44,55,SIPIL,SIPIL,0,0,3,0.250,0.435,0.325
+Menang,4,Kotawaringin Timur,PARPOL,Halikinnor,Irawati,L,P,58,43,SIPIL,SIPIL,0,0,2,0.167,0.317,0.300
+Kalah,4,Kotawaringin Timur,PARPOL,Suprianti Rambat,Muhammad Arsyad,P,L,54,46,SIPIL,SIPIL,0,0,2,0.167,0.237,0.225
+Kalah,4,Kotawaringin Timur,PARPOL,H.M. Taufiq Mukri,Supriadi,L,L,68,52,SIPIL,SIPIL,2,0,3,0.250,0.283,0.250
+Kalah,4,Kotawaringin Timur,PARPOL,Muhammad Rudini Darwan Ali,Samsudin,L,L,34,58,SIPIL,SIPIL,0,0,3,0.250,0.164,0.200
+Menang,2,Balangan,PARPOL,Abdul Hadi,Supiani,L,L,49,60,SIPIL,SIPIL,0,0,5,0.417,0.452,0.480
+Kalah,2,Balangan,PARPOL,Ansharuddin,M. Noor Iswan,L,L,62,38,SIPIL,SIPIL,1,0,7,0.583,0.548,0.520
+Menang,3,Banjar,PARPOL,Rusli,Fadlan Asy'ari,L,L,62,58,SIPIL,SIPIL,0,0,3,0.250,0.297,0.356
+Kalah,3,Banjar,PERORANGAN,Saidi Mansyur,Idrus Al Habsyi,L,L,33,60,SIPIL,SIPIL,2,0,0,0.000,0.000,0.000
+Kalah,3,Banjar,PARPOL,Andin Sofyanoor,Syarif Busthomi,L,L,44,51,SIPIL,SIPIL,0,0,6,0.500,0.703,0.622
+Kalah,5,Hulu Sungai Tengah,PARPOL,Aulia Oktafiandi,Mansyah Sabri,L,L,36,68,SIPIL,SIPIL,0,0,1,0.083,0.087,0.100
+Kalah,5,Hulu Sungai Tengah,PERORANGAN,Akhmad Tamzil,Ilham Effendy,L,L,60,61,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,5,Hulu Sungai Tengah,PERORANGAN,Faqih Jarjani,Abu Yazid Bustami,L,L,56,56,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,5,Hulu Sungai Tengah,PARPOL,Berry Nahdian Forqan,Pahrijani,L,L,48,57,SIPIL,SIPIL,2,0,7,0.583,0.657,0.667
+Kalah,5,Hulu Sungai Tengah,PARPOL,Saban Effendi,Abdillah Alaydrus,L,L,52,55,SIPIL,SIPIL,0,0,3,0.250,0.256,0.200
+Menang,2,Kotabaru,PARPOL,Sayed Jafara Al Idrus,Andi Rudi Latif,L,L,58,38,SIPIL,SIPIL,1,0,11,0.917,1.000,0.971
+Kalah,2,Kotabaru,PERORANGAN,Burhanuddin,Bahrudin,L,L,57,55,SIPIL,SIPIL,2,0,0,0.000,0.000,0.000
+Kalah,3,Tanah Bumbu,PARPOL,Mila Karmila,Zainal Arifin,P,L,37,47,SIPIL,SIPIL,0,0,3,0.250,0.391,0.571
+Kalah,3,Tanah Bumbu,PERORANGAN,Zairullah Azhar,Muhammad Rusli,L,L,66,52,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,3,Tanah Bumbu,PARPOL,Syafruddin H. Maming,Alpiya Rahman,L,L,43,34,SIPIL,SIPIL,0,0,5,0.417,0.515,0.429
+Kalah,3,Banjarbaru,PARPOL,Martinus,Darmawan Jaya Setiawan,L,L,63,52,SIPIL,SIPIL,0,2,3,0.250,0.336,0.333
+Menang,3,Banjarbaru,PARPOL,Aditya Mufti Ariffin,Wartono,L,L,36,54,SIPIL,SIPIL,0,0,3,0.250,0.391,0.433
+Kalah,3,Banjarbaru,PARPOL,Gusti Iskandar Sukma Alamsyah,A.R. Iwansyah,L,L,61,60,SIPIL,SIPIL,0,0,3,0.250,0.273,0.233
+Kalah,4,Banjarmasin,PARPOL,Ibnu Sina,Ariffin Noor,L,L,45,60,SIPIL,SIPIL,1,0,3,0.250,0.169,0.200
+Menang,4,Banjarmasin,PARPOL,Abdul Haris Makkie,Ilham Noor,L,L,58,44,SIPIL,SIPIL,0,0,3,0.250,0.417,0.333
+Kalah,4,Banjarmasin,PERORANGAN,Ananda,Mushaffa Zakir,P,L,36,38,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,Banjarmasin,PARPOL,Khairul Saleh,Muhammad Ali Al Habsyi,L,L,60,51,SIPIL,SIPIL,0,0,4,0.333,0.414,0.467
+Kalah,2,Berau,PARPOL,Seri Marawiah,Agus Tantomo,P,L,56,52,SIPIL,SIPIL,0,2,4,0.333,0.473,0.533
+Menang,2,Berau,PARPOL,Sri Juniarsih,Gamalis,P,L,44,54,SIPIL,SIPIL,0,0,6,0.500,0.527,0.467
+Menang,1,Kutai Kartanegara,PARPOL,Edi Damansyah,Rendi Solihin,L,L,55,29,SIPIL,SIPIL,1,0,9,0.750,0.906,0.978
+Kalah,2,Kutai Barat,PERORANGAN,Fransiskus Xaverius Yapan,Edyanto Arkan,L,L,62,61,SIPIL,SIPIL,1,2,0,0.000,0.000,0.000
+Menang,2,Kutai Barat,PARPOL,Martinus Herman Kenton,Abdul Azis,L,L,47,56,SIPIL,SIPIL,0,0,9,0.750,0.967,0.960
+Kalah,3,Kutai Timur,PARPOL,Mahyunadi,Lulu Kisnu,L,L,48,39,SIPIL,SIPIL,0,0,6,0.500,0.786,0.575
+Kalah,3,Kutai Timur,PARPOL,Ardiansyah Sulaiman,Kamsidi Bulang,L,L,56,44,SIPIL,SIPIL,0,2,1,0.083,0.033,0.225
+Menang,3,Kutai Timur,PARPOL,Awang Ferdian Hidayat,Uce Prasetyo,L,L,45,41,SIPIL,SIPIL,0,0,2,0.167,0.181,0.150
+Kalah,2,Mahakam Ulu,PARPOL,Bonifasius Belawan Geh,Yohanes Avun,L,L,54,56,SIPIL,SIPIL,1,0,1,0.083,0.223,0.200
+Menang,2,Mahakam Ulu,PARPOL,Yohanes Juan Jenau,Indra Jaya,L,L,61,32,SIPIL,SIPIL,2,0,4,0.333,0.478,0.800
+Kalah,4,Paser,PERORANGAN,Fahmi Fadli,Syarifah Masitah Assegaf,L,P,44,54,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,Paser,PARPOL,Tony Budi Hartono,Aji Sayid Fathur Rahman,L,L,63,62,SIPIL,SIPIL,0,0,4,0.333,0.419,0.400
+Menang,4,Paser,PARPOL,Sulaiman Eva Merukh,Ikhwan Wirawan,L,L,56,47,SIPIL,SIPIL,0,0,2,0.167,0.249,0.367
+Kalah,4,Paser,PARPOL,Alphad Syarif,Arbain M. Noor,L,L,44,47,SIPIL,SIPIL,0,0,4,0.333,0.332,0.200
+Menang,1,Balikpapan,PARPOL,Rahmad Mas'ud,Thohari Aziz,L,L,44,50,SIPIL,SIPIL,2,0,7,0.583,0.821,0.867
+Menang,2,Bontang,PARPOL,Basri Rase,Najirah,L,P,48,56,SIPIL,SIPIL,2,0,2,0.167,0.324,0.200
+Kalah,2,Bontang,PARPOL,Neni Moerniaeni,Joni Muslim,P,L,60,45,SIPIL,SIPIL,1,0,7,0.583,0.583,0.760
+Kalah,2,Samarinda,PARPOL,Muhammad Barkati,Darlis Pattolongi,L,L,51,49,SIPIL,SIPIL,2,0,3,0.250,0.318,0.311
+Menang,2,Samarinda,PARPOL,Andi Harun,Rusmadi Wongso,L,L,48,58,SIPIL,SIPIL,0,0,7,0.583,0.682,0.689
+Menang,4,Bulungan,PARPOL,Syarwani,Ingkong Ala,L,L,46,54,SIPIL,SIPIL,0,2,2,0.167,0.148,0.240
+Kalah,4,Bulungan,PARPOL,Sigit Muryono,Markus Juk,L,L,60,52,SIPIL,SIPIL,0,0,4,0.333,0.433,0.280
+Kalah,4,Bulungan,PARPOL,Najamuddin,Ari Yusnita,L,P,44,40,SIPIL,SIPIL,0,0,3,0.250,0.284,0.200
+Kalah,4,Bulungan,PARPOL,Djoko Susilo,Kosmas Kajan,L,L,65,51,SIPIL,SIPIL,0,0,2,0.167,0.136,0.200
+Kalah,3,Malinau,PARPOL,Pdt. Martin Labo,Mohammad Nasir,L,L,70,64,SIPIL,SIPIL,0,0,2,0.167,0.250,0.250
+Kalah,3,Malinau,PARPOL,Jhonny Laing Impang,Muhrim,L,L,56,59,SIPIL,SIPIL,0,0,2,0.167,0.256,0.200
+Menang,3,Malinau,PARPOL,Wembi W. Mawa,Jakaria,L,L,47,54,SIPIL,SIPIL,0,0,3,0.250,0.317,0.450
+Menang,2,Nunukan,PARPOL,Asmin Laura Hafid,Hanafiah,P,L,35,59,SIPIL,SIPIL,1,0,5,0.417,0.609,0.520
+Kalah,2,Nunukan,PARPOL,Danni Iskandar,Muhammad Nasir,L,L,42,46,SIPIL,SIPIL,0,0,4,0.333,0.214,0.440
+Menang,4,Tana Tidung,PARPOL,Ibrahim Ali,Hendrik,L,L,39,57,SIPIL,SIPIL,0,0,3,0.250,0.224,0.450
+Kalah,4,Tana Tidung,PERORANGAN,Sofian,Juid,L,L,58,56,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,Tana Tidung,PARPOL,Umi Suhartini,Herman,P,L,51,38,SIPIL,SIPIL,0,0,7,0.583,0.459,0.350
+Kalah,4,Tana Tidung,PARPOL,Markus,Hamjah,L,L,57,52,SIPIL,SIPIL,2,0,2,0.167,0.317,0.200
+Menang,2,Mongondow Selatan,PARPOL,Iskandar Kamaru,Deddy Abdul Hamid,L,L,46,51,SIPIL,SIPIL,1,2,2,0.167,0.358,0.600
+Kalah,2,Mongondow Selatan,PARPOL,Riston Mokoagow,Selviah Van Gobel,L,P,40,55,SIPIL,SIPIL,0,0,4,0.333,0.428,0.350
+Kalah,3,Mongondow Timur,PARPOL,Sam Sachrul,Oskar Manopo,L,L,47,48,SIPIL,SIPIL,0,0,4,0.333,0.454,0.500
+Menang,3,Mongondow Timur,PARPOL,Suhendro Boroma,Rusdi Gumalangit,L,L,55,52,SIPIL,SIPIL,0,2,3,0.250,0.204,0.250
+Kalah,3,Mongondow Timur,PARPOL,Amalia Ramadhan Landjar,Uyun Kunaefi Pangalima,P,L,29,47,SIPIL,SIPIL,0,0,2,0.167,0.310,0.200
+Kalah,3,Minahasa Selatan,PARPOL,Franky Donny Wongkar,Petra Yani Rembang,L,L,54,53,SIPIL,SIPIL,2,0,4,0.333,0.421,0.600
+Kalah,3,Minahasa Selatan,PERORANGAN,Michaela Elsiana Paruntu,Ventje Tuela,P,L,38,63,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,3,Minahasa Selatan,PARPOL,Royke Sondakh,Harits Andry Umboh,L,L,55,55,SIPIL,SIPIL,0,0,2,0.167,0.358,0.333
+Kalah,3,Minahasa Utara,PARPOL,Joune Ganda,Kevin William Lotulung,L,L,49,31,SIPIL,SIPIL,0,0,2,0.167,0.204,0.200
+Menang,3,Minahasa Utara,PARPOL,Sompie Singel,Joppi Lengkong,L,L,67,59,SIPIL,SIPIL,0,2,6,0.500,0.485,0.567
+Kalah,3,Minahasa Utara,PARPOL,Shintia Gelly Rumumpe,Netty Agnes Pantow,P,P,39,49,SIPIL,SIPIL,0,0,3,0.250,0.224,0.200
+Kalah,3,Bitung,PARPOL,Maurits Mantiri,Hengky Honandar,L,L,55,56,SIPIL,SIPIL,2,0,4,0.333,0.284,0.467
+Kalah,3,Bitung,PARPOL,Victorine Lengkong,Gunawan Pontoh,P,L,42,47,SIPIL,SIPIL,0,0,2,0.167,0.224,0.200
+Menang,3,Bitung,PARPOL,Maximilian Jonas Lomban,Martin Daniel Tumbelaka,L,L,64,38,SIPIL,SIPIL,1,0,5,0.417,0.492,0.300
+Menang,4,Manado,PARPOL,Andrei Angou,Richard Sualang,L,L,49,47,SIPIL,SIPIL,0,0,2,0.167,0.358,0.350
+Kalah,4,Manado,PARPOL,Mor Dominus,Hanny Joost Pajouw,L,L,46,42,SIPIL,SIPIL,2,0,3,0.250,0.235,0.200
+Kalah,4,Manado,PARPOL,Julyeta Runtuwene,Harley Alfredo Benfica Mangindaan,P,L,56,45,SIPIL,SIPIL,0,0,2,0.167,0.170,0.250
+Kalah,4,Manado,PARPOL,Sonya Selviana Kembuan,Syarifudin Saafa,P,L,55,45,SIPIL,SIPIL,0,0,1,0.083,0.103,0.125
+Kalah,2,Tomohon,PARPOL,Caroll Senduk,Wenny Lumentut,L,L,51,59,SIPIL,SIPIL,0,0,4,0.333,0.344,0.700
+Menang,2,Tomohon,PARPOL,Jilly Gabriella Eman,Virgie Baker,P,P,30,45,SIPIL,SIPIL,0,0,3,0.250,0.459,0.300
+Kalah,4,Bone Bolango,PERORANGAN,Ismet Mile,Sukandi Talani,L,L,71,47,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,4,Bone Bolango,PARPOL,Hamim Pou,Merlan S. Uloli,L,P,51,55,SIPIL,SIPIL,1,0,3,0.250,0.284,0.440
+Kalah,4,Bone Bolango,PARPOL,Rusliyanto Monoarfa,Umar Ibrahim,L,L,44,50,SIPIL,SIPIL,0,0,4,0.333,0.393,0.400
+Kalah,4,Bone Bolango,PARPOL,Mohamad Kilat Wartabone,Syamsir Djafar Kiyayi,L,L,59,46,SIPIL,SIPIL,2,0,1,0.083,0.223,0.080
+Kalah,4,Gorontalo,PARPOL,Tonny S. Junus,Daryatno Gobel,L,L,55,46,SIPIL,SIPIL,0,0,2,0.167,0.299,0.229
+Menang,4,Gorontalo,PARPOL,Nelson Pomalingo,Hendra S. Hemeto,L,L,58,47,SIPIL,SIPIL,1,0,2,0.167,0.181,0.371
+Kalah,4,Gorontalo,PARPOL,Chamdi Ali Tumenggung Mayang,Tomy Ishak,L,L,46,37,SIPIL,SIPIL,0,0,3,0.250,0.230,0.200
+Kalah,4,Gorontalo,PARPOL,Rustam Hs. Akili,Dicky Gobel,L,L,56,48,SIPIL,SIPIL,0,0,2,0.167,0.190,0.200
+Kalah,3,Pohuwato,PERORANGAN,Hamdi Alamri,Zairin T.D. Maksud,L,L,48,57,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,3,Pohuwato,PERORANGAN,Ibrahim Bouti,Miswar Yunus,L,P,53,45,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,3,Pohuwato,PARPOL,Iwan Sjafruddin Adam,Zunaidi Z. Hasan,L,L,51,30,SIPIL,SIPIL,0,0,3,0.250,0.291,0.200
+Menang,3,Pohuwato,PARPOL,Saipul A. Mbuinga,Suharsi Igirisa,L,P,57,56,SIPIL,SIPIL,0,0,8,0.667,0.710,0.800
+Kalah,2,Majene,PARPOL,Andi Achmad Syukri Tammalele,Aris Munandar Kalma,L,L,58,35,SIPIL,SIPIL,0,0,8,0.667,0.906,0.760
+Menang,2,Majene,PARPOL,Fatmawati Fahmi,Lukman,P,L,53,53,SIPIL,SIPIL,0,2,2,0.167,0.094,0.200
+Menang,2,Mamuju,PARPOL,Siti Sutinah Suhardi,Ado Mas'ud,P,L,36,40,SIPIL,SIPIL,0,0,6,0.500,0.616,0.433
+Kalah,2,Mamuju,PARPOL,Habsi Wahid,Irwan Satya Putra Pababari,L,L,62,46,SIPIL,SIPIL,1,2,4,0.333,0.283,0.533
+Menang,1,Mamuju Tengah,PARPOL,Aras Tammauni,Muhammad Amin Jasa,L,L,64,64,SIPIL,SIPIL,1,2,11,0.917,1.000,0.840
+Menang,3,Pasangkayu,PARPOL,Yaumil Ambo Djiwa,Herny Agus,L,P,62,46,SIPIL,SIPIL,0,0,9,0.750,0.804,0.533
+Kalah,3,Pasangkayu,PARPOL,Muhammad Saal,Musawir Asis Isham,L,L,65,46,SIPIL,SIPIL,2,0,3,0.250,0.197,0.367
+Kalah,3,Pasangkayu,PERORANGAN,Abdullah Rasyid,Muhammad Yusri Nur,L,L,67,43,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,3,Banggai,PARPOL,Sulianti Murad,Zainal Abidin Ali Hamu,P,L,46,53,SIPIL,SIPIL,0,0,2,0.167,0.212,0.200
+Menang,3,Banggai,PARPOL,Amirudin Temoreka,Furqanuddin Masulili,L,L,49,62,SIPIL,SIPIL,0,0,4,0.333,0.351,0.400
+Kalah,3,Banggai,PARPOL,Herwin Yatim,Mustar Labolo,L,L,54,58,SIPIL,SIPIL,1,2,2,0.167,0.310,0.371
+Kalah,4,Banggai Laut,PARPOL,Wenny Bukamo,Ridaya Laode Ngkowe,L,L,60,46,SIPIL,SIPIL,0,0,4,0.333,0.607,0.350
+Kalah,4,Banggai Laut,PERORANGAN,Rusli Banun,Basri,L,L,46,50,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,Banggai Laut,PARPOL,Tuty Hamid,Richard Manuas,P,L,65,44,SIPIL,SIPIL,2,0,2,0.167,0.197,0.400
+Menang,4,Banggai Laut,PARPOL,Sofyan Kaepa,Ablit,L,L,54,43,SIPIL,SIPIL,0,0,2,0.167,0.087,0.200
+Menang,2,Morowali Utara,PARPOL,Delis Julkarson,Djira,L,L,44,55,SIPIL,SIPIL,0,0,5,0.417,0.351,0.680
+Kalah,2,Morowali Utara,PARPOL,Holiliana,Abudin Halilu,P,L,50,64,SIPIL,SIPIL,0,0,4,0.333,0.539,0.240
+Menang,3,Poso,PARPOL,Verna Gladies Merry Inkiriwang,Yasin Mangun,P,L,37,48,SIPIL,SIPIL,0,0,3,0.250,0.170,0.233
+Kalah,3,Poso,PARPOL,Darmin Agustinus Sigilipu,Amdjad Lawasa,L,L,56,65,SIPIL,SIPIL,1,0,7,0.583,0.729,0.667
+Kalah,3,Poso,PERORANGAN,T. Samsuri,Tony Sowolino,L,L,68,59,SIPIL,SIPIL,2,0,0,0.000,0.000,0.000
+Menang,2,Sigi,PARPOL,Mohamad Irwan Lapatta,Samuel Yansen Pongi,L,L,52,45,SIPIL,SIPIL,1,0,5,0.417,0.565,0.567
+Kalah,2,Sigi,PARPOL,Husen Habibu,Paulina Lailo,L,P,61,50,SIPIL,SIPIL,0,2,4,0.333,0.325,0.433
+Kalah,4,Tojo Una-Una,PERORANGAN,Admin A.S. Lasimpala,Baedhawi Abdullah,L,L,54,55,SIPIL,SIPIL,2,0,0,0.000,0.000,0.000
+Kalah,4,Tojo Una-Una,PARPOL,Rendy Lamadjido,Hasan Lasiata,L,L,60,50,SIPIL,SIPIL,0,0,3,0.250,0.324,0.280
+Menang,4,Tojo Una-Una,PARPOL,Muhammad Lahay,Ilham Lawidu,L,L,59,45,SIPIL,SIPIL,1,0,2,0.167,0.250,0.320
+Kalah,4,Tojo Una-Una,PARPOL,Suprapto Daeng Situru,Afnan Rachmat,L,L,54,49,SIPIL,SIPIL,0,0,3,0.250,0.306,0.360
+Kalah,3,Tolitoli,PARPOL,Abdul Rahman H. Budding,Mohammad Faisal Bantilan,L,L,54,59,SIPIL,SIPIL,2,0,3,0.250,0.214,0.333
+Kalah,3,Tolitoli,PARPOL,Muchtar Deluma,Bakri Idrus,L,L,60,53,SIPIL,SIPIL,0,0,4,0.333,0.506,0.333
+Menang,3,Tolitoli,PARPOL,Amran Hi. Yahya,Mohammad Besar Bantilan,L,L,52,32,SIPIL,SIPIL,0,0,3,0.250,0.179,0.333
+Kalah,4,Palu,PARPOL,Hidayat,Habsa Yanti Ponulele,L,P,58,50,SIPIL,SIPIL,0,0,2,0.167,0.190,0.229
+Menang,4,Palu,PARPOL,Aristan,Wahyuddin,L,L,51,45,SIPIL,SIPIL,0,0,2,0.167,0.101,0.200
+Kalah,4,Palu,PARPOL,Hadianto Rasyid,Reny A. Lamadjido,L,L,45,58,SIPIL,SIPIL,0,0,3,0.250,0.393,0.229
+Kalah,4,Palu,PARPOL,Imelda Liliana Muhidin,Arena J.R. Parampasi,P,L,46,60,SIPIL,SIPIL,0,0,2,0.167,0.284,0.314
+Kalah,3,Barru,PARPOL,Suardi Saleh,Aska Mappe,L,L,64,55,SIPIL,TNI/POLRI,1,0,2,0.167,0.134,0.240
+Menang,3,Barru,PARPOL,Malkan Amin,Andi Salahuddin Rum,L,L,72,46,SIPIL,SIPIL,0,0,4,0.333,0.506,0.440
+Kalah,3,Barru,PARPOL,Mudassir Hasri Gani,Aksah Kasim,L,L,27,48,SIPIL,SIPIL,0,0,4,0.333,0.360,0.320
+Kalah,4,Bulukumba,PARPOL,Andi Hamzah Pangki,Andi Murniyati Makking,L,L,47,56,SIPIL,SIPIL,0,0,3,0.250,0.242,0.200
+Kalah,4,Bulukumba,PARPOL,Tomy Satria Yulianto,Andi Makkasau,L,L,46,56,SIPIL,SIPIL,2,0,2,0.167,0.136,0.275
+Kalah,4,Bulukumba,PARPOL,Andi Muchtar Ali Yusuf,Andi Edy Manaf,L,L,47,56,SIPIL,SIPIL,0,0,3,0.250,0.324,0.200
+Menang,4,Bulukumba,PARPOL,Askar HL,Arum Spink,L,L,42,42,SIPIL,SIPIL,0,0,3,0.250,0.299,0.300
+Menang,1,Gowa,PARPOL,Adnan Purichta Ichsan,Abdul Rauf Malaganni,L,L,34,62,SIPIL,SIPIL,1,2,9,0.750,1.000,0.911
+Kalah,2,Selayar,PARPOL,Zainuddin,Aji Sumarno,L,L,64,40,SIPIL,SIPIL,2,0,3,0.250,0.282,0.240
+Menang,2,Selayar,PARPOL,M. Basli Ali,Saiful Arif,L,L,45,58,SIPIL,SIPIL,1,0,5,0.417,0.583,0.720
+Menang,2,Luwu Timur,PARPOL,Muhammad Thoriq Husler,Budiman Hakim,L,L,57,53,SIPIL,SIPIL,1,0,8,0.667,0.771,0.800
+Kalah,2,Luwu Timur,PARPOL,Irwan Bachri Syam,Andi Muhammad Rio Pattiwiri Hatta,L,L,43,38,SIPIL,SIPIL,2,0,2,0.167,0.197,0.200
+Kalah,3,Luwu Utara,PARPOL,Indah Putri Indriani,Suaib Mansur,P,L,43,50,SIPIL,SIPIL,1,0,2,0.167,0.204,0.171
+Menang,3,Luwu Utara,PARPOL,M. Thahar Rum,Rahmat Laguni,L,L,65,51,SIPIL,SIPIL,2,0,5,0.417,0.574,0.514
+Kalah,3,Luwu Utara,PARPOL,Arsyad Kasmar,Andi Sukma,L,L,62,48,SIPIL,SIPIL,0,0,3,0.250,0.223,0.257
+Kalah,3,Maros,PARPOL,Andi Tajerimin,Havid S. Fasha,L,L,65,50,SIPIL,SIPIL,2,0,4,0.333,0.478,0.429
+Menang,3,Maros,PARPOL,Andi Syafril Chaidir Syam,Suhartina Bohari,L,P,65,39,SIPIL,SIPIL,2,0,4,0.333,0.110,0.371
+Kalah,3,Maros,PARPOL,Andi Harmil Mattotorang,Andi Ilham Nadjamuddin,L,L,65,43,SIPIL,SIPIL,2,0,2,0.167,0.190,0.168
+Menang,4,Pangkajene dan Kepulauan,PARPOL,Andi Nirawati,Lutfi Hanafi,P,L,43,52,SIPIL,SIPIL,0,0,1,0.083,0.103,0.229
+Kalah,4,Pangkajene dan Kepulauan,PARPOL,Muhammad Yusran Lalogau,Syahban Sammana,L,L,28,58,SIPIL,SIPIL,0,2,4,0.333,0.450,0.200
+Kalah,4,Pangkajene dan Kepulauan,PARPOL,Abdul Rahman Assagaf,Muammar Muhayang,L,L,53,45,SIPIL,SIPIL,0,0,2,0.167,0.224,0.286
+Kalah,4,Pangkajene dan Kepulauan,PARPOL,Andi Ilham Zainuddin,Rismayani Syamsuddin,P,P,43,45,SIPIL,SIPIL,0,0,3,0.250,0.223,0.229
+Menang,1,Soppeng,PARPOL,Andi Kaswadi Razak,Lutfi Halide,L,L,53,61,SIPIL,SIPIL,1,0,7,0.583,0.837,1.000
+Menang,3,Tanatoraja,PARPOL,Albertus Patarru,John Diplomasi,L,L,59,62,SIPIL,SIPIL,0,0,3,0.250,0.230,0.233
+Kalah,3,Tanatoraja,PARPOL,Theofilus Allorerung,Zadrak Tombeg,L,L,63,58,SIPIL,SIPIL,0,0,2,0.167,0.250,0.433
+Kalah,3,Tanatoraja,PARPOL,Nicodemus Biringkanae,Victor Datuan Batara,L,L,64,60,SIPIL,SIPIL,1,2,2,0.167,0.223,0.267
+Kalah,3,Toraja Utara,PARPOL,Yosia Rinto Kadang,Yonathan Pasodung,L,L,40,61,SIPIL,SIPIL,2,0,2,0.167,0.103,0.300
+Menang,3,Toraja Utara,PARPOL,Yohanis Bassang,Frederik V. Palimbong,L,L,47,50,SIPIL,SIPIL,0,0,2,0.167,0.242,0.300
+Kalah,4,Toraja Utara,PARPOL,Kalatiku Paembonan,Etha Rimba P. Tandi,L,P,67,42,SIPIL,SIPIL,1,0,3,0.250,0.358,0.333
+Menang,4,Makassar,PARPOL,Danny Pomanto,Fatmawati Rusdi,L,P,56,40,SIPIL,SIPIL,1,0,3,0.250,0.238,0.220
+Kalah,4,Makassar,PARPOL,Munafri Arifuddin,Abdul Rahman Bando,L,L,45,50,SIPIL,SIPIL,0,0,2,0.167,0.127,0.220
+Kalah,4,Makassar,PARPOL,Syamsu Rizal,Fadli Ananda,L,L,47,35,SIPIL,SIPIL,2,0,3,0.250,0.324,0.200
+Kalah,4,Makassar,PARPOL,Irman Yasin Limpo,Andi Zunnun Nurdin Halid,L,L,52,35,SIPIL,SIPIL,0,0,4,0.333,0.311,0.300
+Menang,3,Buton Utara,PARPOL,Ridwan Zakariah,Ahali,L,L,70,54,SIPIL,SIPIL,0,0,3,0.250,0.318,0.500
+Kalah,3,Buton Utara,PARPOL,Muhammad Aswadi Adam,Fahrul Muhammad,L,L,38,61,SIPIL,SIPIL,0,0,4,0.333,0.324,0.300
+Kalah,3,Buton Utara,PARPOL,Abu Hasan,Suhuzu,L,L,60,48,SIPIL,SIPIL,1,0,1,0.083,0.223,0.200
+Kalah,2,Kolaka Timur,PARPOL,Tony Herbiansah,Baharuddin,L,L,61,58,SIPIL,SIPIL,1,0,4,0.333,0.337,0.560
+Menang,2,Kolaka Timur,PARPOL,Samsul Bahri Madjid,Andi Merya Nur,L,P,52,36,SIPIL,SIPIL,0,2,4,0.333,0.529,0.440
+Menang,4,Konawe Kepulauan,PARPOL,Amrullah,Andi Muhammad Lutfi,L,L,55,50,SIPIL,SIPIL,1,2,5,0.417,0.520,0.550
+Kalah,4,Konawe Kepulauan,PERORANGAN,Abdul Halim,Untung,L,L,55,51,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,Konawe Kepulauan,PARPOL,Musdar,Ilham Jaya,L,L,51,52,SIPIL,SIPIL,0,0,2,0.167,0.164,0.200
+Kalah,4,Konawe Kepulauan,PARPOL,Muhammad Oheo Sinapoy,Muttaqin Siddiq,L,L,49,38,SIPIL,SIPIL,0,0,3,0.250,0.317,0.250
+Kalah,3,Konawe Selatan,PARPOL,Rusmin Abdul Gani,Senawan Silondae,L,L,40,48,SIPIL,SIPIL,0,0,3,0.250,0.256,0.229
+Menang,3,Konawe Selatan,PARPOL,Surunuddin Dangga,Rasyid,L,L,66,44,SIPIL,SIPIL,1,0,5,0.417,0.438,0.429
+Kalah,3,Konawe Selatan,PARPOL,Muhammad Endang S.A.,Wahyu Ade Pratama,L,L,45,34,SIPIL,SIPIL,0,0,3,0.250,0.306,0.343
+Kalah,2,Konawe Utara,PARPOL,Raup,Iskandar Mekuo,L,L,49,46,SIPIL,SIPIL,2,0,3,0.250,0.177,0.350
+Menang,2,Konawe Utara,PARPOL,Ruksamin,Abu Haera,L,L,47,62,SIPIL,SIPIL,1,0,4,0.333,0.473,0.650
+Menang,2,Muna,PARPOL,Laode Muhammad Rusman Emba,Bachrun Labuta,L,L,47,63,SIPIL,SIPIL,1,0,4,0.333,0.558,0.467
+Kalah,2,Muna,PARPOL,Laode Muhammad Rajiun Tumada,La Pili,L,L,47,42,SIPIL,SIPIL,1,0,7,0.583,0.442,0.533
+Menang,2,Wakatobi,PARPOL,Arhawi Ruda,Hardin La Omo,L,L,56,67,SIPIL,SIPIL,1,0,5,0.417,0.454,0.640
+Kalah,2,Wakatobi,PARPOL,Haliana,Ilmiati Daud,L,P,47,48,SIPIL,SIPIL,0,2,3,0.250,0.325,0.360
+Kalah,3,Buru Selatan,PARPOL,Hadji Ali,Zainuddin Booy,L,L,63,54,SIPIL,SIPIL,0,0,2,0.167,0.284,0.200
+Kalah,3,Buru Selatan,PARPOL,Abdurrahman Soulisa,Elisa Ferianto Lesnusa,L,L,52,50,SIPIL,SIPIL,0,0,3,0.250,0.136,0.350
+Menang,3,Buru Selatan,PARPOL,Safitri Malik Soulisa,Gerson Eliaser Selsily,P,L,43,50,SIPIL,SIPIL,0,0,3,0.250,0.393,0.300
+Menang,2,Kepulauan Aru,PARPOL,Johan Gonga,Muin Sogalrey,L,L,57,51,SIPIL,SIPIL,1,2,7,0.583,0.588,0.680
+Kalah,2,Kepulauan Aru,PARPOL,Timotius Kaidel,Lagani Karnaka,L,L,46,50,SIPIL,SIPIL,0,0,3,0.250,0.336,0.240
+Kalah,3,Maluku Barat Daya,PARPOL,Nikolas Johan Kilikily,Desianus Orno,L,L,49,50,SIPIL,SIPIL,0,0,2,0.167,0.284,0.300
+Menang,3,Maluku Barat Daya,PARPOL,Benyamin Thomas Noach,Agustinus Lekwarday Kilikily,L,L,52,54,SIPIL,SIPIL,1,0,5,0.417,0.419,0.700
+Kalah,3,Maluku Barat Daya,PERORANGAN,John Nimrot Leunupun,Dolfina Markus,L,P,58,54,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,3,Seram Bagian Timur,PARPOL,Abdul Mukti Keliobas,Idris Rumalutur,L,L,52,56,SIPIL,SIPIL,1,0,4,0.333,0.327,0.400
+Kalah,3,Seram Bagian Timur,PARPOL,Fachri Husni Alkatiri,Arobi Kelian,L,L,44,46,SIPIL,SIPIL,2,0,7,0.583,0.673,0.680
+Kalah,3,Seram Bagian Timur,PERORANGAN,Rohani Vanath,Muhammad Ramly Mahu,P,L,50,58,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,4,Halmahera Barat,PARPOL,James Uang,Djufri Muhammad,L,L,56,47,SIPIL,SIPIL,0,0,2,0.167,0.197,0.200
+Kalah,4,Halmahera Barat,PARPOL,Danny Missy,Imran Lolori,L,L,47,52,SIPIL,SIPIL,1,0,3,0.250,0.299,0.320
+Kalah,4,Halmahera Barat,PARPOL,Ahmad Zakir Mando,Alpinus K. Pay,L,L,47,73,SIPIL,SIPIL,2,0,2,0.167,0.235,0.200
+Kalah,4,Halmahera Barat,PARPOL,Denny Palar,Iksan Hi Husain,L,L,41,40,SIPIL,SIPIL,0,0,2,0.167,0.237,0.280
+Kalah,2,Halmahera Selatan,PARPOL,Helmi Umar Muchsin,La Ode Arfan,L,L,52,56,SIPIL,TNI/POLRI,0,0,2,0.167,0.103,0.200
+Menang,2,Halmahera Selatan,PARPOL,Usman Sidik,Hasan Ali Bassam Kasuba,L,L,47,32,SIPIL,SIPIL,0,0,7,0.583,0.729,0.633
+Kalah,3,Halmahera Timur,PARPOL,Thaib Jalaluddin,Noverius A. Bulango,L,L,62,46,SIPIL,SIPIL,0,0,2,0.167,0.164,0.200
+Menang,3,Halmahera Timur,PARPOL,Ubaid Yakub,Anjas Taher,L,L,51,47,SIPIL,SIPIL,0,0,5,0.417,0.344,0.450
+Kalah,3,Halmahera Timur,PARPOL,Abdu Nasar,Aziz Ajarat,L,L,56,59,SIPIL,SIPIL,0,0,2,0.167,0.358,0.250
+Menang,2,Halmahera Utara,PARPOL,Frans Manery,Muhlis Tapi Tapi,L,L,64,50,SIPIL,SIPIL,1,2,7,0.583,0.557,0.640
+Kalah,2,Halmahera Utara,PARPOL,Joel B. Wogono,Said Badjak,L,L,57,61,SIPIL,SIPIL,0,0,3,0.250,0.357,0.280
+Kalah,3,Kepulauan Sula,PARPOL,Hendrata Thes,Umar Umabaihi,L,L,47,58,SIPIL,SIPIL,1,0,4,0.333,0.407,0.360
+Kalah,3,Kepulauan Sula,PARPOL,Zulfahri Abdullah Duwila,Ismail Umasugi,L,L,44,58,SIPIL,SIPIL,2,0,2,0.167,0.190,0.160
+Menang,3,Kepulauan Sula,PARPOL,Fifian Adeningsi Mus,Saleh Marasabessy,P,L,36,62,SIPIL,SIPIL,0,0,4,0.333,0.403,0.360
+Kalah,2,Pulau Taliabu,PARPOL,Muhaimin Syarif,Safrudin Mohalisi,L,L,36,40,SIPIL,SIPIL,0,0,5,0.417,0.642,0.500
+Menang,2,Pulau Taliabu,PARPOL,Aliong Mus,Ramli,L,L,43,61,SIPIL,SIPIL,1,2,4,0.333,0.282,0.400
+Kalah,4,Ternate,PARPOL,Merlisa Marsaoly,Juhdi Taslim,P,L,41,65,SIPIL,SIPIL,0,0,4,0.333,0.386,0.233
+Menang,4,Ternate,PARPOL,Tauhid Soleman,Jasri Usman,L,L,50,50,SIPIL,SIPIL,0,0,2,0.167,0.204,0.233
+Kalah,4,Ternate,PARPOL,Muhammad Hasan Bay,Mohammad Asghar Saleh,L,L,58,50,SIPIL,SIPIL,0,0,3,0.250,0.284,0.200
+Kalah,4,Ternate,PARPOL,Yamin Tawari,Abdullah Taher,L,L,62,55,SIPIL,SIPIL,0,2,2,0.167,0.127,0.233
+Kalah,3,Tidore,PARPOL,Basri Salama,Muhammad Guntur Alting,L,L,45,51,SIPIL,SIPIL,0,2,3,0.250,0.179,0.280
+Menang,3,Tidore,PARPOL,Captain Ali Ibrahim,Muhammad Senen,L,L,61,51,SIPIL,SIPIL,1,2,2,0.167,0.310,0.400
+Kalah,3,Tidore,PARPOL,Salahuddin Adrias,Muhammad Djabir Taha,L,L,54,51,SIPIL,SIPIL,0,2,5,0.417,0.511,0.280
+Kalah,2,Asmat,PARPOL,Elisa Kambu,Thomas Eppe Safanpo,L,L,56,43,SIPIL,SIPIL,1,2,8,0.667,0.967,0.960
+Menang,2,Asmat,PERORANGAN,Yulianus Payzon Aituru,Bonifasius Jakfu,L,L,37,48,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,Boven Digoel,PARPOL,Lukas Ikwaron,Lexi Romel Wagiu,L,L,34,50,SIPIL,SIPIL,0,0,2,0.167,0.238,0.200
+Kalah,4,Boven Digoel,PARPOL,Chaerul Anwar,Nathalis B. Kaket,L,L,42,43,SIPIL,SIPIL,2,0,2,0.167,0.134,0.200
+Kalah,4,Boven Digoel,PARPOL,Martinus Wagi,Isak Bangri,L,L,55,54,SIPIL,SIPIL,0,0,2,0.167,0.310,0.250
+Menang,4,Boven Digoel,PARPOL,Yusak Yaluwo,Yakob Weremba,L,L,50,41,SIPIL,SIPIL,0,0,2,0.167,0.242,0.250
+Kalah,3,Boven Keerom,PARPOL,Muhammad Markum,Malensius Musui,L,L,51,47,SIPIL,SIPIL,1,0,5,0.417,0.350,0.500
+Menang,3,Boven Keerom,PARPOL,Piter Gusbager,Wahfir Kosasih,L,L,42,58,SIPIL,SIPIL,2,0,4,0.333,0.574,0.350
+Kalah,3,Boven Keerom,PERORANGAN,Yusuf Wally,Hadi Susilo,L,L,72,48,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,Mamberamo Raya,PARPOL,Dorinus Dasinapa,Andris Paris Yosafat Maay,L,L,62,54,SIPIL,SIPIL,1,0,3,0.250,0.188,0.200
+Kalah,4,Mamberamo Raya,PERORANGAN,Robby Wilson Rumansara,Lukas Jantje Puny,L,L,47,54,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,Mamberamo Raya,PARPOL,Kristian Wanimbo,Yonas Tasti,L,L,40,40,SIPIL,SIPIL,0,0,5,0.417,0.365,0.350
+Menang,4,Mamberamo Raya,PARPOL,John Tabo,Ever Mudumi,L,L,50,30,SIPIL,SIPIL,0,0,2,0.167,0.370,0.200
+Kalah,3,Merauke,PARPOL,Hendrikus Mahuze,Edi Santosa,L,L,42,61,SIPIL,SIPIL,0,0,2,0.167,0.190,0.300
+Kalah,3,Merauke,PARPOL,Heribertus Silvinus Silubun,Bambang Setiadji Suji,L,L,48,50,SIPIL,SIPIL,0,0,3,0.250,0.256,0.267
+Menang,3,Merauke,PARPOL,Romanus Mbaraka,Riduwan,L,L,51,58,SIPIL,SIPIL,0,0,2,0.167,0.195,0.200
+Menang,3,Nabire,PARPOL,Yufinia Mote,Muhammad Darwis,P,L,48,49,SIPIL,SIPIL,0,0,3,0.250,0.264,0.280
+Kalah,3,Nabire,PARPOL,Mesak Magai,Ismail Djamaludin,L,L,41,39,SIPIL,SIPIL,0,0,3,0.250,0.256,0.280
+Kalah,3,Nabire,PARPOL,Fransiscus Xaverius Mote,Tabroni bin M. Cahya,L,L,48,47,SIPIL,SIPIL,0,0,3,0.250,0.344,0.240
+Menang,2,Pegunungan Bintang,PARPOL,Spei Yan Birdana,Piter Kalakmabin,L,L,43,44,SIPIL,SIPIL,0,0,3,0.250,0.224,0.200
+Kalah,2,Pegunungan Bintang,PARPOL,Costan Oktemka,Decky Deal,L,L,45,37,SIPIL,SIPIL,1,2,6,0.500,0.520,0.800
+Kalah,5,Supiori,PARPOL,Obeth Rumabar,Daud Imanuel Olaf Marisan,L,L,51,30,SIPIL,SIPIL,0,0,2,0.167,0.177,0.150
+Kalah,5,Supiori,PARPOL,Ruth Naomi Rumkabu,Piet Yan Karel Pariaribo,P,L,32,59,SIPIL,SIPIL,0,0,3,0.250,0.223,0.200
+Kalah,5,Supiori,PERORANGAN,Jacobus Kawer,Salomo Rumbekwan,L,L,60,60,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,5,Supiori,PARPOL,Ronny Sylvado Gustaf Mamoribo,Alberth Edison Rumbekwan,L,L,43,55,SIPIL,SIPIL,0,0,2,0.167,0.325,0.300
+Menang,5,Supiori,PARPOL,Yan Imbab,Nichodemus Ronsumbre,L,L,67,38,SIPIL,SIPIL,0,0,2,0.167,0.242,0.250
+Kalah,4,Waropen,PARPOL,Hendrik Wonatorey,Korinus Reri,L,L,69,50,SIPIL,SIPIL,2,0,3,0.250,0.471,0.300
+Kalah,4,Waropen,PERORANGAN,Yusak Samuel Wonatorey,Muhammad Imran,L,L,55,32,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,Waropen,PARPOL,Ollen Ostal Daimboa,Yeheskiel Imbiri,L,L,48,45,SIPIL,SIPIL,0,0,2,0.167,0.179,0.250
+Menang,4,Waropen,PARPOL,Yermias Bisai,Lamek Maniagasi,L,L,47,55,SIPIL,SIPIL,1,0,4,0.333,0.181,0.450
+Menang,2,Yahukimo,PARPOL,Didimus Yahuli,Esau Miram,L,L,47,34,SIPIL,SIPIL,0,0,4,0.333,0.250,0.257
+Kalah,2,Yahukimo,PARPOL,Abock Busup,Yulianus Heluka,L,L,44,44,SIPIL,SIPIL,1,2,8,0.667,0.750,0.661
+Menang,2,Yalimo,PARPOL,Erdi Dabi,John W. Wilil,L,L,31,52,SIPIL,SIPIL,2,0,3,0.250,0.237,0.200
+Kalah,2,Yalimo,PARPOL,Lakius Peyon,Nahum Mabel,L,L,43,39,SIPIL,SIPIL,1,0,8,0.667,0.616,0.640
+Kalah,2,Fakfak,PARPOL,Samaun Dahlan,Clifford Hendrik Kelly Ndandarmana,L,L,52,47,SIPIL,SIPIL,0,0,12,1.000,1.000,0.950
+Menang,2,Fakfak,PERORANGAN,Untung Tamsil,Yohana Dina Hindom,L,P,43,57,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,2,Kaimana,PARPOL,Freddy Thie,Hasbulla Furuada,L,L,50,46,SIPIL,SIPIL,0,0,6,0.500,0.487,0.600
+Kalah,2,Kaimana,PARPOL,Rita Teurupun,Leonardo Syakema,P,L,60,55,SIPIL,SIPIL,0,0,2,0.167,0.325,0.400
+Kalah,2,Manokwari,PARPOL,Sius Dowansiba,Mozes Rudi Frans Timisela,L,L,38,43,SIPIL,SIPIL,0,0,3,0.250,0.360,0.240
+Menang,2,Manokwari,PARPOL,Hermus Indou,Edi Budoyo,L,L,44,63,SIPIL,SIPIL,0,1,9,0.750,0.640,0.640
+Menang,1,Manokwari Selatan,PARPOL,Markus Waran,Wempi Welly Rengkung,L,L,44,70,SIPIL,SIPIL,1,2,6,0.500,0.550,0.800
+Menang,1,Pegunungan Arfak,PARPOL,Yosias Saroy,Marinus Mandacan,L,L,42,46,SIPIL,SIPIL,1,2,11,0.917,1.000,0.850
+Menang,1,Raja Ampat,PARPOL,Abdul Faris Umlati,Orideko Iriano Burdam,L,L,47,46,SIPIL,SIPIL,1,0,10,0.833,1.000,0.900
+Menang,4,Sorong Selatan,PARPOL,Samsudin Anggiluli,Alfons Sesa,L,L,51,53,SIPIL,SIPIL,1,0,4,0.333,0.560,0.500
+Kalah,4,Sorong Selatan,PARPOL,Yunus Saflembolo,Alexander Dedaida,L,L,52,38,SIPIL,SIPIL,0,0,2,0.167,0.101,0.300
+Kalah,4,Sorong Selatan,PERORANGAN,Yance Salambauw,Felix Duwit,L,L,50,53,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,Sorong Selatan,PARPOL,Pieters Kondjol,Madun Narwawan,L,L,50,58,SIPIL,SIPIL,0,0,2,0.167,0.170,0.200
+Kalah,2,Teluk Bintuni,PARPOL,Ali Ibrahim Bauw,Yohanis Manibuy,L,L,61,38,SIPIL,SIPIL,0,0,2,0.167,0.110,0.150
+Menang,2,Teluk Bintuni,PARPOL,Petrus Kasihiw,Matret Kokop,L,L,56,59,SIPIL,SIPIL,1,2,4,0.333,0.567,0.700
+Kalah,4,Teluk Wondama,PARPOL,Elsya Auri,Ferry Michael Deminikus Auparay,L,L,58,51,SIPIL,SIPIL,0,0,2,0.167,0.223,0.200
+Kalah,4,Teluk Wondama,PARPOL,Bernadus Alkhatib Imburi,Zeth Barnabas Marani,L,L,62,64,SIPIL,SIPIL,1,0,4,0.333,0.377,0.400
+Kalah,4,Teluk Wondama,PARPOL,Paulus Yulius Indubri,Kuro M.R. Matani,L,L,59,44,SIPIL,SIPIL,2,0,3,0.250,0.223,0.250
+Menang,4,Teluk Wondama,PERORANGAN,Hendrik Syake Mambor,Andarias Kayukatui,L,L,57,55,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,7,ACEH SELATAN (ACEH)  ,PERORANGAN,"TGK. HUSIN YUSUF, S.PD.I","DR. MUSTAFRIL, ST, M.SI",L,L,63,46,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,7,ACEH SELATAN (ACEH)  ,PARPOL,"H. AZWIR, S. SOS",TGK. AMRAN,L,L,59,43,SIPIL,SIPIL,0,0,3,0.250,0.307,0.133
+Kalah,7,ACEH SELATAN (ACEH)  ,PERORANGAN,"DRS. H. ZULKARNAINI, M. SI",M. JASA,L,L,59,46,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,7,ACEH SELATAN (ACEH)  ,PERORANGAN,"DARMAN, SP, M.M.","BAITAL MAKMUR, SE",L,L,58,53,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,7,ACEH SELATAN (ACEH)  ,PARPOL,"H. T. SAMA INDRA, SH","DRS. H. HARMAINI, M.SI",L,L,54,61,SIPIL,SIPIL,1,0,6,0.500,0.621,0.500
+Kalah,7,ACEH SELATAN (ACEH)  ,PARPOL,"H. MIRWAN MS, SE","ZIRHAN, SP",L,L,43,39,SIPIL,SIPIL,0,0,2,0.167,0.000,0.167
+Kalah,7,ACEH SELATAN (ACEH)  ,PERORANGAN,"H. KARMAN, SE",H. AFDHAL YASIN,L,L,61,54,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,PIDIE JAYA (ACEH)  ,PARPOL,IR. H. YUSRI YUSUF,KOLONEL (PURN) SAIFULLAH,L,L,56,59,SIPIL,SIPIL,0,0,4,0.333,0.311,0.240
+Menang,4,PIDIE JAYA (ACEH)  ,PARPOL,AIYUB BIN ABBAS,"SAID MULYADI, SE, M.SI",L,L,49,55,SIPIL,SIPIL,1,2,7,0.583,0.661,0.320
+Kalah,4,PIDIE JAYA (ACEH)  ,PERORANGAN,MUHIBBUDDIN M.HUSEN,H. M. YUSUF IBRAHIM,L,L,42,59,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,PIDIE JAYA (ACEH)  ,PERORANGAN,MUHAMMAD YUSUF,IR.ANWAR ISHAK,L,L,48,58,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,5,KOTA SUBULUSSALAM (ACEH)  ,PERORANGAN,DRH. JALALUDDIN,WAGIMAN,L,L,60,44,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,5,KOTA SUBULUSSALAM (ACEH)  ,PARPOL,"HJ. SARTINA, NA, SE. M.SI","DEDI ANWAR BANCIN, SE",P,L,50,31,SIPIL,SIPIL,0,0,5,0.417,0.614,0.400
+Kalah,5,KOTA SUBULUSSALAM (ACEH)  ,PERORANGAN,"H. ASMAUDDIN, SE","HJ. ASMIDAR, S.PD",L,P,60,51,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,5,KOTA SUBULUSSALAM (ACEH)  ,PARPOL,"H. ANASRI, ST. MT",SABARUDDIN S. S.PD.I,L,L,52,46,SIPIL,SIPIL,0,0,4,0.333,0.271,0.100
+Menang,5,KOTA SUBULUSSALAM (ACEH)  ,PARPOL,"H. AFFAN ALFIAN, SE","DRS. SALMAZA, M.AP",L,L,50,51,SIPIL,SIPIL,0,2,3,0.250,0.114,0.350
+Menang,2,SUMATERA UTARA  ,PARPOL,EDY RAHMAYADI,MUSA RAJEKSHAH,L,L,57,45,TNI/POLRI,SIPIL,0,0,7,0.583,0.652,0.740
+Kalah,2,SUMATERA UTARA  ,PARPOL,DJAROT SAIFUL HIDAYAT,SIHAR P.H. SITORUS,L,L,56,50,SIPIL,SIPIL,0,0,2,0.167,0.264,0.200
+Menang,3,TAPANULI UTARA (SUMATERA UTARA)  ,PARPOL,"DRS. NIKSON NABABAN, M.SI","SARLANDY HUTABARAT, SH",L,L,46,64,SIPIL,SIPIL,1,0,5,0.417,0.591,0.657
+Kalah,3,TAPANULI UTARA (SUMATERA UTARA)  ,PARPOL,"DR. JONIUS TP. HUTABARAT, S.SI, M.SI","FRENGKY P. SIMANJUNTAK, SE, M.SI",L,L,43,41,TNI/POLRI,SIPIL,0,0,4,0.333,0.268,0.343
+Kalah,3,TAPANULI UTARA (SUMATERA UTARA)  ,PERORANGAN,"CHRISTMANTO LUMBANTOBING, S.SOS","DRS. HOTMAN P. HUTASOIT, BSC, SH",L,L,33,66,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,3,LANGKAT (SUMATERA UTARA)  ,PARPOL,TERBIT RENCANA PERANGIN ANGIN,"H. SYAH AFANDIN, SH",L,L,46,52,SIPIL,SIPIL,0,0,8,0.667,0.755,0.700
+Kalah,3,LANGKAT (SUMATERA UTARA)  ,PARPOL,"H. RUDI HARTONO BANGUN SE, MAP",BUDIONO.SE,L,L,41,56,SIPIL,SIPIL,0,0,3,0.250,0.245,0.300
+Kalah,3,LANGKAT (SUMATERA UTARA)  ,PERORANGAN,"DRS. H. SULISTIANTO, M.SI","HERIANSYAH, S.AG",L,L,58,44,SIPIL,SIPIL,2,0,0,0.000,0.000,0.000
+Menang,1,DELI SERDANG (SUMATERA UTARA)  ,PARPOL,H. ASHARI TAMBUNAN,H.M ALI YUSUF SIREGAR,L,L,62,57,SIPIL,SIPIL,1,0,11,0.917,1.000,1.000
+Kalah,3,DAIRI (SUMATERA UTARA)  ,PARPOL,"DEPRIWANTO SITOHANG, ST, MM","AZHAR BINTANG, SH",L,L,31,50,SIPIL,SIPIL,0,0,2,0.167,0.248,0.429
+Menang,3,DAIRI (SUMATERA UTARA)  ,PARPOL,DR. EDDY KELENG ATE BERUTU,"JIMMY ANDREA LUKITA SIHOMBING, SH",L,L,58,27,SIPIL,SIPIL,0,0,6,0.500,0.527,0.543
+Kalah,3,DAIRI (SUMATERA UTARA)  ,PERORANGAN,"ST. RIMSO MARULI SINAGA, SH, MH","BILKER PURBA, AMD",L,L,50,51,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,BATU BARA (SUMATERA UTARA)  ,PARPOL,"H. RM. HARRY NUGROHO, SE","DR. H. MHD SYAFI'I, SH, MH, M.SI",L,L,68,57,SIPIL,SIPIL,1,0,4,0.333,0.250,0.314
+Kalah,4,BATU BARA (SUMATERA UTARA)  ,PARPOL,"DRS. H. DARWIS, M.SI","H. JANMAT SEMBIRING, SE",L,L,50,55,SIPIL,SIPIL,0,0,3,0.250,0.271,0.314
+Menang,4,BATU BARA (SUMATERA UTARA)  ,PARPOL,"IR. H. ZAHIR, M.AP","OKY IQBAL FRIMA, SE",L,L,49,29,SIPIL,SIPIL,0,0,4,0.333,0.395,0.371
+Kalah,4,BATU BARA (SUMATERA UTARA)  ,PERORANGAN,"KHAIRIL ANWAR, SH","DRS. H. SOFYAN ALWI, M.HUM",L,L,57,56,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,3,KOTA PADANG SIDIMPUAN (SUMATERA UTARA)  ,PARPOL,"H. MUHAMMAD ISNANDAR NASUTION, S.SOS","DR. H. ALI PADA HARAHAP, M.PD",L,L,54,61,SIPIL,SIPIL,2,0,5,0.417,0.343,0.400
+Kalah,3,KOTA PADANG SIDIMPUAN (SUMATERA UTARA)  ,PARPOL,"H. RUSYDI NASUTION, S.T.P., M.M","DRS. H. ABD. ROSAD LUBIS, MM",L,L,45,60,SIPIL,SIPIL,0,0,4,0.333,0.314,0.400
+Menang,3,KOTA PADANG SIDIMPUAN (SUMATERA UTARA)  ,PERORANGAN,"IRSAN EFENDI NASUTION, SH","IR. H. ARWIN SIREGAR, MM",L,L,48,61,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,1,PADANG LAWAS UTARA (SUMATERA UTARA)  ,PARPOL,"ANDAR AMIN HARAHAP, S.STP, M.SI","H. HARIRO HARAHAP, SE, M.SI",L,L,36,52,SIPIL,SIPIL,0,0,11,0.917,1.000,0.967
+Kalah,3,PADANG LAWAS (SUMATERA UTARA)  ,PARPOL,H. TONDI RONI TUA,H. SYARIFUDDIN HSB,L,L,36,53,SIPIL,SIPIL,0,0,2,0.167,0.180,0.100
+Menang,3,PADANG LAWAS (SUMATERA UTARA)  ,PARPOL,ALI SUTAN HARAHAP,DRG. AHMAD ZARNAWI PASARIBU,L,L,55,42,SIPIL,SIPIL,1,2,10,0.833,0.820,0.900
+Kalah,3,PADANG LAWAS (SUMATERA UTARA)  ,PERORANGAN,DRS. H. RAHMAD PARDAMEAN HASIBUAN,SYAHRUL EFENDI HASIBUAN,L,L,55,51,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,2,KOTA PADANG (SUMATERA BARAT)  ,PARPOL,"IR. H. EMZALMI, M.SI","H. DESRI AYUNDA, SE, MBA",L,L,66,57,SIPIL,SIPIL,2,0,9,0.750,0.843,0.733
+Menang,2,KOTA PADANG (SUMATERA BARAT)  ,PARPOL,"H. MAHYELDI, SP","HENDRI SEPTA, B.BUS (ACC)., MIB",L,L,52,42,SIPIL,SIPIL,1,0,2,0.167,0.157,0.244
+Kalah,3,KOTA SAWAHLUNTO (SUMATERA BARAT)  ,PARPOL,H. FAUZI HASAN,"H. DASRIAL ERY, SE.MM",L,L,66,50,SIPIL,SIPIL,0,0,2,0.167,0.304,0.200
+Kalah,3,KOTA SAWAHLUNTO (SUMATERA BARAT)  ,PARPOL,"ALI YUSUF, S.PT","H. ISMED, SH",L,L,48,48,SIPIL,SIPIL,1,2,3,0.250,0.234,0.400
+Menang,3,KOTA SAWAHLUNTO (SUMATERA BARAT)  ,PARPOL,"DERI ASTA, SH","ZOHIRIN SAYUTI, SE",L,L,45,62,SIPIL,SIPIL,0,0,3,0.250,0.220,0.250
+Kalah,4,KOTA PADANG PANJANG (SUMATERA BARAT)  ,PARPOL,"DR. MAWARDI, MKM","TAUFIQ IDRIS, SH",L,L,55,41,SIPIL,SIPIL,2,0,2,0.167,0.179,0.200
+Kalah,4,KOTA PADANG PANJANG (SUMATERA BARAT)  ,PARPOL,"H. HENDRI ARNIS, BSBA","H. EKO FURQANI, SE, MM",L,L,41,45,SIPIL,SIPIL,1,0,2,0.167,0.150,0.200
+Kalah,4,KOTA PADANG PANJANG (SUMATERA BARAT)  ,PARPOL,IR. RAFDI M. SYARIF,"AHMAD FADLY, S.PSI",L,L,54,41,SIPIL,SIPIL,0,0,3,0.250,0.202,0.300
+Menang,4,KOTA PADANG PANJANG (SUMATERA BARAT)  ,PARPOL,FADLY AMRAN,DRS. ASRUL,L,L,30,59,SIPIL,SIPIL,0,0,2,0.167,0.357,0.250
+Kalah,3,KOTA PARIAMAN (SUMATERA BARAT)  ,PARPOL,IR. H. MAHYUDDIN,"MUHAMAD RIDWAN, S.IP",L,L,57,40,SIPIL,SIPIL,0,0,2,0.167,0.202,0.200
+Kalah,3,KOTA PARIAMAN (SUMATERA BARAT)  ,PARPOL,"DEWI FITRI DESWATI, S.PI",PABRISAL,P,L,49,45,SIPIL,SIPIL,0,0,2,0.167,0.093,0.250
+Menang,3,KOTA PARIAMAN (SUMATERA BARAT)  ,PARPOL,"DR. GENIUS UMAR, S.SOS, M.SI","DRS. MARDISON MAHYUDDIN, MM",L,L,46,49,SIPIL,SIPIL,2,0,5,0.417,0.513,0.550
+Menang,4,RIAU  ,PARPOL,"DRS. H. SYAMSUAR, M.SI",H. EDY NASUTION,L,L,64,57,SIPIL,TNI/POLRI,0,0,3,0.250,0.221,0.200
+Kalah,4,RIAU  ,PARPOL,"MUHAMAD LUKMAN EDY, M.SI","HARDIANTO, SE",L,L,48,37,SIPIL,SIPIL,0,0,2,0.167,0.214,0.200
+Kalah,4,RIAU  ,PARPOL,"DR. H. FIRDAUS, ST.MT","H. RUSLI EFFENDI, SE, S.PD.I, M.SI",L,L,58,51,SIPIL,SIPIL,0,0,2,0.167,0.179,0.215
+Kalah,4,RIAU  ,PARPOL,"IR. H. ARSYADJULIANDI RAHMAN, MBA","H. SUYATNO, AMP",L,L,58,61,SIPIL,SIPIL,1,0,3,0.250,0.386,0.385
+Kalah,3,INDRAGIRI HILIR (RIAU)  ,PARPOL,"H. ROSMAN MALOMO, SH, MH","MUSMULYADI, SS",L,L,58,43,SIPIL,SIPIL,2,0,3,0.250,0.259,0.244
+Kalah,3,INDRAGIRI HILIR (RIAU)  ,PARPOL,"DR. H.M. RAMLI, SE, M.SI","DR. H. ALI AZHAR, S.SOS, MH",L,L,57,51,SIPIL,SIPIL,0,0,3,0.250,0.284,0.356
+Menang,3,INDRAGIRI HILIR (RIAU)  ,PARPOL,"DRS. H. MUHAMMAD WARDAN, MP",H. SYAMSUDDIN UTI,L,L,57,64,SIPIL,SIPIL,1,0,4,0.333,0.429,0.378
+Kalah,3,KERINCI (JAMBI)  ,PARPOL,"MONADI, S.SOS, M.SI","EDISON, SH",L,L,46,46,SIPIL,SIPIL,0,0,5,0.417,0.530,0.500
+Menang,3,KERINCI (JAMBI)  ,PARPOL,"DR. H. ADIROZAL, M.SI",IR. H. AMI TAHER,L,L,57,55,SIPIL,SIPIL,1,0,2,0.167,0.155,0.233
+Kalah,3,KERINCI (JAMBI)  ,PARPOL,"ZAINAL ABIDIN, SH, MH",ARSAL APRI,L,L,44,56,SIPIL,SIPIL,2,0,2,0.167,0.214,0.233
+Kalah,3,MERANGIN (JAMBI)  ,PARPOL,"IR. H. AHMAD FAUZI, MT",SUJARMIN,L,L,52,43,SIPIL,SIPIL,0,0,5,0.417,0.311,0.371
+Menang,3,MERANGIN (JAMBI)  ,PARPOL,"DR. H. AL HARIS, S.SOS., MH.","MASHURI, S.PD., MM.",L,L,45,60,SIPIL,SIPIL,1,0,3,0.250,0.261,0.286
+Kalah,3,MERANGIN (JAMBI)  ,PARPOL,"DR. DRS. H. NALIM.SH.,MM.","DRS. H. ABDUL KHAFIDH.,MM.",L,L,58,57,SIPIL,SIPIL,0,2,4,0.333,0.429,0.343
+Kalah,2,KOTA JAMBI (JAMBI)  ,PARPOL,"DRS. H. ABDULLAH SANI, M.PD.I","KEMAS ALFARIZI, SE",L,L,62,39,SIPIL,SIPIL,2,0,2,0.167,0.280,0.244
+Menang,2,KOTA JAMBI (JAMBI)  ,PARPOL,"DR. H. SYARIF FASHA, ME","DR. DR. H. MAULANA, MKM",L,L,50,42,SIPIL,SIPIL,1,0,10,0.833,0.720,0.756
+Menang,4,SUMATERA SELATAN  ,PARPOL,"H. HERMAN DERU, SH, MM",IR. H. MAWARDI YAHYA,L,L,51,60,SIPIL,SIPIL,0,0,3,0.250,0.179,0.213
+Kalah,4,SUMATERA SELATAN  ,PARPOL,"H. SAIFUDIN ASWARI RIVA'I, S.E","H.M. IRWANSYAH, S.SOS, M.SI",L,L,55,35,SIPIL,SIPIL,0,0,2,0.167,0.202,0.200
+Kalah,4,SUMATERA SELATAN  ,PARPOL,"IR. H. ISHAK MEKKI, MM","YUDHA PRATOMO, M.SC. PH.D",L,L,60,39,SIPIL,SIPIL,2,0,3,0.250,0.179,0.200
+Kalah,4,SUMATERA SELATAN  ,PARPOL,"H. DODI REZA ALEX NOERDIN, LIC, ECON. MBA","H.M GIRI RAMANDA N. KIEMAS SE, MM",L,L,48,38,SIPIL,SIPIL,0,0,3,0.250,0.441,0.387
+Menang,3,OGAN KOMERING ILIR (SUMATERA SELATAN)  ,PARPOL,"H. ISKANDAR, SE",H. M. DJA'FAR SHODIQ,L,L,55,49,SIPIL,SIPIL,1,0,5,0.417,0.343,0.422
+Kalah,3,OGAN KOMERING ILIR (SUMATERA SELATAN)  ,PARPOL,"ABDIYANTO, SH., MH","MADE INDRAWAN, ST., MH",L,L,46,42,SIPIL,SIPIL,0,0,1,0.083,0.195,0.200
+Kalah,3,OGAN KOMERING ILIR (SUMATERA SELATAN)  ,PARPOL,AZHARI,QOMARUS ZAMAN,L,L,50,61,SIPIL,SIPIL,0,0,4,0.333,0.393,0.378
+Kalah,4,MUARA ENIM (SUMATERA SELATAN)  ,PARPOL,"DR. IR. H. SYAMSUL BAHRI, MM","IR. H. HANAN ZULKARNAIN, MTP",L,L,59,55,SIPIL,SIPIL,0,0,4,0.333,0.280,0.311
+Kalah,4,MUARA ENIM (SUMATERA SELATAN)  ,PARPOL,H. NURUL AMAN,M. THAMRIN AZ,L,L,59,49,SIPIL,SIPIL,2,0,2,0.167,0.264,0.244
+Kalah,4,MUARA ENIM (SUMATERA SELATAN)  ,PARPOL,"DR. HJ. SHINTA PARAMITA SARI, SH, M.HUM","SYURYADI, SE",P,L,48,40,SIPIL,SIPIL,0,0,1,0.083,0.071,0.089
+Menang,4,MUARA ENIM (SUMATERA SELATAN)  ,PARPOL,"IR. H. AHMAD YANI.,MM","H. JUARSAH, SH",L,L,53,51,SIPIL,SIPIL,0,0,3,0.250,0.221,0.244
+Kalah,5,LAHAT (SUMATERA SELATAN)  ,PARPOL,"H. NOPRAN MARJANI, S. PD","HERLIANSYAH, SH., MH",L,L,46,44,SIPIL,SIPIL,0,0,4,0.333,0.466,0.350
+Kalah,5,LAHAT (SUMATERA SELATAN)  ,PERORANGAN,"IR. H. HAPIT PADLI, MM","H. ERLANSYAH RUMSYAH, SE, MM",L,L,53,51,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,5,LAHAT (SUMATERA SELATAN)  ,PARPOL,"CIK UJANG, SH","H. HARYANTO, SE, MM",L,L,50,59,SIPIL,SIPIL,0,0,3,0.250,0.202,0.275
+Kalah,5,LAHAT (SUMATERA SELATAN)  ,PARPOL,"H. BURSAH ZARNUBI, SE","DRS. PARHAN BERZA, MM",L,L,59,53,SIPIL,SIPIL,0,0,3,0.250,0.332,0.275
+Kalah,5,LAHAT (SUMATERA SELATAN)  ,PERORANGAN,"DRS. H. PURNAWARMAN KIAS, SH",ROZI ADIANSYAH,L,L,59,35,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,5,BANYUASIN (SUMATERA SELATAN)  ,PARPOL,DRS. AGUS YUDIANTORO,"H. HAZUAR BIDUI AZ, S. SOS., M.M",L,L,52,62,SIPIL,SIPIL,0,0,2,0.167,0.157,0.200
+Kalah,5,BANYUASIN (SUMATERA SELATAN)  ,PARPOL,H. ARKONI MD,H. HAZWAR HAMID,L,L,56,49,SIPIL,SIPIL,0,0,2,0.167,0.113,0.222
+Kalah,5,BANYUASIN (SUMATERA SELATAN)  ,PERORANGAN,BUYA H.M. HUSNI THAMRIN MADANI,IR. H. SUPARTIJO,L,L,65,63,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,5,BANYUASIN (SUMATERA SELATAN)  ,PARPOL,"IR. H. SYAIFUL BAKHRI AR,M.SI","H. AGUS SALAM, SH",L,L,56,51,SIPIL,SIPIL,0,0,2,0.167,0.163,0.200
+Menang,5,BANYUASIN (SUMATERA SELATAN)  ,PARPOL,"H. ASKOLANI, SH., MH",H. SLAMET,L,L,44,68,SIPIL,SIPIL,0,0,5,0.417,0.568,0.378
+Kalah,3,EMPAT LAWANG (SUMATERA SELATAN)  ,PARPOL,H. DAVID HADRIANTO ALJUFRI (HDA),"H. M. EDUAR KOHAR,SE.,MM (HEK)",L,L,46,56,SIPIL,SIPIL,0,0,3,0.250,0.357,0.457
+Menang,3,EMPAT LAWANG (SUMATERA SELATAN)  ,PARPOL,"H. JONCIK MUHAMMAD, S.SI.",YULIUS MAULANA,L,L,48,43,SIPIL,SIPIL,0,0,6,0.500,0.543,0.543
+Kalah,3,EMPAT LAWANG (SUMATERA SELATAN)  ,PERORANGAN,"H.YULIZAR DINOTO,SH","DRS.H.KISON SYAHRIN,MM",L,L,62,60,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,4,KOTA PALEMBANG (SUMATERA SELATAN)  ,PARPOL,"H. HARNOJOYO, S.SOS","FITRIANTI AGUSTINDA, S.H.",L,P,51,42,SIPIL,SIPIL,1,2,5,0.417,0.473,0.467
+Kalah,4,KOTA PALEMBANG (SUMATERA SELATAN)  ,PARPOL,"IR. H. SARIMUDA, MT.","IR. KGS. H. ABDUL ROZAK, M.SC.",L,L,61,54,SIPIL,SIPIL,0,0,3,0.250,0.266,0.289
+Kalah,4,KOTA PALEMBANG (SUMATERA SELATAN)  ,PERORANGAN,H. M. AKBAR ALFARO,HERNOE ROESPRIJADJI,L,L,30,52,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,KOTA PALEMBANG (SUMATERA SELATAN)  ,PARPOL,H. MULARIS DJAHRI,H. SYAIDINA ALI,L,L,54,53,SIPIL,SIPIL,0,0,3,0.250,0.261,0.244
+Kalah,6,KOTA PAGAR ALAM (SUMATERA SELATAN)  ,PERORANGAN,"HERMANTO, SH M.SI",IR. MUSABAQO,L,L,52,49,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,6,KOTA PAGAR ALAM (SUMATERA SELATAN)  ,PARPOL,"ALPIAN MASKONI, SH","MUHAMMAD FADLI, SE",L,L,48,33,SIPIL,SIPIL,0,0,2,0.167,0.148,0.200
+Kalah,6,KOTA PAGAR ALAM (SUMATERA SELATAN)  ,PARPOL,"DR. HJ. IDA FITRIATI BASJUNI, M.KES","IR. ARMANSAH, MM",P,L,63,56,SIPIL,SIPIL,1,0,4,0.333,0.386,0.440
+Kalah,6,KOTA PAGAR ALAM (SUMATERA SELATAN)  ,PERORANGAN,NOVIRZAH DJAZULI. SE.,"H. SUHARINDI SJ, S.PD.,MM",L,L,41,59,SIPIL,SIPIL,2,0,0,0.000,0.000,0.000
+Kalah,6,KOTA PAGAR ALAM (SUMATERA SELATAN)  ,PERORANGAN,LUDI OLIANSYAH,H. A. FACHRI,L,L,40,66,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,6,KOTA PAGAR ALAM (SUMATERA SELATAN)  ,PARPOL,"IR. GUNAWAN, MT","FEBRIANTO, SH., S.SI",L,L,57,49,SIPIL,SIPIL,0,0,4,0.333,0.396,0.320
+Kalah,3,KOTA LUBUKLINGGAU (SUMATERA SELATAN)  ,PERORANGAN,"H. TOYEB RAKEMBANG, S.AG","SOFYAN, SH",L,L,43,52,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,3,KOTA LUBUKLINGGAU (SUMATERA SELATAN)  ,PARPOL,"DRS. H. S.N.PRANA PUTRA SOHE, MM","H. SULAIMAN KOHAR, SH, MH",L,L,51,63,SIPIL,SIPIL,1,2,8,0.667,0.650,0.800
+Kalah,3,KOTA LUBUKLINGGAU (SUMATERA SELATAN)  ,PARPOL,"H. RUSTAM EFFENDI, SH","RIEZKY APRILIA, SH, MH",L,P,59,36,SIPIL,SIPIL,0,0,2,0.167,0.264,0.200
+Menang,1,KOTA PRABUMULIH (SUMATERA SELATAN)  ,PARPOL,"IR. H. RIDHO YAHYA, M.M.","H. ANDRIANSYAH FIKRI, S.H.",L,L,56,49,SIPIL,SIPIL,1,2,10,0.833,0.798,1.000
+Kalah,4,KOTA BENGKULU (BENGKULU)  ,PERORANGAN,DAVID SUARDI,"DRS. BAKHSIR, MM",L,L,42,60,TNI/POLRI,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,KOTA BENGKULU (BENGKULU)  ,PARPOL,"HJ. ERNA SARI DEWI, S.E","H. AHMAD ZARKASI, S.P., M.SI",P,L,44,49,SIPIL,SIPIL,0,0,3,0.250,0.205,0.343
+Menang,4,KOTA BENGKULU (BENGKULU)  ,PARPOL,"H. HELMI, S.E.","DEDY WAHYUDI, S.E, M.M",L,L,39,43,SIPIL,SIPIL,1,0,3,0.250,0.325,0.343
+Kalah,4,KOTA BENGKULU (BENGKULU)  ,PARPOL,IR. PATRIANA SOSIALINDA,"MIRZA, S.H., M.KN",P,L,53,34,SIPIL,SIPIL,2,0,3,0.250,0.386,0.200
+Kalah,4,LAMPUNG  ,PARPOL,"H. MUHAMMAD RIDHO FICARDO, M.SI","BACHTIAR BASRI, SH., MM",L,L,38,65,SIPIL,SIPIL,1,2,3,0.250,0.309,0.294
+Kalah,4,LAMPUNG  ,PARPOL,"DRS. H. HERMAN HASANUSI, MM","IR. SUTONO, MM",L,L,62,60,SIPIL,SIPIL,0,0,1,0.083,0.195,0.200
+Menang,4,LAMPUNG  ,PARPOL,IR. H. ARINAL DJUNAIDI,"HJ. CHUSNUNIA, PH.D",L,P,62,36,SIPIL,SIPIL,0,0,3,0.250,0.332,0.294
+Kalah,4,LAMPUNG  ,PARPOL,DR. H. MUSTAFA,"H. AHMAD JAJULI SIP.,M.SI",L,L,43,50,SIPIL,SIPIL,0,0,3,0.250,0.164,0.212
+Kalah,3,LAMPUNG UTARA (LAMPUNG)  ,PARPOL,"DRS. HI. ZAINAL ABIDIN, MM","M. YUSRIZAL, ST",L,L,57,44,SIPIL,SIPIL,0,0,3,0.250,0.332,0.378
+Kalah,3,LAMPUNG UTARA (LAMPUNG)  ,PARPOL,HI. APROZI ALAM,"DRA. ICE SURYANA, S.PD",L,P,49,54,SIPIL,SIPIL,0,0,3,0.250,0.246,0.244
+Menang,3,LAMPUNG UTARA (LAMPUNG)  ,PARPOL,"H. AGUNG ILMU MANGKUNEGARA, S.STP. MH.","H. BUDI UTOMO, SE. MM",L,L,36,60,SIPIL,SIPIL,1,0,4,0.333,0.352,0.356
+Menang,2,TANGGAMUS (LAMPUNG)  ,PARPOL,"HJ. DEWI HANDAJANI, SE, MM","HI. AM. SYAFI?I, S.AG",P,L,47,48,SIPIL,SIPIL,0,0,4,0.333,0.416,0.489
+Kalah,2,TANGGAMUS (LAMPUNG)  ,PARPOL,"HI. SAMSUL HADI, M.PD.I","HI. NUZUL IRSAN, SE",L,L,57,47,SIPIL,SIPIL,0,0,6,0.500,0.584,0.511
+Kalah,3,BANGKA (KEPULAUAN BANGKA BELITUNG)  ,PARPOL,"IR. H. TARMIZI H. SAAT, MM","AMRI CAHYADI, ST",L,L,56,38,SIPIL,SIPIL,1,0,5,0.417,0.498,0.486
+Menang,3,BANGKA (KEPULAUAN BANGKA BELITUNG)  ,PARPOL,"MULKAN, SH. MH","SYAHBUDIN, S.IP",L,L,44,53,SIPIL,SIPIL,0,0,2,0.167,0.195,0.229
+Kalah,3,BANGKA (KEPULAUAN BANGKA BELITUNG)  ,PARPOL,"DR.IR. H. KMS. DANIEL, MM","FADILLAH SABRI, ST, M.ENG",L,L,61,47,SIPIL,SIPIL,0,0,2,0.167,0.195,0.200
+Kalah,4,BELITUNG (KEPULAUAN BANGKA BELITUNG)  ,PARPOL,"IR. H. AZWARDY AZHAR, SE., M.SI",DRS. H. ERWANDI A RANI,L,L,57,59,SIPIL,SIPIL,0,2,3,0.250,0.241,0.200
+Kalah,4,BELITUNG (KEPULAUAN BANGKA BELITUNG)  ,PARPOL,"HELLYANA, SH",JUNAIDI RACHMAN,P,L,41,45,SIPIL,SIPIL,0,0,2,0.167,0.264,0.280
+Kalah,4,BELITUNG (KEPULAUAN BANGKA BELITUNG)  ,PARPOL,"H. ANDI SAPARUDIN LANNA, SH","ZULFRIANDI AFAN, SE",L,L,54,43,SIPIL,SIPIL,0,0,2,0.167,0.271,0.200
+Menang,4,BELITUNG (KEPULAUAN BANGKA BELITUNG)  ,PARPOL,"H. SAHANI SALEH, S.SOS","ISYAK MEIROBIE, S.SN",L,L,60,40,SIPIL,SIPIL,1,0,2,0.167,0.195,0.200
+Kalah,4,KOTA PANGKALPINANG (KEPULAUAN BANGKA BELITUNG)  ,PERORANGAN,"RINALDI, S.E., M.H.","IR. B. SARJULIANTO, DIPL., S.E.",L,L,41,60,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,KOTA PANGKALPINANG (KEPULAUAN BANGKA BELITUNG)  ,PARPOL,"PROF. H. SAPARUDIN, M.T., PH.D",DRS. H. EDISON,L,L,49,60,SIPIL,SIPIL,0,0,2,0.167,0.200,0.267
+Menang,4,KOTA PANGKALPINANG (KEPULAUAN BANGKA BELITUNG)  ,PARPOL,"H. MAULAN AKLIL, S.I.P., M.SI.","MUHAMMAD SOPIAN, B.A.",L,L,42,54,SIPIL,SIPIL,0,2,1,0.083,0.195,0.133
+Kalah,4,KOTA PANGKALPINANG (KEPULAUAN BANGKA BELITUNG)  ,PARPOL,"ENDANG KUSUMAWATY, S.T.",ISMIRYADI,P,L,47,52,SIPIL,SIPIL,0,0,4,0.333,0.441,0.367
+Menang,2,KOTA TANJUNGPINANG (KEPULAUAN RIAU)  ,PARPOL,"H.SYAHRUL,S.PD",RAHMA,L,P,58,43,SIPIL,SIPIL,2,0,2,0.167,0.293,0.233
+Kalah,2,KOTA TANJUNGPINANG (KEPULAUAN RIAU)  ,PARPOL,"LIS DARMANSYAH, SH",DR.MAYA SURYANTI,L,P,48,39,SIPIL,SIPIL,1,0,6,0.500,0.488,0.667
+Menang,4,JAWA BARAT  ,PARPOL,"H. MOCHAMAD RIDWAN KAMIL, ST., M.U.D","H. UU RUZHANUL ULUM, SE",L,L,47,49,SIPIL,SIPIL,0,0,4,0.333,0.246,0.240
+Kalah,4,JAWA BARAT  ,PARPOL,"MAYJEN TNI (PURN.) DR. H. HASANUDDIN, SE., MM","IRJEN. POL (PURN.) DR. DRS. H. ANTON CHARLIYAN, M.P.K.N.",L,L,66,58,SIPIL,TNI/POLRI,0,0,1,0.083,0.195,0.200
+Kalah,4,JAWA BARAT  ,PARPOL,"MAYJEN TNI (PURN) H. SUDRAJAT, M.PA",H. AHMAD SYAIKHU,L,L,69,53,SIPIL,SIPIL,0,0,3,0.250,0.288,0.270
+Kalah,4,JAWA BARAT  ,PARPOL,"H. DEDDY MIZWAR, SE., S.SN., M.I.POL","H. DEDI MULYADI, SH",L,L,63,47,SIPIL,SIPIL,2,0,2,0.167,0.271,0.290
+Kalah,5,BOGOR (JAWA BARAT)  ,PARPOL,"H. FITRI PUTRA NUGRAHA, SOS",H. R. BAYU SYAHJOHAN,L,L,44,48,SIPIL,SIPIL,0,0,2,0.167,0.223,0.200
+Menang,5,BOGOR (JAWA BARAT)  ,PARPOL,ADE YASIN,"H. IWAN SETIAWAN, SE",P,L,50,48,SIPIL,SIPIL,0,0,3,0.250,0.284,0.320
+Kalah,5,BOGOR (JAWA BARAT)  ,PARPOL,"H. ADE RUHANDI - JARO ADE, SE","INGRID MARIA PALUPI KANSIL, S.SOS",L,P,45,45,SIPIL,SIPIL,0,0,5,0.417,0.493,0.480
+Kalah,5,BOGOR (JAWA BARAT)  ,PERORANGAN,IR. H. GUNAWAN HASAN,FICKY RHOMA IRAMA,L,L,58,78,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,5,BOGOR (JAWA BARAT)  ,PERORANGAN,"ADE WARDHANA ADINATA, SE.,MM","ASEP RUHIYAT, S.SOS.,MM",L,L,35,58,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,4,GARUT (JAWA BARAT)  ,PARPOL,"H. RUDY GUNAWAN, SH., MH., MP",HELMI BUDIMAN,L,L,54,47,SIPIL,SIPIL,1,2,3,0.250,0.266,0.200
+Kalah,4,GARUT (JAWA BARAT)  ,PARPOL,IMAN ALIRAHMAN,"DEDI HASAN, SE",L,L,59,41,SIPIL,SIPIL,0,0,2,0.167,0.357,0.280
+Kalah,4,GARUT (JAWA BARAT)  ,PERORANGAN,"SURYANA, S.AG","WIWIN SUWINDARYATI, SH",L,P,43,55,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,GARUT (JAWA BARAT)  ,PARPOL,"H. AGUS HAMDANI GS, S.PD.I",PRADANA ADITYA WICAKSANA,L,L,48,31,SIPIL,SIPIL,0,0,3,0.250,0.184,0.320
+Menang,2,CIAMIS (JAWA BARAT)  ,PARPOL,H. HERDIAT SUNARYA,YANA DIANA PUTRA,L,L,58,42,SIPIL,SIPIL,0,0,6,0.500,0.461,0.400
+Kalah,2,CIAMIS (JAWA BARAT)  ,PARPOL,H. IING SYAM ARIFIN,H. OIH BURHANUDIN,L,L,63,49,SIPIL,SIPIL,1,2,5,0.417,0.539,0.600
+Kalah,3,KUNINGAN (JAWA BARAT)  ,PARPOL,DR. TOTO TAUFIKUROHMAN KOSIM,"H. YOSA OCTORA SANTONO, S.SI,. M.M.",L,L,49,38,SIPIL,SIPIL,0,0,4,0.333,0.334,0.360
+Kalah,3,KUNINGAN (JAWA BARAT)  ,PARPOL,"H. DUDY PAMUJI, S.E, M.SI","H. UDIN KUSNEDI, S.E., M.SI.",L,L,50,43,SIPIL,SIPIL,0,0,3,0.250,0.379,0.380
+Menang,3,KUNINGAN (JAWA BARAT)  ,PARPOL,"H. ACEP PURNAMA, S.H., M.H.","MUHAMMAD RIDHO SUGANDA, S.H., M.SI.",L,L,59,36,SIPIL,SIPIL,1,0,2,0.167,0.259,0.260
+Kalah,4,CIREBON (JAWA BARAT)  ,PARPOL,"DRS. H. KALINGA, MM",DIAN HERNAWA SUSANTY,L,P,56,48,SIPIL,SIPIL,0,0,3,0.250,0.271,0.240
+Menang,4,CIREBON (JAWA BARAT)  ,PARPOL,"DR. H. SUNJAYA PURWADISASTRA, M.M., M.SI.",DRS. H. IMRON,L,L,53,57,SIPIL,SIPIL,1,0,1,0.083,0.195,0.220
+Kalah,4,CIREBON (JAWA BARAT)  ,PARPOL,H. RAKHMAT,DRS. H. YAYAT RUHYAT,L,L,51,59,SIPIL,SIPIL,0,0,4,0.333,0.300,0.300
+Kalah,4,CIREBON (JAWA BARAT)  ,PARPOL,"H. MOHAMAD LUTHFI, ST",NURUL QOMAR,L,L,41,58,SIPIL,SIPIL,0,0,2,0.167,0.148,0.240
+Kalah,3,MAJALENGKA (JAWA BARAT)  ,PARPOL,MAMAN IMANUL HAQ,JEFRY ROMDONNY,L,L,46,38,SIPIL,SIPIL,0,0,5,0.417,0.436,0.420
+Menang,3,MAJALENGKA (JAWA BARAT)  ,PARPOL,"DR. H. KARNA SOBAHI, M.M.PD.",TARSONO D. MARDIANA,L,L,64,48,SIPIL,SIPIL,2,0,1,0.083,0.195,0.180
+Kalah,3,MAJALENGKA (JAWA BARAT)  ,PARPOL,"DR. H. SANWASI, MM.",DRS. H.M. TAUFAN ANSYAR,L,L,58,56,SIPIL,SIPIL,0,0,3,0.250,0.341,0.320
+Menang,5,SUMEDANG (JAWA BARAT)  ,PARPOL,"H. DONY AHMAD MUNIR, S.T., M.M.","ERWAN SETIAWAN, S.E.",L,L,45,48,SIPIL,SIPIL,0,0,4,0.333,0.348,0.280
+Kalah,5,SUMEDANG (JAWA BARAT)  ,PERORANGAN,"H. SETYA WIDODO, S.H.","SONIA SUGIAN, S.H.",L,P,59,48,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,5,SUMEDANG (JAWA BARAT)  ,PERORANGAN,"DRS. H. ZAENAL ALIMIN, M.M.","ASEP KURNIA, S.H., M.H.",L,L,59,38,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,5,SUMEDANG (JAWA BARAT)  ,PARPOL,IRWANSYAH PUTRA,"SIDIK JAFAR, S.E.",L,L,46,57,SIPIL,SIPIL,0,0,2,0.167,0.357,0.440
+Kalah,5,SUMEDANG (JAWA BARAT)  ,PARPOL,"IR. H. EKA SETIAWAN, DIPL., S.E., M.M.","MOHAMAD AGUNG ANUGRAH, S.E., AK.",L,L,58,42,SIPIL,SIPIL,1,0,2,0.167,0.202,0.240
+Menang,3,SUBANG (JAWA BARAT)  ,PARPOL,H. RUHIMAT,"IR. AGUS MASYKUR ROSYADI, S.SI",L,L,53,46,SIPIL,SIPIL,0,0,6,0.500,0.530,0.500
+Kalah,3,SUBANG (JAWA BARAT)  ,PARPOL,"HJ. IMAS ARYUMNINGSIH, SE",SUTARNO,P,L,68,49,SIPIL,TNI/POLRI,1,0,2,0.167,0.246,0.240
+Kalah,3,SUBANG (JAWA BARAT)  ,PARPOL,"DRS. DEDI JUNAEDI, SH","DR. DRS. H. BUDI SETIADI, M.SI",L,L,78,53,SIPIL,SIPIL,0,0,1,0.083,0.195,0.200
+Kalah,3,PURWAKARTA (JAWA BARAT)  ,PARPOL,"DRS. H. PADIL KARSOMA, M.SI",ACEP MAMAN,L,L,59,50,SIPIL,SIPIL,0,0,2,0.167,0.264,0.267
+Menang,3,PURWAKARTA (JAWA BARAT)  ,PARPOL,HJ. ANNE RATNA MUSTIKA,H. AMING,P,L,36,41,SIPIL,SIPIL,0,0,6,0.500,0.534,0.600
+Kalah,3,PURWAKARTA (JAWA BARAT)  ,PERORANGAN,"H. ZAINAL ARIFIN, MT. IR","LUTHFI, A. MD",L,L,48,36,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,3,BANDUNG BARAT (JAWA BARAT)  ,PARPOL,"DRA. HJ. ELIN SUHARLIAH, M.SI","DRS. MAMAN SULAEMAN SUNJAYA, M.SI",P,L,66,55,SIPIL,SIPIL,0,0,3,0.250,0.348,0.420
+Kalah,3,BANDUNG BARAT (JAWA BARAT)  ,PARPOL,IR. H. DODDY IMRON CHOLID,"DR. HJ. PUPU SARI ROHAYATI, MH. KES",L,P,62,62,SIPIL,SIPIL,0,0,3,0.250,0.321,0.280
+Menang,3,BANDUNG BARAT (JAWA BARAT)  ,PARPOL,"AA UMBARA SUTISNA, S.IP",HENGKI KURNIAWAN,L,L,55,36,SIPIL,SIPIL,0,0,5,0.417,0.330,0.300
+Kalah,4,KOTA BOGOR (JAWA BARAT)  ,PARPOL,"DRH. H. ACHMAD RU'YAT, M.SI",ZAENUL MUTAQIN,L,L,52,48,SIPIL,SIPIL,0,0,3,0.250,0.271,0.356
+Kalah,4,KOTA BOGOR (JAWA BARAT)  ,PARPOL,"H. EDGAR SURATMAN, SE., MM",SEFWELLY GYNANJAR DJOYODININGRAT,L,L,60,34,SIPIL,SIPIL,0,0,5,0.417,0.450,0.422
+Menang,4,KOTA BOGOR (JAWA BARAT)  ,PERORANGAN,DR. H. BIMA ARYA SUGIARTO,"DRS. DEDIE A RACHIM, MA",L,L,46,52,SIPIL,SIPIL,1,0,0,0.000,0.000,0.000
+Kalah,4,KOTA BOGOR (JAWA BARAT)  ,PARPOL,"H. DADANG ISKANDAR DANUBRATA, S.E","SUGENG TEGUH SANTOSO, S.H",L,L,46,52,SIPIL,SIPIL,0,0,2,0.167,0.279,0.200
+Kalah,4,KOTA SUKABUMI (JAWA BARAT)  ,PARPOL,"JONA ARIZONA, S.IP., MM.","DR. H. MUHAMAD NOOR HANAFIE ZAIN, M.SI.",L,L,37,60,SIPIL,SIPIL,0,0,3,0.250,0.441,0.371
+Menang,4,KOTA SUKABUMI (JAWA BARAT)  ,PARPOL,H. ACHMAD FAHMI,H. ANDRI SETIAWAN HAMAMI,L,L,44,52,SIPIL,SIPIL,2,0,2,0.167,0.180,0.200
+Kalah,4,KOTA SUKABUMI (JAWA BARAT)  ,PARPOL,"DR. H. MULYONO, MM.",HJ. IMA SLAMET,L,P,60,47,SIPIL,SIPIL,0,0,3,0.250,0.220,0.200
+Kalah,4,KOTA SUKABUMI (JAWA BARAT)  ,PARPOL,"DEDI RANTJANI WIDJAJA, SE., MM.","HIKMAT NURISTAWAN, SE., MM.",L,L,51,47,SIPIL,SIPIL,0,0,2,0.167,0.159,0.229
+Kalah,3,KOTA BANDUNG (JAWA BARAT)  ,PARPOL,NURUL QOMARIL ARIFIN,CHAIRUL YAQIN HIDAYAT,P,L,52,47,SIPIL,SIPIL,0,0,3,0.250,0.355,0.260
+Kalah,3,KOTA BANDUNG (JAWA BARAT)  ,PARPOL,"DR. H. YOSSI IRIANTO, M.SI","ARIES SUPRIYATNA, SH., MH",L,L,56,49,SIPIL,SIPIL,0,0,4,0.333,0.357,0.480
+Menang,3,KOTA BANDUNG (JAWA BARAT)  ,PARPOL,ODED MOHAMAD DANIAL,H. YANA MULYANA,L,L,56,53,SIPIL,SIPIL,2,0,2,0.167,0.202,0.260
+Kalah,2,KOTA CIREBON (JAWA BARAT)  ,PARPOL,"BAMUNAS SETIAWAN BOEDIMAN, MBA","EFFENDI EDO, SAP., M.SI",L,L,54,53,SIPIL,SIPIL,0,0,3,0.250,0.427,0.371
+Menang,2,KOTA CIREBON (JAWA BARAT)  ,PARPOL,"DRS. NASHRUDIN AZIS, SH",DRA. HJ. ETI HERAWATI,L,P,53,52,SIPIL,SIPIL,1,0,5,0.417,0.286,0.371
+Menang,2,KOTA BEKASI (JAWA BARAT)  ,PARPOL,DR. RAHMAT EFFENDI,"DR. TRI ADHIANTO TJAHYONO, SE, MM",L,L,54,48,SIPIL,SIPIL,1,0,7,0.583,0.734,0.740
+Kalah,2,KOTA BEKASI (JAWA BARAT)  ,PARPOL,"DR. NUR SUPRIYANTO, MM","DR. H. ADHY FIRDAUS SAADY, MM",L,L,53,56,SIPIL,SIPIL,0,0,2,0.167,0.202,0.260
+Menang,2,KOTA BANJAR (JAWA BARAT)  ,PARPOL,"HJ. ADE UU SUKAESIH, S.IP, M.SI",NANA SURYANA,P,L,65,49,SIPIL,SIPIL,1,0,3,0.250,0.441,0.440
+Kalah,2,KOTA BANJAR (JAWA BARAT)  ,PARPOL,MAMAN SURYAMAN,DR. HJ. IRMA DARMAWATIE BASTAMAN,L,P,59,55,SIPIL,SIPIL,0,0,6,0.500,0.495,0.560
+Menang,2,JAWA TENGAH  ,PARPOL,"H. GANJAR PRANOWO, S.H, M.IP",H. TAJ YASIN,L,L,50,35,SIPIL,SIPIL,1,0,4,0.333,0.438,0.480
+Kalah,2,JAWA TENGAH  ,PARPOL,H. SUDIRMAN SAID,HJ. IDA FAUZIYAH,L,P,55,49,SIPIL,SIPIL,0,0,4,0.333,0.371,0.420
+Kalah,2,BANYUMAS (JAWA TENGAH)  ,PARPOL,"DRS. H. MARDJOKO, MM","DR. IR. H. IFAN HARYANTO, M.SC",L,L,72,43,SIPIL,SIPIL,0,0,6,0.500,0.604,0.600
+Menang,2,BANYUMAS (JAWA TENGAH)  ,PARPOL,IR. H. ACHMAD HUSEIN,DRS. H. SADEWO TRI LASTIONO,L,L,59,52,SIPIL,SIPIL,1,0,3,0.250,0.368,0.400
+Menang,2,MAGELANG (JAWA TENGAH)  ,PARPOL,"ZAENAL ARIFIN, S.IP","EDI CAHYANA, SE",L,L,42,54,SIPIL,SIPIL,1,0,5,0.417,0.543,0.640
+Kalah,2,MAGELANG (JAWA TENGAH)  ,PARPOL,"H.M. ZAENAL ARIFIN, SH","H. ROHADI PRATOTO, SH, M.SI",L,L,54,57,SIPIL,SIPIL,2,0,3,0.250,0.364,0.360
+Kalah,2,KARANGANYAR (JAWA TENGAH)  ,PARPOL,"H. ROHADI WIDODO, SP.","IDA RETNO WAHYUNINGSIH, SE",L,P,45,39,SIPIL,SIPIL,2,0,2,0.167,0.202,0.222
+Menang,2,KARANGANYAR (JAWA TENGAH)  ,PARPOL,"DRS. H. JULIYATMONO, MM.","H. ROBER CHRISTANTO, SE",L,L,52,45,SIPIL,SIPIL,1,0,7,0.583,0.734,0.778
+Kalah,5,KUDUS (JAWA TENGAH)  ,PARPOL,"MASAN, SE, MM","DRS. H. NOOR YASIN, MM",L,L,41,60,SIPIL,SIPIL,0,0,4,0.333,0.552,0.422
+Kalah,5,KUDUS (JAWA TENGAH)  ,PERORANGAN,"H. NOR HARTOYO, SH","JUNAIDI, SH",L,L,48,49,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,5,KUDUS (JAWA TENGAH)  ,PARPOL,"HJ. SRI HARTINI, ST","H. SETIA BUDI WIBOWO, S.AG, MM",P,L,50,49,SIPIL,SIPIL,0,0,3,0.250,0.202,0.222
+Kalah,5,KUDUS (JAWA TENGAH)  ,PERORANGAN,"H. AKHWAN, SH","H. HADI SUCIPTO, S.PD, MM",L,L,55,61,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,5,KUDUS (JAWA TENGAH)  ,PARPOL,"IR. H. MUHAMMAD TAMZIL, MT","HM. HARTOPO, ST, MM, MH",L,L,57,51,SIPIL,SIPIL,0,0,3,0.250,0.182,0.267
+Kalah,3,TEMANGGUNG (JAWA TENGAH)  ,PARPOL,DRS. H M BAMBANG SUKARNO,MATOHA,L,L,59,52,SIPIL,SIPIL,1,0,2,0.167,0.279,0.289
+Kalah,3,TEMANGGUNG (JAWA TENGAH)  ,PARPOL,HARYO DEWANDONO,IRAWAN PRASETYADI,L,L,57,51,SIPIL,SIPIL,0,2,3,0.250,0.202,0.222
+Menang,3,TEMANGGUNG (JAWA TENGAH)  ,PARPOL,H.M. AL KHADZIQ,DRS.R.HERI IBNU WIBOWO,L,L,51,49,SIPIL,SIPIL,0,0,4,0.333,0.448,0.422
+Kalah,3,TEGAL (JAWA TENGAH)  ,PARPOL,H. RUSBANDI,"H. FATCHUDDIN, SE",L,L,66,59,SIPIL,SIPIL,0,0,2,0.167,0.232,0.200
+Kalah,3,TEGAL (JAWA TENGAH)  ,PARPOL,"DRS. H. HARON BAGAS PRAKOSA, M.HUM","H. DRAJAT ADI PRAYITNO, S.KOM, MM",L,L,56,46,SIPIL,SIPIL,0,0,3,0.250,0.368,0.300
+Menang,3,TEGAL (JAWA TENGAH)  ,PARPOL,DRA. HJ. UMI AZIZAH,"SABILILLAH ARDIE, B.SC",P,L,58,35,SIPIL,SIPIL,2,0,5,0.417,0.400,0.500
+Kalah,5,KOTA TEGAL (JAWA TENGAH)  ,PARPOL,H.M. NURSHOLEH,H. WARTONO,L,L,61,57,SIPIL,SIPIL,1,0,2,0.167,0.191,0.200
+Kalah,5,KOTA TEGAL (JAWA TENGAH)  ,PERORANGAN,H. A. GHAUTSUN,DR. H. MUSLIH DAHLAN,L,L,55,52,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Menang,5,KOTA TEGAL (JAWA TENGAH)  ,PARPOL,"H. DEDY YON SUPRIYONO, S.E., M.M.","MUHAMAD JUMADI, S.T., M.M.",L,L,38,47,SIPIL,SIPIL,0,0,5,0.417,0.466,0.333
+Kalah,5,KOTA TEGAL (JAWA TENGAH)  ,PARPOL,"K. H. HABIB ALI ZAENAL ABIDIN, S.E., M.H.","HJ. TANTY PRASETYO NINGRUM, S.H., M.M.",L,P,60,44,SIPIL,SIPIL,0,0,1,0.083,0.195,0.267
+Kalah,5,KOTA TEGAL (JAWA TENGAH)  ,PARPOL,"HERUJITO, S.I.P.",SUGONO,L,L,45,50,SIPIL,SIPIL,0,0,2,0.167,0.148,0.200
+Menang,2,JAWA TIMUR  ,PARPOL,KHOFIFAH INDAR PARAWANSA,"DR. EMIL ELESTIANTO, M.SC.",P,L,53,34,SIPIL,SIPIL,0,0,6,0.500,0.520,0.420
+Kalah,2,JAWA TIMUR  ,PARPOL,DRS. H. SAIFULLAH YUSUF,PUTI GUNTUR SOEKARNO,L,P,54,47,SIPIL,SIPIL,2,0,4,0.333,0.480,0.580
+Kalah,2,TULUNGAGUNG (JAWA TIMUR)  ,PARPOL,MARGIONO,EKO PRISDIANTO,L,L,58,46,SIPIL,SIPIL,0,0,9,0.750,0.741,0.740
+Menang,2,TULUNGAGUNG (JAWA TIMUR)  ,PARPOL,"SYAHRI MULYO. SE., M.SI","DRS. H. MARYOTO BIROWO, MM",L,L,51,65,SIPIL,SIPIL,1,2,2,0.167,0.259,0.260
+Menang,3,LUMAJANG (JAWA TIMUR)  ,PARPOL,"H. THORIQUL HAQ, MML","IR. HJ. INDAH AMPERAWATI, M.SI",L,P,41,52,SIPIL,SIPIL,0,0,2,0.167,0.214,0.280
+Kalah,3,LUMAJANG (JAWA TIMUR)  ,PARPOL,"DRS. H. ASAT, M.AG",H. THORIQ,L,L,54,57,SIPIL,SIPIL,1,0,3,0.250,0.309,0.300
+Kalah,3,LUMAJANG (JAWA TIMUR)  ,PARPOL,"H. ROFIK, SH., MH",IR. NURUL HUDA,L,L,55,52,SIPIL,SIPIL,0,0,5,0.417,0.477,0.420
+Menang,2,BONDOWOSO (JAWA TIMUR)  ,PARPOL,DRS. KH. SALWA ARIFIN,"H. IRWAN BACHTIAR RACHMAT,SE.M.SI",L,L,63,51,SIPIL,SIPIL,2,0,2,0.167,0.264,0.289
+Kalah,2,BONDOWOSO (JAWA TIMUR)  ,PARPOL,H. AHMAD DHAFIR,DRS. HIDAYAT.M.SI,L,L,58,59,SIPIL,SIPIL,0,0,7,0.583,0.707,0.622
+Menang,2,PROBOLINGGO (JAWA TIMUR)  ,PARPOL,HJ. PUPUT TANTRIANA SARI,DRS. H. A. TIMBUL PRIHANJOKO,P,L,35,50,SIPIL,SIPIL,1,2,5,0.417,0.621,0.756
+Kalah,2,PROBOLINGGO (JAWA TIMUR)  ,PARPOL,"H. ABDUL MALIK HARAMAIN, M.SI","H. MOHAMMAD MUZAYYAN, M.H.I",L,L,46,40,SIPIL,SIPIL,0,0,2,0.167,0.193,0.200
+Menang,1,PASURUAN (JAWA TIMUR)  ,PARPOL,MOHAMMAD IRSYAD YUSUF,"K.H. A. MUJIB IMRON, SH., MH",L,L,48,52,SIPIL,SIPIL,1,0,9,0.750,0.914,1.000
+Menang,3,JOMBANG (JAWA TIMUR)  ,PARPOL,HJ. MUNDJIDAH WAHAB,SUMRAMBAH,P,L,70,43,SIPIL,SIPIL,2,0,3,0.250,0.309,0.240
+Kalah,3,JOMBANG (JAWA TIMUR)  ,PARPOL,DRS. EC. H. NYONO SUHARLI WIHANDOKO,"DRS. M. SUBAIDI, M.SI.",L,L,56,53,SIPIL,SIPIL,1,0,5,0.417,0.468,0.540
+Kalah,3,JOMBANG (JAWA TIMUR)  ,PARPOL,"DR.SYAFIIN, SH, MM, MH","H. CHOIRUL ANAM, ST",L,L,56,46,TNI/POLRI,SIPIL,0,0,2,0.167,0.223,0.220
+Menang,3,NGANJUK (JAWA TIMUR)  ,PARPOL,"H. NOVI RAHMAN HIDHAYAT, S.SOS., MM.","DR. DRS. H. MARHAEN DJUMADI, SE, SH, MM, MBA",L,L,38,50,SIPIL,SIPIL,0,0,3,0.250,0.307,0.444
+Kalah,3,NGANJUK (JAWA TIMUR)  ,PARPOL,"IR. SITI NURHAYATI, MM.","BIMANTORO WIYONO, SH",P,L,65,30,SIPIL,SIPIL,0,0,4,0.333,0.395,0.311
+Kalah,3,NGANJUK (JAWA TIMUR)  ,PARPOL,"DESY NATALIA WIDYA, SIP","DRS. AINUL YAKIN, M.SI",P,L,38,51,SIPIL,SIPIL,0,0,3,0.250,0.298,0.244
+Menang,3,MADIUN (JAWA TIMUR)  ,PARPOL,"H.AHMAD DAWAMI RAGIL SAPUTRO,S.SOS","H.HARI WURYANTO,SH,M.AK",L,L,41,54,SIPIL,SIPIL,0,0,3,0.250,0.271,0.289
+Kalah,3,MADIUN (JAWA TIMUR)  ,PARPOL,"RIO WING DINARYHADI,ST",IR.SUKIMAN.M.SI,L,L,37,61,SIPIL,SIPIL,0,0,4,0.333,0.300,0.244
+Kalah,3,MADIUN (JAWA TIMUR)  ,PARPOL,DRS.DJOKO SETIJONO,"SUPRAPTO,SE",L,L,54,56,SIPIL,SIPIL,0,0,2,0.167,0.279,0.467
+Kalah,3,MAGETAN (JAWA TIMUR)  ,PARPOL,SUYATNI PRIASMORO,NUR WAHID,L,L,49,37,SIPIL,SIPIL,0,0,2,0.167,0.148,0.200
+Kalah,3,MAGETAN (JAWA TIMUR)  ,PARPOL,"IR. H. SH. MIRATUL MUKMININ, MM","JOKO SUYONO, S.SOS",L,L,57,46,SIPIL,SIPIL,0,0,5,0.417,0.645,0.578
+Menang,3,MAGETAN (JAWA TIMUR)  ,PARPOL,"DR. DRS. SUPRAWOTO, SH, M.SI","HJ. NANIK ENDANG RUSMINIARTI, M.PD",L,P,62,59,SIPIL,SIPIL,0,0,2,0.167,0.179,0.200
+Kalah,4,BOJONEGORO (JAWA TIMUR)  ,PARPOL,"DRS. H. SOEHADI MOELJONO, MM.","HJ. MITRO'ATIN, S.PD.",L,P,58,48,SIPIL,SIPIL,0,0,2,0.167,0.271,0.280
+Kalah,4,BOJONEGORO (JAWA TIMUR)  ,PARPOL,"DRA. MAHFUDHOH, M.SI.","DRS. H. KUSWIYANTO, M.SI.",P,L,53,53,SIPIL,SIPIL,0,0,3,0.250,0.179,0.200
+Menang,4,BOJONEGORO (JAWA TIMUR)  ,PARPOL,DR. HJ. ANNA MU'AWANAH,"DRS. H. BUDI IRAWANTO, M.PD.",P,L,50,51,SIPIL,SIPIL,0,0,2,0.167,0.279,0.220
+Kalah,4,BOJONEGORO (JAWA TIMUR)  ,PARPOL,"DRS. H. BASUKI, M.PD., M.PD.I.","PUDJI DEWANTO, SH., MM.",L,L,57,48,SIPIL,SIPIL,0,0,2,0.167,0.200,0.200
+Kalah,3,BANGKALAN (JAWA TIMUR)  ,PARPOL,"DR. H. MOCH. FARID AL FAUZI, ST, MM","DRS. EC. SUDARMAWAN, MM",L,L,49,60,SIPIL,SIPIL,0,0,4,0.333,0.418,0.420
+Kalah,3,BANGKALAN (JAWA TIMUR)  ,PARPOL,"H. IMAM BUCHORI, SH",IR. H. MONDIR A. ROFII,L,L,48,56,SIPIL,SIPIL,0,2,3,0.250,0.220,0.180
+Menang,3,BANGKALAN (JAWA TIMUR)  ,PARPOL,R. ABDUL LATIF AMIN IMRON,"DRS. MOHNI, MM",L,L,36,59,SIPIL,SIPIL,0,0,3,0.250,0.363,0.380
+Menang,3,SAMPANG (JAWA TIMUR)  ,PARPOL,H. SLAMET JUNAIDI,H. ABDULLAH HIDAYAT,L,L,46,34,SIPIL,SIPIL,0,0,5,0.417,0.563,0.311
+Kalah,3,SAMPANG (JAWA TIMUR)  ,PARPOL,"DRH.H. HERMANTO SUBAIDI, M.SI",H. SUPARTO,L,L,56,35,SIPIL,SIPIL,0,0,3,0.250,0.214,0.400
+Kalah,3,SAMPANG (JAWA TIMUR)  ,PARPOL,H. HISAN. SE,H. ABDULLAH. SE,L,L,49,50,SIPIL,SIPIL,0,0,2,0.167,0.195,0.200
+Menang,2,PAMEKASAN (JAWA TIMUR)  ,PARPOL,"H. BADRUT TAMAM, S.PSI","RAJA'E, S.HI",L,L,42,42,SIPIL,SIPIL,0,0,4,0.333,0.371,0.356
+Kalah,2,PAMEKASAN (JAWA TIMUR)  ,PARPOL,"DR. KH. KHOLILURRAHMAN, SH.,M.SI","FATHOR ROHMAN, M.SI",L,L,58,41,SIPIL,SIPIL,0,0,4,0.333,0.405,0.511
+Kalah,3,KOTA KEDIRI (JAWA TIMUR)  ,PARPOL,AIZZUDIN,SUDJONO TEGUH WIDJAJA,L,L,39,48,SIPIL,SIPIL,0,0,4,0.333,0.446,0.400
+Menang,3,KOTA KEDIRI (JAWA TIMUR)  ,PARPOL,ABDULLAH ABU BAKAR,LILIK MUHIBBAH,L,P,38,56,SIPIL,SIPIL,1,2,4,0.333,0.330,0.400
+Kalah,3,KOTA KEDIRI (JAWA TIMUR)  ,PARPOL,"DR. SAMSUL ASHAR, SP.PD","TEGUH JUNIADI, SE",L,L,57,44,SIPIL,SIPIL,0,0,2,0.167,0.223,0.200
+Kalah,3,KOTA MALANG (JAWA TIMUR)  ,PARPOL,"YA'QUD ANANDA GUDBAN, SS, MM.",H. WANEDI,P,L,43,49,SIPIL,SIPIL,0,0,5,0.417,0.443,0.489
+Kalah,3,KOTA MALANG (JAWA TIMUR)  ,PARPOL,H. ANTON,"H. SYAMSUL MAHMUD, SE",L,L,53,45,SIPIL,SIPIL,1,0,3,0.250,0.286,0.289
+Menang,3,KOTA MALANG (JAWA TIMUR)  ,PARPOL,SUTIAJI,SOFYAN EDI JARWOKO,L,L,54,51,SIPIL,SIPIL,2,0,2,0.167,0.271,0.222
+Kalah,4,KOTA PROBOLINGGO (JAWA TIMUR)  ,PERORANGAN,SUWITO,FERRY RAHYUWONO,L,L,46,44,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,4,KOTA PROBOLINGGO (JAWA TIMUR)  ,PARPOL,"H. FERNANDA ZULKARNAIN, BSEE.MSCS.",IR. H. ZULFIKAR IMAWAN,L,L,34,49,SIPIL,SIPIL,0,0,4,0.333,0.427,0.500
+Kalah,4,KOTA PROBOLINGGO (JAWA TIMUR)  ,PARPOL,SYAMSU ALAM,"KULUP WIDYONO, SE",L,L,48,57,SIPIL,SIPIL,0,0,1,0.083,0.195,0.267
+Menang,4,KOTA PROBOLINGGO (JAWA TIMUR)  ,PARPOL,"HABIB HADI ZAINAL ABIDIN, S.PD., MM., M.HP.",MOCH. SOUFIS SUBRI,L,L,39,45,SIPIL,SIPIL,0,0,3,0.250,0.264,0.233
+Kalah,4,KOTA MOJOKERTO (JAWA TIMUR)  ,PARPOL,"DR. H. AKMAL BOEDIANTO, SH, M.SI",RAMBO GARUDO,L,L,61,33,SIPIL,SIPIL,0,0,1,0.083,0.195,0.240
+Kalah,4,KOTA MOJOKERTO (JAWA TIMUR)  ,PARPOL,ANDY SOEBJAKTO MOLANGGATO,"ADE RIA SURYANI, SH., MH",L,P,49,39,SIPIL,SIPIL,0,0,3,0.250,0.263,0.280
+Kalah,4,KOTA MOJOKERTO (JAWA TIMUR)  ,PARPOL,WARSITO,MOELJADI,L,L,49,46,SIPIL,SIPIL,0,0,2,0.167,0.157,0.240
+Menang,4,KOTA MOJOKERTO (JAWA TIMUR)  ,PARPOL,"HJ. IKA PUSPITASARI, SE",ACHMAD RIZAL ZAKARIA,P,L,39,55,SIPIL,SIPIL,0,0,2,0.167,0.293,0.240
+Menang,3,KOTA MADIUN (JAWA TIMUR)  ,PARPOL,"DRS. H. MAIDI, SH, MM, M.PD","INDA RAYA AYU MIKO SAPUTRI, S.E., MIB",L,P,57,37,SIPIL,SIPIL,0,0,5,0.417,0.543,0.667
+Kalah,3,KOTA MADIUN (JAWA TIMUR)  ,PERORANGAN,DR. HARRYADIN MAHARDIKA,"ARIEF RAHMAN, S.T., M.M.",L,L,38,42,SIPIL,SIPIL,0,0,0,0.000,0.000,0.000
+Kalah,3,KOTA MADIUN (JAWA TIMUR)  ,PARPOL,"YUSUF ROHANA, ST","BAMBANG WAHYUDI, ST",L,L,50,42,SIPIL,SIPIL,0,0,3,0.250,0.364,0.233
